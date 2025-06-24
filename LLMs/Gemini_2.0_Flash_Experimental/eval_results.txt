@@ -1,0 +1,45 @@
+=== Evaluation: Social Media Logo Presence (yes/no) ===
+[[ 0  0]
+ [ 2 97]]
+              precision    recall  f1-score   support
+
+          no       0.00      0.00      0.00         0
+         yes       1.00      0.98      0.99        99
+
+    accuracy                           0.98        99
+   macro avg       0.50      0.49      0.49        99
+weighted avg       1.00      0.98      0.99        99
+
+
+=== Evaluation: Social Media Logo Types (multi-label classification) ===
+Labels: ['discord' 'facebook' 'instagram' 'linkedin' 'meta' 'parler' 'pinterest'
+ 'rumble' 'snapchat' 'tiktok' 'truth social' 'twitter' 'twitter (x)'
+ 'youtube']
+Precision (macro): 0.8961675579322638
+Recall (macro): 0.8669467787114845
+F1-score (macro): 0.8718918336565397
+
+Per-label performance:
+               precision    recall  f1-score   support
+
+     discord       1.00      1.00      1.00         1
+    facebook       1.00      1.00      1.00        19
+   instagram       1.00      1.00      1.00        23
+    linkedin       1.00      1.00      1.00         1
+        meta       1.00      1.00      1.00         1
+      parler       1.00      1.00      1.00        14
+   pinterest       1.00      0.50      0.67         2
+      rumble       1.00      1.00      1.00         2
+    snapchat       0.67      1.00      0.80         2
+      tiktok       1.00      1.00      1.00        29
+truth social       0.00      0.00      0.00         1
+     twitter       0.97      0.97      0.97        34
+ twitter (x)       0.91      0.67      0.77        15
+     youtube       1.00      1.00      1.00         2
+
+   micro avg       0.98      0.95      0.96       146
+   macro avg       0.90      0.87      0.87       146
+weighted avg       0.97      0.95      0.96       146
+ samples avg       0.96      0.95      0.95       146
+
+✅ All predicted labels appear in gold standard.
