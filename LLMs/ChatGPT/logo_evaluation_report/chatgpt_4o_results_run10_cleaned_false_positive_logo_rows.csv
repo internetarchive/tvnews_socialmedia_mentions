@@ -1,0 +1,6 @@
+filename,gold,predicted,false_positives
+FOXNEWSW_20200314_030000_Fox_News_at_Night_With_Shannon_Bream-000874.jpg,set(),{'Snapchat'},{'Snapchat'}
+FOXNEWSW_20200314_030000_Fox_News_at_Night_With_Shannon_Bream-001067.jpg,set(),{'TikTok'},{'TikTok'}
+FOXNEWSW_20200314_030000_Fox_News_at_Night_With_Shannon_Bream-001618.jpg,set(),"{'Instagram', 'Twitter', 'Facebook'}","{'Instagram', 'Twitter', 'Facebook'}"
+FOXNEWSW_20200314_030000_Fox_News_at_Night_With_Shannon_Bream-001619.jpg,set(),"{'Instagram', 'Twitter', 'Facebook'}","{'Instagram', 'Twitter', 'Facebook'}"
+FOXNEWSW_20200314_030000_Fox_News_at_Night_With_Shannon_Bream-003446.jpg,set(),{'LinkedIn'},{'LinkedIn'}

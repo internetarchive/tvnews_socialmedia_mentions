@@ -1,0 +1,4 @@
+filename,gold,predicted,false_negatives
+FOXNEWSW_20200314_030000_Fox_News_at_Night_With_Shannon_Bream-000052.jpg,{'Twitter'},set(),{'Twitter'}
+FOXNEWSW_20200314_030000_Fox_News_at_Night_With_Shannon_Bream-001103.jpg,{'Instagram'},set(),{'Instagram'}
+FOXNEWSW_20200314_030000_Fox_News_at_Night_With_Shannon_Bream-003047.jpg,{'Twitter'},set(),{'Twitter'}

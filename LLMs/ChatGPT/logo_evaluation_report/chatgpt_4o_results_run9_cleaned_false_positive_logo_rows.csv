@@ -1,0 +1,118 @@
+filename,gold,predicted,false_positives
+FOXNEWSW_20200314_030000_Fox_News_at_Night_With_Shannon_Bream-000079.jpg,set(),{'Twitter (X)'},{'Twitter (X)'}
+FOXNEWSW_20200314_030000_Fox_News_at_Night_With_Shannon_Bream-000080.jpg,set(),{'Twitter'},{'Twitter'}
+FOXNEWSW_20200314_030000_Fox_News_at_Night_With_Shannon_Bream-000084.jpg,set(),{'Twitter'},{'Twitter'}
+FOXNEWSW_20200314_030000_Fox_News_at_Night_With_Shannon_Bream-000106.jpg,set(),{'Twitter (X)'},{'Twitter (X)'}
+FOXNEWSW_20200314_030000_Fox_News_at_Night_With_Shannon_Bream-000160.jpg,set(),{'Twitter'},{'Twitter'}
+FOXNEWSW_20200314_030000_Fox_News_at_Night_With_Shannon_Bream-000161.jpg,set(),"{'Twitter', 'Facebook'}","{'Twitter', 'Facebook'}"
+FOXNEWSW_20200314_030000_Fox_News_at_Night_With_Shannon_Bream-000167.jpg,set(),{'Twitter (X)'},{'Twitter (X)'}
+FOXNEWSW_20200314_030000_Fox_News_at_Night_With_Shannon_Bream-000170.jpg,set(),{'Twitter'},{'Twitter'}
+FOXNEWSW_20200314_030000_Fox_News_at_Night_With_Shannon_Bream-000174.jpg,set(),"{'Twitter', 'Facebook'}","{'Twitter', 'Facebook'}"
+FOXNEWSW_20200314_030000_Fox_News_at_Night_With_Shannon_Bream-000204.jpg,set(),{'Twitter'},{'Twitter'}
+FOXNEWSW_20200314_030000_Fox_News_at_Night_With_Shannon_Bream-000221.jpg,set(),"{'Twitter', 'Facebook'}","{'Twitter', 'Facebook'}"
+FOXNEWSW_20200314_030000_Fox_News_at_Night_With_Shannon_Bream-000224.jpg,set(),"{'Twitter', 'Instagram'}","{'Twitter', 'Instagram'}"
+FOXNEWSW_20200314_030000_Fox_News_at_Night_With_Shannon_Bream-000233.jpg,set(),"{'Twitter', 'Facebook'}","{'Twitter', 'Facebook'}"
+FOXNEWSW_20200314_030000_Fox_News_at_Night_With_Shannon_Bream-000234.jpg,set(),"{'Twitter', 'Instagram'}","{'Twitter', 'Instagram'}"
+FOXNEWSW_20200314_030000_Fox_News_at_Night_With_Shannon_Bream-000256.jpg,set(),{'Twitter'},{'Twitter'}
+FOXNEWSW_20200314_030000_Fox_News_at_Night_With_Shannon_Bream-000257.jpg,set(),{'Twitter'},{'Twitter'}
+FOXNEWSW_20200314_030000_Fox_News_at_Night_With_Shannon_Bream-000258.jpg,set(),{'Twitter'},{'Twitter'}
+FOXNEWSW_20200314_030000_Fox_News_at_Night_With_Shannon_Bream-000260.jpg,set(),{'Twitter'},{'Twitter'}
+FOXNEWSW_20200314_030000_Fox_News_at_Night_With_Shannon_Bream-000267.jpg,set(),"{'Twitter', 'Facebook'}","{'Twitter', 'Facebook'}"
+FOXNEWSW_20200314_030000_Fox_News_at_Night_With_Shannon_Bream-000281.jpg,set(),{'Twitter'},{'Twitter'}
+FOXNEWSW_20200314_030000_Fox_News_at_Night_With_Shannon_Bream-000286.jpg,set(),{'Twitter (X)'},{'Twitter (X)'}
+FOXNEWSW_20200314_030000_Fox_News_at_Night_With_Shannon_Bream-000287.jpg,set(),"{'Twitter', 'Facebook'}","{'Twitter', 'Facebook'}"
+FOXNEWSW_20200314_030000_Fox_News_at_Night_With_Shannon_Bream-000292.jpg,set(),{'Twitter'},{'Twitter'}
+FOXNEWSW_20200314_030000_Fox_News_at_Night_With_Shannon_Bream-000295.jpg,set(),"{'Twitter', 'Facebook'}","{'Twitter', 'Facebook'}"
+FOXNEWSW_20200314_030000_Fox_News_at_Night_With_Shannon_Bream-000300.jpg,set(),"{'Twitter', 'Facebook'}","{'Twitter', 'Facebook'}"
+FOXNEWSW_20200314_030000_Fox_News_at_Night_With_Shannon_Bream-000307.jpg,set(),{'Twitter'},{'Twitter'}
+FOXNEWSW_20200314_030000_Fox_News_at_Night_With_Shannon_Bream-000308.jpg,set(),{'Twitter'},{'Twitter'}
+FOXNEWSW_20200314_030000_Fox_News_at_Night_With_Shannon_Bream-000311.jpg,set(),{'Twitter'},{'Twitter'}
+FOXNEWSW_20200314_030000_Fox_News_at_Night_With_Shannon_Bream-000341.jpg,set(),{'Twitter'},{'Twitter'}
+FOXNEWSW_20200314_030000_Fox_News_at_Night_With_Shannon_Bream-000347.jpg,set(),"{'Twitter', 'Instagram'}","{'Twitter', 'Instagram'}"
+FOXNEWSW_20200314_030000_Fox_News_at_Night_With_Shannon_Bream-000348.jpg,set(),{'Twitter'},{'Twitter'}
+FOXNEWSW_20200314_030000_Fox_News_at_Night_With_Shannon_Bream-000361.jpg,set(),{'Twitter'},{'Twitter'}
+FOXNEWSW_20200314_030000_Fox_News_at_Night_With_Shannon_Bream-000375.jpg,set(),{'Twitter'},{'Twitter'}
+FOXNEWSW_20200314_030000_Fox_News_at_Night_With_Shannon_Bream-000384.jpg,set(),{'Twitter'},{'Twitter'}
+FOXNEWSW_20200314_030000_Fox_News_at_Night_With_Shannon_Bream-000414.jpg,set(),{'Twitter'},{'Twitter'}
+FOXNEWSW_20200314_030000_Fox_News_at_Night_With_Shannon_Bream-000416.jpg,set(),{'Twitter'},{'Twitter'}
+FOXNEWSW_20200314_030000_Fox_News_at_Night_With_Shannon_Bream-000420.jpg,set(),{'Twitter'},{'Twitter'}
+FOXNEWSW_20200314_030000_Fox_News_at_Night_With_Shannon_Bream-000508.jpg,set(),{'Twitter'},{'Twitter'}
+FOXNEWSW_20200314_030000_Fox_News_at_Night_With_Shannon_Bream-000512.jpg,set(),{'Twitter'},{'Twitter'}
+FOXNEWSW_20200314_030000_Fox_News_at_Night_With_Shannon_Bream-000523.jpg,set(),{'Twitter'},{'Twitter'}
+FOXNEWSW_20200314_030000_Fox_News_at_Night_With_Shannon_Bream-000531.jpg,set(),{'Twitter'},{'Twitter'}
+FOXNEWSW_20200314_030000_Fox_News_at_Night_With_Shannon_Bream-000533.jpg,set(),{'Twitter'},{'Twitter'}
+FOXNEWSW_20200314_030000_Fox_News_at_Night_With_Shannon_Bream-000534.jpg,set(),{'Twitter'},{'Twitter'}
+FOXNEWSW_20200314_030000_Fox_News_at_Night_With_Shannon_Bream-000537.jpg,set(),{'Twitter'},{'Twitter'}
+FOXNEWSW_20200314_030000_Fox_News_at_Night_With_Shannon_Bream-000542.jpg,set(),{'Twitter'},{'Twitter'}
+FOXNEWSW_20200314_030000_Fox_News_at_Night_With_Shannon_Bream-000544.jpg,set(),{'Twitter'},{'Twitter'}
+FOXNEWSW_20200314_030000_Fox_News_at_Night_With_Shannon_Bream-000549.jpg,set(),{'Twitter'},{'Twitter'}
+FOXNEWSW_20200314_030000_Fox_News_at_Night_With_Shannon_Bream-000550.jpg,set(),{'Twitter'},{'Twitter'}
+FOXNEWSW_20200314_030000_Fox_News_at_Night_With_Shannon_Bream-000553.jpg,set(),{'Twitter'},{'Twitter'}
+FOXNEWSW_20200314_030000_Fox_News_at_Night_With_Shannon_Bream-000554.jpg,set(),{'Twitter'},{'Twitter'}
+FOXNEWSW_20200314_030000_Fox_News_at_Night_With_Shannon_Bream-000555.jpg,set(),{'Twitter'},{'Twitter'}
+FOXNEWSW_20200314_030000_Fox_News_at_Night_With_Shannon_Bream-000557.jpg,set(),{'Twitter'},{'Twitter'}
+FOXNEWSW_20200314_030000_Fox_News_at_Night_With_Shannon_Bream-000559.jpg,set(),{'Twitter'},{'Twitter'}
+FOXNEWSW_20200314_030000_Fox_News_at_Night_With_Shannon_Bream-000560.jpg,set(),{'Twitter'},{'Twitter'}
+FOXNEWSW_20200314_030000_Fox_News_at_Night_With_Shannon_Bream-000571.jpg,set(),{'Twitter'},{'Twitter'}
+FOXNEWSW_20200314_030000_Fox_News_at_Night_With_Shannon_Bream-000578.jpg,set(),{'Twitter'},{'Twitter'}
+FOXNEWSW_20200314_030000_Fox_News_at_Night_With_Shannon_Bream-000600.jpg,set(),{'Twitter'},{'Twitter'}
+FOXNEWSW_20200314_030000_Fox_News_at_Night_With_Shannon_Bream-000607.jpg,set(),{'Twitter'},{'Twitter'}
+FOXNEWSW_20200314_030000_Fox_News_at_Night_With_Shannon_Bream-000616.jpg,set(),{'Twitter'},{'Twitter'}
+FOXNEWSW_20200314_030000_Fox_News_at_Night_With_Shannon_Bream-000623.jpg,set(),{'Twitter'},{'Twitter'}
+FOXNEWSW_20200314_030000_Fox_News_at_Night_With_Shannon_Bream-000629.jpg,set(),{'Twitter (X)'},{'Twitter (X)'}
+FOXNEWSW_20200314_030000_Fox_News_at_Night_With_Shannon_Bream-000630.jpg,set(),{'Twitter'},{'Twitter'}
+FOXNEWSW_20200314_030000_Fox_News_at_Night_With_Shannon_Bream-000655.jpg,set(),{'Twitter'},{'Twitter'}
+FOXNEWSW_20200314_030000_Fox_News_at_Night_With_Shannon_Bream-000666.jpg,set(),{'Twitter'},{'Twitter'}
+FOXNEWSW_20200314_030000_Fox_News_at_Night_With_Shannon_Bream-000668.jpg,set(),{'Twitter'},{'Twitter'}
+FOXNEWSW_20200314_030000_Fox_News_at_Night_With_Shannon_Bream-000677.jpg,set(),{'Twitter'},{'Twitter'}
+FOXNEWSW_20200314_030000_Fox_News_at_Night_With_Shannon_Bream-000694.jpg,set(),{'Twitter'},{'Twitter'}
+FOXNEWSW_20200314_030000_Fox_News_at_Night_With_Shannon_Bream-000695.jpg,set(),{'Twitter'},{'Twitter'}
+FOXNEWSW_20200314_030000_Fox_News_at_Night_With_Shannon_Bream-000711.jpg,set(),{'Twitter'},{'Twitter'}
+FOXNEWSW_20200314_030000_Fox_News_at_Night_With_Shannon_Bream-000740.jpg,set(),{'Twitter'},{'Twitter'}
+FOXNEWSW_20200314_030000_Fox_News_at_Night_With_Shannon_Bream-000742.jpg,set(),{'Twitter'},{'Twitter'}
+FOXNEWSW_20200314_030000_Fox_News_at_Night_With_Shannon_Bream-000754.jpg,set(),{'Twitter'},{'Twitter'}
+FOXNEWSW_20200314_030000_Fox_News_at_Night_With_Shannon_Bream-000761.jpg,set(),{'Twitter'},{'Twitter'}
+FOXNEWSW_20200314_030000_Fox_News_at_Night_With_Shannon_Bream-000766.jpg,set(),{'Twitter'},{'Twitter'}
+FOXNEWSW_20200314_030000_Fox_News_at_Night_With_Shannon_Bream-000777.jpg,set(),{'Twitter'},{'Twitter'}
+FOXNEWSW_20200314_030000_Fox_News_at_Night_With_Shannon_Bream-000792.jpg,set(),{'Twitter'},{'Twitter'}
+FOXNEWSW_20200314_030000_Fox_News_at_Night_With_Shannon_Bream-000800.jpg,set(),{'Twitter'},{'Twitter'}
+FOXNEWSW_20200314_030000_Fox_News_at_Night_With_Shannon_Bream-000811.jpg,set(),{'Twitter'},{'Twitter'}
+FOXNEWSW_20200314_030000_Fox_News_at_Night_With_Shannon_Bream-000842.jpg,set(),{'Twitter (X)'},{'Twitter (X)'}
+FOXNEWSW_20200314_030000_Fox_News_at_Night_With_Shannon_Bream-000874.jpg,set(),{'Snapchat'},{'Snapchat'}
+FOXNEWSW_20200314_030000_Fox_News_at_Night_With_Shannon_Bream-001067.jpg,set(),{'TikTok'},{'TikTok'}
+FOXNEWSW_20200314_030000_Fox_News_at_Night_With_Shannon_Bream-001107.jpg,set(),{'Twitter'},{'Twitter'}
+FOXNEWSW_20200314_030000_Fox_News_at_Night_With_Shannon_Bream-001110.jpg,set(),{'Twitter (X)'},{'Twitter (X)'}
+FOXNEWSW_20200314_030000_Fox_News_at_Night_With_Shannon_Bream-001116.jpg,set(),{'Twitter (X)'},{'Twitter (X)'}
+FOXNEWSW_20200314_030000_Fox_News_at_Night_With_Shannon_Bream-001130.jpg,set(),{'Twitter (X)'},{'Twitter (X)'}
+FOXNEWSW_20200314_030000_Fox_News_at_Night_With_Shannon_Bream-001295.jpg,set(),{'Twitter'},{'Twitter'}
+FOXNEWSW_20200314_030000_Fox_News_at_Night_With_Shannon_Bream-001296.jpg,set(),{'Twitter'},{'Twitter'}
+FOXNEWSW_20200314_030000_Fox_News_at_Night_With_Shannon_Bream-001299.jpg,set(),{'Twitter'},{'Twitter'}
+FOXNEWSW_20200314_030000_Fox_News_at_Night_With_Shannon_Bream-001306.jpg,set(),{'Twitter'},{'Twitter'}
+FOXNEWSW_20200314_030000_Fox_News_at_Night_With_Shannon_Bream-001309.jpg,set(),{'Twitter'},{'Twitter'}
+FOXNEWSW_20200314_030000_Fox_News_at_Night_With_Shannon_Bream-001424.jpg,set(),{'Twitter'},{'Twitter'}
+FOXNEWSW_20200314_030000_Fox_News_at_Night_With_Shannon_Bream-001447.jpg,set(),{'Twitter'},{'Twitter'}
+FOXNEWSW_20200314_030000_Fox_News_at_Night_With_Shannon_Bream-001449.jpg,set(),{'Twitter'},{'Twitter'}
+FOXNEWSW_20200314_030000_Fox_News_at_Night_With_Shannon_Bream-001451.jpg,set(),{'Twitter'},{'Twitter'}
+FOXNEWSW_20200314_030000_Fox_News_at_Night_With_Shannon_Bream-001457.jpg,set(),{'Twitter'},{'Twitter'}
+FOXNEWSW_20200314_030000_Fox_News_at_Night_With_Shannon_Bream-001461.jpg,set(),{'Twitter'},{'Twitter'}
+FOXNEWSW_20200314_030000_Fox_News_at_Night_With_Shannon_Bream-001467.jpg,set(),{'Twitter'},{'Twitter'}
+FOXNEWSW_20200314_030000_Fox_News_at_Night_With_Shannon_Bream-001475.jpg,set(),{'Twitter'},{'Twitter'}
+FOXNEWSW_20200314_030000_Fox_News_at_Night_With_Shannon_Bream-001479.jpg,set(),{'Twitter'},{'Twitter'}
+FOXNEWSW_20200314_030000_Fox_News_at_Night_With_Shannon_Bream-001482.jpg,set(),{'Twitter'},{'Twitter'}
+FOXNEWSW_20200314_030000_Fox_News_at_Night_With_Shannon_Bream-001484.jpg,set(),{'Twitter'},{'Twitter'}
+FOXNEWSW_20200314_030000_Fox_News_at_Night_With_Shannon_Bream-001485.jpg,set(),{'Twitter'},{'Twitter'}
+FOXNEWSW_20200314_030000_Fox_News_at_Night_With_Shannon_Bream-001493.jpg,set(),{'Twitter'},{'Twitter'}
+FOXNEWSW_20200314_030000_Fox_News_at_Night_With_Shannon_Bream-001506.jpg,set(),{'Twitter'},{'Twitter'}
+FOXNEWSW_20200314_030000_Fox_News_at_Night_With_Shannon_Bream-001511.jpg,set(),{'Twitter'},{'Twitter'}
+FOXNEWSW_20200314_030000_Fox_News_at_Night_With_Shannon_Bream-001515.jpg,set(),{'Twitter'},{'Twitter'}
+FOXNEWSW_20200314_030000_Fox_News_at_Night_With_Shannon_Bream-001555.jpg,set(),{'Twitter'},{'Twitter'}
+FOXNEWSW_20200314_030000_Fox_News_at_Night_With_Shannon_Bream-001618.jpg,set(),"{'Twitter', 'Facebook', 'Instagram'}","{'Twitter', 'Facebook', 'Instagram'}"
+FOXNEWSW_20200314_030000_Fox_News_at_Night_With_Shannon_Bream-001619.jpg,set(),"{'Twitter', 'Facebook', 'Instagram'}","{'Twitter', 'Facebook', 'Instagram'}"
+FOXNEWSW_20200314_030000_Fox_News_at_Night_With_Shannon_Bream-002153.jpg,set(),{'Twitter'},{'Twitter'}
+FOXNEWSW_20200314_030000_Fox_News_at_Night_With_Shannon_Bream-002407.jpg,set(),{'Twitter (X)'},{'Twitter (X)'}
+FOXNEWSW_20200314_030000_Fox_News_at_Night_With_Shannon_Bream-002519.jpg,set(),{'Twitter'},{'Twitter'}
+FOXNEWSW_20200314_030000_Fox_News_at_Night_With_Shannon_Bream-002853.jpg,set(),{'Twitter'},{'Twitter'}
+FOXNEWSW_20200314_030000_Fox_News_at_Night_With_Shannon_Bream-003074.jpg,set(),{'Twitter'},{'Twitter'}
+FOXNEWSW_20200314_030000_Fox_News_at_Night_With_Shannon_Bream-003442.jpg,set(),{'Twitter'},{'Twitter'}
+FOXNEWSW_20200314_030000_Fox_News_at_Night_With_Shannon_Bream-003446.jpg,set(),{'LinkedIn'},{'LinkedIn'}
+FOXNEWSW_20200314_030000_Fox_News_at_Night_With_Shannon_Bream-003581.jpg,set(),{'Instagram'},{'Instagram'}
