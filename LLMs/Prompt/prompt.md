@@ -1,4 +1,4 @@
-Analyze the provided image for any signs of social media references and answer the following questions clearly and concisely. Consider both textual and visual elements. Be specific about platform names, logos, and types of mentions.
+Analyze the provided image (of a TV screen) for any signs of social media references and answer the following questions clearly and concisely. Consider both textual and visual elements. Be specific about platform names, logos, and types of mentions.
 
 Supported Platforms to Consider (not exhaustive): Twitter (bird logo), X (X logo), Facebook, Instagram, Threads, TikTok, YouTube, Truth Social, Parler, Rumble, Snapchat, LinkedIn, Discord, Pinterest
 
@@ -29,15 +29,16 @@ Questions:
    (Answer: “Yes” or “No”)
 
 5. Social Media Logo Type:
-   If yes, specify which platform(s) the logo(s) belong to.
-   - For Twitter-related logos, specify whether it is the “Twitter (bird logo)” or “X (X logo)”
-   - Include all visible logos, even if partial or stylized
+If the image contains one or more social media platform logos, specify which platform(s) they belong to. Only include official logos of known social media platforms (e.g., Twitter, Facebook, Instagram, TikTok, YouTube, Snapchat, LinkedIn, etc.). Do not include random shapes, text, or boxes that may resemble logos. Do not get confused with other logos that may be found on a TV screen.
+For Twitter-related logos, use the following labels: “Twitter (bird logo)” for the blue bird and  “X (X logo)” for the black/white “X” logo. 
+
+Include all visible logos, even if they are: Partial (cut off or obscured) or Stylized (slightly altered but still clearly recognizable as an official social media logo)
 
 6. Social Media Post Screenshot:
    Does the image include a screenshot of a post from a social media platform?
    (Answer: “Yes” or “No”)
 
-7. Screenshot Platform:
+7. Social Media Screenshot Type:
    If a screenshot is present, identify the platform it is from (e.g., Instagram, Twitter, Truth Social, etc.), Otherwise, “N/A”
 
 8. Post Context:
