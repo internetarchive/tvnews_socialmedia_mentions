@@ -25,11 +25,11 @@ Questions:
    - Passing/Humorous Reference (social media mentioned as a passing comment or humorous reference)
 
 4. Social Media Logo:
-   Is a recognizable logo from any social media platform visible in the image?
-   (Answer: “Yes” or “No”)
+   Is a recognizable logo from any social media platform visible in the image? Use only official, recognizable logos of known social media platforms.
+   (Answer: “Yes” or “No” only)
 
 5. Social Media Logo Type:
-If the image contains one or more social media platform logos, specify which platform(s) they belong to. Only include official logos of known social media platforms (e.g., Twitter, Facebook, Instagram, TikTok, YouTube, Snapchat, LinkedIn, etc.). Do not include random shapes, text, or boxes that may resemble logos. Do not get confused with other logos that may be found on a TV screen.
+If the image contains one or more social media platform logos, specify which platform(s) they belong to. Only include official logos of known social media platforms (e.g., Twitter, Facebook, Instagram, TikTok, YouTube, Snapchat, LinkedIn, etc.). Do not include random shapes, text, or boxes that may resemble logos. Do not get confused with other logos that may be found on a TV screen. Do not get confused with @ symbol or logo of the channel (FOX NEWS, MSNBC, or CNN) as a social media mention. 
 For Twitter-related logos, use the following labels: “Twitter (bird logo)” for the blue bird and  “X (X logo)” for the black/white “X” logo. 
 
 Include all visible logos, even if they are: Partial (cut off or obscured) or Stylized (slightly altered but still clearly recognizable as an official social media logo)
