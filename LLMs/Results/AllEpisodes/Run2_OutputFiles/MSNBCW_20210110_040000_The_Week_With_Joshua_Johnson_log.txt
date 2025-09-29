@@ -1,0 +1,3730 @@
+[2025-08-22 05:44:12] 🔄 Processing folder: MSNBCW_20210110_040000_The_Week_With_Joshua_Johnson
+[2025-08-22 05:44:12] 📸 Processing 000000.jpg
+[2025-08-22 05:44:14] ✅ Finished 000000.jpg
+
+[2025-08-22 05:44:14] 📸 Processing 000001.jpg
+[2025-08-22 05:44:17] ✅ Finished 000001.jpg
+
+[2025-08-22 05:44:17] 📸 Processing 000002.jpg
+[2025-08-22 05:44:19] ✅ Finished 000002.jpg
+
+[2025-08-22 05:44:19] 📸 Processing 000003-000008.jpg
+[2025-08-22 05:44:21] ✅ Finished 000003-000008.jpg
+
+[2025-08-22 05:44:21] 📸 Processing 000009.jpg
+[2025-08-22 05:44:23] ✅ Finished 000009.jpg
+
+[2025-08-22 05:44:23] 📸 Processing 000010.jpg
+[2025-08-22 05:44:25] ✅ Finished 000010.jpg
+
+[2025-08-22 05:44:25] 📸 Processing 000011-000017.jpg
+[2025-08-22 05:44:27] ✅ Finished 000011-000017.jpg
+
+[2025-08-22 05:44:27] 📸 Processing 000018.jpg
+[2025-08-22 05:44:30] ✅ Finished 000018.jpg
+
+[2025-08-22 05:44:30] 📸 Processing 000019-000021.jpg
+[2025-08-22 05:44:32] ✅ Finished 000019-000021.jpg
+
+[2025-08-22 05:44:32] 📸 Processing 000022.jpg
+[2025-08-22 05:44:34] ✅ Finished 000022.jpg
+
+[2025-08-22 05:44:34] 📸 Processing 000023.jpg
+[2025-08-22 05:44:37] ✅ Finished 000023.jpg
+
+[2025-08-22 05:44:37] 📸 Processing 000024.jpg
+[2025-08-22 05:44:39] ✅ Finished 000024.jpg
+
+[2025-08-22 05:44:39] 📸 Processing 000025.jpg
+[2025-08-22 05:44:41] ✅ Finished 000025.jpg
+
+[2025-08-22 05:44:41] 📸 Processing 000026-000027.jpg
+[2025-08-22 05:44:44] ✅ Finished 000026-000027.jpg
+
+[2025-08-22 05:44:44] 📸 Processing 000028.jpg
+[2025-08-22 05:44:46] ✅ Finished 000028.jpg
+
+[2025-08-22 05:44:46] 📸 Processing 000029-000037.jpg
+[2025-08-22 05:44:48] ✅ Finished 000029-000037.jpg
+
+[2025-08-22 05:44:48] 📸 Processing 000038.jpg
+[2025-08-22 05:44:50] ✅ Finished 000038.jpg
+
+[2025-08-22 05:44:50] 📸 Processing 000039.jpg
+[2025-08-22 05:44:53] ✅ Finished 000039.jpg
+
+[2025-08-22 05:44:53] 📸 Processing 000040.jpg
+[2025-08-22 05:44:55] ✅ Finished 000040.jpg
+
+[2025-08-22 05:44:55] 📸 Processing 000041-000049.jpg
+[2025-08-22 05:44:58] ✅ Finished 000041-000049.jpg
+
+[2025-08-22 05:44:58] 📸 Processing 000050.jpg
+[2025-08-22 05:45:00] ✅ Finished 000050.jpg
+
+[2025-08-22 05:45:00] 📸 Processing 000051.jpg
+[2025-08-22 05:45:03] ✅ Finished 000051.jpg
+
+[2025-08-22 05:45:03] 📸 Processing 000052.jpg
+[2025-08-22 05:45:06] ✅ Finished 000052.jpg
+
+[2025-08-22 05:45:06] 📸 Processing 000053.jpg
+[2025-08-22 05:45:08] ✅ Finished 000053.jpg
+
+[2025-08-22 05:45:08] 📸 Processing 000054.jpg
+[2025-08-22 05:45:11] ✅ Finished 000054.jpg
+
+[2025-08-22 05:45:11] 📸 Processing 000055.jpg
+[2025-08-22 05:45:13] ✅ Finished 000055.jpg
+
+[2025-08-22 05:45:13] 📸 Processing 000056.jpg
+[2025-08-22 05:45:18] ✅ Finished 000056.jpg
+
+[2025-08-22 05:45:18] 📸 Processing 000057-000058.jpg
+[2025-08-22 05:45:20] ✅ Finished 000057-000058.jpg
+
+[2025-08-22 05:45:20] 📸 Processing 000059-000065.jpg
+[2025-08-22 05:45:23] ✅ Finished 000059-000065.jpg
+
+[2025-08-22 05:45:23] 📸 Processing 000066-000067.jpg
+[2025-08-22 05:45:25] ✅ Finished 000066-000067.jpg
+
+[2025-08-22 05:45:25] 📸 Processing 000068-000075.jpg
+[2025-08-22 05:45:28] ✅ Finished 000068-000075.jpg
+
+[2025-08-22 05:45:28] 📸 Processing 000076-000082.jpg
+[2025-08-22 05:45:29] ✅ Finished 000076-000082.jpg
+
+[2025-08-22 05:45:29] 📸 Processing 000083-000093.jpg
+[2025-08-22 05:45:31] ✅ Finished 000083-000093.jpg
+
+[2025-08-22 05:45:31] 📸 Processing 000094-000102.jpg
+[2025-08-22 05:45:33] ✅ Finished 000094-000102.jpg
+
+[2025-08-22 05:45:33] 📸 Processing 000103-000104.jpg
+[2025-08-22 05:45:35] ✅ Finished 000103-000104.jpg
+
+[2025-08-22 05:45:35] 📸 Processing 000105-000113.jpg
+[2025-08-22 05:45:37] ✅ Finished 000105-000113.jpg
+
+[2025-08-22 05:45:37] 📸 Processing 000114-000118.jpg
+[2025-08-22 05:45:39] ✅ Finished 000114-000118.jpg
+
+[2025-08-22 05:45:39] 📸 Processing 000119-000123.jpg
+[2025-08-22 05:45:41] ✅ Finished 000119-000123.jpg
+
+[2025-08-22 05:45:41] 📸 Processing 000124-000128.jpg
+[2025-08-22 05:45:43] ✅ Finished 000124-000128.jpg
+
+[2025-08-22 05:45:43] 📸 Processing 000129-000138.jpg
+[2025-08-22 05:45:46] ✅ Finished 000129-000138.jpg
+
+[2025-08-22 05:45:46] 📸 Processing 000139-000143.jpg
+[2025-08-22 05:45:49] ✅ Finished 000139-000143.jpg
+
+[2025-08-22 05:45:49] 📸 Processing 000144-000148.jpg
+[2025-08-22 05:45:52] ✅ Finished 000144-000148.jpg
+
+[2025-08-22 05:45:52] 📸 Processing 000149-000153.jpg
+[2025-08-22 05:45:55] ✅ Finished 000149-000153.jpg
+
+[2025-08-22 05:45:55] 📸 Processing 000154.jpg
+[2025-08-22 05:45:57] ✅ Finished 000154.jpg
+
+[2025-08-22 05:45:57] 📸 Processing 000155-000157.jpg
+[2025-08-22 05:46:00] ✅ Finished 000155-000157.jpg
+
+[2025-08-22 05:46:00] 📸 Processing 000158-000162.jpg
+[2025-08-22 05:46:02] ✅ Finished 000158-000162.jpg
+
+[2025-08-22 05:46:02] 📸 Processing 000163.jpg
+[2025-08-22 05:46:05] ✅ Finished 000163.jpg
+
+[2025-08-22 05:46:05] 📸 Processing 000164-000173.jpg
+[2025-08-22 05:46:07] ✅ Finished 000164-000173.jpg
+
+[2025-08-22 05:46:07] 📸 Processing 000174-000182.jpg
+[2025-08-22 05:46:09] ✅ Finished 000174-000182.jpg
+
+[2025-08-22 05:46:09] 📸 Processing 000183-000186.jpg
+[2025-08-22 05:46:12] ✅ Finished 000183-000186.jpg
+
+[2025-08-22 05:46:12] 📸 Processing 000187-000193.jpg
+[2025-08-22 05:46:15] ✅ Finished 000187-000193.jpg
+
+[2025-08-22 05:46:15] 📸 Processing 000194-000226.jpg
+[2025-08-22 05:46:17] ✅ Finished 000194-000226.jpg
+
+[2025-08-22 05:46:17] 📸 Processing 000227.jpg
+[2025-08-22 05:46:20] ✅ Finished 000227.jpg
+
+[2025-08-22 05:46:20] 📸 Processing 000228-000233.jpg
+[2025-08-22 05:46:22] ✅ Finished 000228-000233.jpg
+
+[2025-08-22 05:46:22] 📸 Processing 000234.jpg
+[2025-08-22 05:46:24] ✅ Finished 000234.jpg
+
+[2025-08-22 05:46:24] 📸 Processing 000235-000244.jpg
+[2025-08-22 05:46:27] ✅ Finished 000235-000244.jpg
+
+[2025-08-22 05:46:27] 📸 Processing 000245-000258.jpg
+[2025-08-22 05:46:29] ✅ Finished 000245-000258.jpg
+
+[2025-08-22 05:46:29] 📸 Processing 000259-000260.jpg
+[2025-08-22 05:46:34] ✅ Finished 000259-000260.jpg
+
+[2025-08-22 05:46:34] 📸 Processing 000261.jpg
+[2025-08-22 05:46:37] ✅ Finished 000261.jpg
+
+[2025-08-22 05:46:37] 📸 Processing 000262.jpg
+[2025-08-22 05:46:39] ✅ Finished 000262.jpg
+
+[2025-08-22 05:46:39] 📸 Processing 000263.jpg
+[2025-08-22 05:46:41] ✅ Finished 000263.jpg
+
+[2025-08-22 05:46:41] 📸 Processing 000264.jpg
+[2025-08-22 05:46:43] ✅ Finished 000264.jpg
+
+[2025-08-22 05:46:43] 📸 Processing 000265-000268.jpg
+[2025-08-22 05:46:45] ✅ Finished 000265-000268.jpg
+
+[2025-08-22 05:46:45] 📸 Processing 000269.jpg
+[2025-08-22 05:46:47] ✅ Finished 000269.jpg
+
+[2025-08-22 05:46:47] 📸 Processing 000270.jpg
+[2025-08-22 05:46:49] ✅ Finished 000270.jpg
+
+[2025-08-22 05:46:49] 📸 Processing 000271.jpg
+[2025-08-22 05:46:52] ✅ Finished 000271.jpg
+
+[2025-08-22 05:46:52] 📸 Processing 000272.jpg
+[2025-08-22 05:46:55] ✅ Finished 000272.jpg
+
+[2025-08-22 05:46:55] 📸 Processing 000273-000275.jpg
+[2025-08-22 05:46:58] ✅ Finished 000273-000275.jpg
+
+[2025-08-22 05:46:58] 📸 Processing 000276.jpg
+[2025-08-22 05:47:00] ✅ Finished 000276.jpg
+
+[2025-08-22 05:47:00] 📸 Processing 000277-000282.jpg
+[2025-08-22 05:47:02] ✅ Finished 000277-000282.jpg
+
+[2025-08-22 05:47:02] 📸 Processing 000283-000288.jpg
+[2025-08-22 05:47:04] ✅ Finished 000283-000288.jpg
+
+[2025-08-22 05:47:04] 📸 Processing 000289-000294.jpg
+[2025-08-22 05:47:06] ✅ Finished 000289-000294.jpg
+
+[2025-08-22 05:47:06] 📸 Processing 000295-000316.jpg
+[2025-08-22 05:47:09] ✅ Finished 000295-000316.jpg
+
+[2025-08-22 05:47:09] 📸 Processing 000317-000320.jpg
+[2025-08-22 05:47:12] ✅ Finished 000317-000320.jpg
+
+[2025-08-22 05:47:12] 📸 Processing 000321-000324.jpg
+[2025-08-22 05:47:14] ✅ Finished 000321-000324.jpg
+
+[2025-08-22 05:47:14] 📸 Processing 000325.jpg
+[2025-08-22 05:47:16] ✅ Finished 000325.jpg
+
+[2025-08-22 05:47:16] 📸 Processing 000326-000329.jpg
+[2025-08-22 05:47:19] ✅ Finished 000326-000329.jpg
+
+[2025-08-22 05:47:19] 📸 Processing 000330.jpg
+[2025-08-22 05:47:21] ✅ Finished 000330.jpg
+
+[2025-08-22 05:47:21] 📸 Processing 000331-000340.jpg
+[2025-08-22 05:47:23] ✅ Finished 000331-000340.jpg
+
+[2025-08-22 05:47:23] 📸 Processing 000341-000345.jpg
+[2025-08-22 05:47:25] ✅ Finished 000341-000345.jpg
+
+[2025-08-22 05:47:25] 📸 Processing 000346-000350.jpg
+[2025-08-22 05:47:27] ✅ Finished 000346-000350.jpg
+
+[2025-08-22 05:47:27] 📸 Processing 000351-000352.jpg
+[2025-08-22 05:47:31] ✅ Finished 000351-000352.jpg
+
+[2025-08-22 05:47:31] 📸 Processing 000353-000355.jpg
+[2025-08-22 05:47:33] ✅ Finished 000353-000355.jpg
+
+[2025-08-22 05:47:33] 📸 Processing 000356-000374.jpg
+[2025-08-22 05:47:36] ✅ Finished 000356-000374.jpg
+
+[2025-08-22 05:47:36] 📸 Processing 000375-000382.jpg
+[2025-08-22 05:47:39] ✅ Finished 000375-000382.jpg
+
+[2025-08-22 05:47:39] 📸 Processing 000383-000387.jpg
+[2025-08-22 05:47:41] ✅ Finished 000383-000387.jpg
+
+[2025-08-22 05:47:41] 📸 Processing 000388-000393.jpg
+[2025-08-22 05:47:43] ✅ Finished 000388-000393.jpg
+
+[2025-08-22 05:47:43] 📸 Processing 000394-000399.jpg
+[2025-08-22 05:47:45] ✅ Finished 000394-000399.jpg
+
+[2025-08-22 05:47:45] 📸 Processing 000400-000405.jpg
+[2025-08-22 05:47:47] ✅ Finished 000400-000405.jpg
+
+[2025-08-22 05:47:47] 📸 Processing 000406-000411.jpg
+[2025-08-22 05:47:49] ✅ Finished 000406-000411.jpg
+
+[2025-08-22 05:47:49] 📸 Processing 000412-000417.jpg
+[2025-08-22 05:47:52] ✅ Finished 000412-000417.jpg
+
+[2025-08-22 05:47:52] 📸 Processing 000418-000423.jpg
+[2025-08-22 05:47:55] ✅ Finished 000418-000423.jpg
+
+[2025-08-22 05:47:55] 📸 Processing 000424-000429.jpg
+[2025-08-22 05:47:57] ✅ Finished 000424-000429.jpg
+
+[2025-08-22 05:47:57] 📸 Processing 000430-000435.jpg
+[2025-08-22 05:47:59] ✅ Finished 000430-000435.jpg
+
+[2025-08-22 05:47:59] 📸 Processing 000436-000440.jpg
+[2025-08-22 05:48:01] ✅ Finished 000436-000440.jpg
+
+[2025-08-22 05:48:01] 📸 Processing 000441-000442.jpg
+[2025-08-22 05:48:04] ✅ Finished 000441-000442.jpg
+
+[2025-08-22 05:48:04] 📸 Processing 000443-000473.jpg
+[2025-08-22 05:48:07] ✅ Finished 000443-000473.jpg
+
+[2025-08-22 05:48:07] 📸 Processing 000474-000490.jpg
+[2025-08-22 05:48:09] ✅ Finished 000474-000490.jpg
+
+[2025-08-22 05:48:09] 📸 Processing 000491-000499.jpg
+[2025-08-22 05:48:11] ✅ Finished 000491-000499.jpg
+
+[2025-08-22 05:48:11] 📸 Processing 000500-000520.jpg
+[2025-08-22 05:48:13] ✅ Finished 000500-000520.jpg
+
+[2025-08-22 05:48:13] 📸 Processing 000521-000522.jpg
+[2025-08-22 05:48:15] ✅ Finished 000521-000522.jpg
+
+[2025-08-22 05:48:15] 📸 Processing 000523-000524.jpg
+[2025-08-22 05:48:18] ✅ Finished 000523-000524.jpg
+
+[2025-08-22 05:48:18] 📸 Processing 000525-000526.jpg
+[2025-08-22 05:48:20] ✅ Finished 000525-000526.jpg
+
+[2025-08-22 05:48:20] 📸 Processing 000527.jpg
+[2025-08-22 05:48:22] ✅ Finished 000527.jpg
+
+[2025-08-22 05:48:22] 📸 Processing 000528-000532.jpg
+[2025-08-22 05:48:25] ✅ Finished 000528-000532.jpg
+
+[2025-08-22 05:48:25] 📸 Processing 000533.jpg
+[2025-08-22 05:48:27] ✅ Finished 000533.jpg
+
+[2025-08-22 05:48:27] 📸 Processing 000534.jpg
+[2025-08-22 05:48:29] ✅ Finished 000534.jpg
+
+[2025-08-22 05:48:29] 📸 Processing 000535-000536.jpg
+[2025-08-22 05:48:33] ✅ Finished 000535-000536.jpg
+
+[2025-08-22 05:48:33] 📸 Processing 000537-000543.jpg
+[2025-08-22 05:48:35] ✅ Finished 000537-000543.jpg
+
+[2025-08-22 05:48:35] 📸 Processing 000544-000551.jpg
+[2025-08-22 05:48:37] ✅ Finished 000544-000551.jpg
+
+[2025-08-22 05:48:37] 📸 Processing 000552-000569.jpg
+[2025-08-22 05:48:39] ✅ Finished 000552-000569.jpg
+
+[2025-08-22 05:48:39] 📸 Processing 000570.jpg
+[2025-08-22 05:48:43] ✅ Finished 000570.jpg
+
+[2025-08-22 05:48:43] 📸 Processing 000571-000584.jpg
+[2025-08-22 05:48:45] ✅ Finished 000571-000584.jpg
+
+[2025-08-22 05:48:45] 📸 Processing 000585-000595.jpg
+[2025-08-22 05:48:48] ✅ Finished 000585-000595.jpg
+
+[2025-08-22 05:48:48] 📸 Processing 000596.jpg
+[2025-08-22 05:48:50] ✅ Finished 000596.jpg
+
+[2025-08-22 05:48:50] 📸 Processing 000597-000629.jpg
+[2025-08-22 05:48:52] ✅ Finished 000597-000629.jpg
+
+[2025-08-22 05:48:52] 📸 Processing 000630-000653.jpg
+[2025-08-22 05:48:54] ✅ Finished 000630-000653.jpg
+
+[2025-08-22 05:48:54] 📸 Processing 000654-000661.jpg
+[2025-08-22 05:48:58] ✅ Finished 000654-000661.jpg
+
+[2025-08-22 05:48:58] 📸 Processing 000662-000673.jpg
+[2025-08-22 05:49:01] ✅ Finished 000662-000673.jpg
+
+[2025-08-22 05:49:01] 📸 Processing 000674-000691.jpg
+[2025-08-22 05:49:03] ✅ Finished 000674-000691.jpg
+
+[2025-08-22 05:49:03] 📸 Processing 000692.jpg
+[2025-08-22 05:49:05] ✅ Finished 000692.jpg
+
+[2025-08-22 05:49:05] 📸 Processing 000693-000703.jpg
+[2025-08-22 05:49:09] ✅ Finished 000693-000703.jpg
+
+[2025-08-22 05:49:09] 📸 Processing 000704-000723.jpg
+[2025-08-22 05:49:12] ✅ Finished 000704-000723.jpg
+
+[2025-08-22 05:49:12] 📸 Processing 000724-000737.jpg
+[2025-08-22 05:49:14] ✅ Finished 000724-000737.jpg
+
+[2025-08-22 05:49:14] 📸 Processing 000738-000742.jpg
+[2025-08-22 05:49:17] ✅ Finished 000738-000742.jpg
+
+[2025-08-22 05:49:17] 📸 Processing 000743-000744.jpg
+[2025-08-22 05:49:19] ✅ Finished 000743-000744.jpg
+
+[2025-08-22 05:49:19] 📸 Processing 000745-000746.jpg
+[2025-08-22 05:49:22] ✅ Finished 000745-000746.jpg
+
+[2025-08-22 05:49:22] 📸 Processing 000747-000771.jpg
+[2025-08-22 05:49:24] ✅ Finished 000747-000771.jpg
+
+[2025-08-22 05:49:24] 📸 Processing 000772-000799.jpg
+[2025-08-22 05:49:27] ✅ Finished 000772-000799.jpg
+
+[2025-08-22 05:49:27] 📸 Processing 000800-000804.jpg
+[2025-08-22 05:49:29] ✅ Finished 000800-000804.jpg
+
+[2025-08-22 05:49:29] 📸 Processing 000805-000814.jpg
+[2025-08-22 05:49:32] ✅ Finished 000805-000814.jpg
+
+[2025-08-22 05:49:32] 📸 Processing 000815-000818.jpg
+[2025-08-22 05:49:34] ✅ Finished 000815-000818.jpg
+
+[2025-08-22 05:49:34] 📸 Processing 000819-000828.jpg
+[2025-08-22 05:49:36] ✅ Finished 000819-000828.jpg
+
+[2025-08-22 05:49:36] 📸 Processing 000829-000831.jpg
+[2025-08-22 05:49:39] ✅ Finished 000829-000831.jpg
+
+[2025-08-22 05:49:39] 📸 Processing 000832-000835.jpg
+[2025-08-22 05:49:41] ✅ Finished 000832-000835.jpg
+
+[2025-08-22 05:49:41] 📸 Processing 000836-000837.jpg
+[2025-08-22 05:49:44] ✅ Finished 000836-000837.jpg
+
+[2025-08-22 05:49:44] 📸 Processing 000838-000859.jpg
+[2025-08-22 05:49:45] ✅ Finished 000838-000859.jpg
+
+[2025-08-22 05:49:45] 📸 Processing 000860-000865.jpg
+[2025-08-22 05:49:47] ✅ Finished 000860-000865.jpg
+
+[2025-08-22 05:49:47] 📸 Processing 000866-000880.jpg
+[2025-08-22 05:49:49] ✅ Finished 000866-000880.jpg
+
+[2025-08-22 05:49:49] 📸 Processing 000881-000892.jpg
+[2025-08-22 05:49:52] ✅ Finished 000881-000892.jpg
+
+[2025-08-22 05:49:52] 📸 Processing 000893-000897.jpg
+[2025-08-22 05:49:55] ✅ Finished 000893-000897.jpg
+
+[2025-08-22 05:49:55] 📸 Processing 000898-000903.jpg
+[2025-08-22 05:49:57] ✅ Finished 000898-000903.jpg
+
+[2025-08-22 05:49:57] 📸 Processing 000904-000915.jpg
+[2025-08-22 05:50:00] ✅ Finished 000904-000915.jpg
+
+[2025-08-22 05:50:00] 📸 Processing 000916-000920.jpg
+[2025-08-22 05:50:02] ✅ Finished 000916-000920.jpg
+
+[2025-08-22 05:50:02] 📸 Processing 000921-000925.jpg
+[2025-08-22 05:50:06] ✅ Finished 000921-000925.jpg
+
+[2025-08-22 05:50:06] 📸 Processing 000926-000929.jpg
+[2025-08-22 05:50:10] ✅ Finished 000926-000929.jpg
+
+[2025-08-22 05:50:10] 📸 Processing 000930-000934.jpg
+[2025-08-22 05:50:13] ✅ Finished 000930-000934.jpg
+
+[2025-08-22 05:50:13] 📸 Processing 000935-000936.jpg
+[2025-08-22 05:50:16] ✅ Finished 000935-000936.jpg
+
+[2025-08-22 05:50:16] 📸 Processing 000937-000938.jpg
+[2025-08-22 05:50:20] ✅ Finished 000937-000938.jpg
+
+[2025-08-22 05:50:20] 📸 Processing 000939-000949.jpg
+[2025-08-22 05:50:23] ✅ Finished 000939-000949.jpg
+
+[2025-08-22 05:50:23] 📸 Processing 000950.jpg
+[2025-08-22 05:50:25] ✅ Finished 000950.jpg
+
+[2025-08-22 05:50:25] 📸 Processing 000951.jpg
+[2025-08-22 05:50:32] ✅ Finished 000951.jpg
+
+[2025-08-22 05:50:32] 📸 Processing 000952.jpg
+[2025-08-22 05:50:34] ✅ Finished 000952.jpg
+
+[2025-08-22 05:50:34] 📸 Processing 000953-000954.jpg
+[2025-08-22 05:50:36] ✅ Finished 000953-000954.jpg
+
+[2025-08-22 05:50:36] 📸 Processing 000955-000956.jpg
+[2025-08-22 05:50:38] ✅ Finished 000955-000956.jpg
+
+[2025-08-22 05:50:38] 📸 Processing 000957.jpg
+[2025-08-22 05:50:40] ✅ Finished 000957.jpg
+
+[2025-08-22 05:50:40] 📸 Processing 000958-000959.jpg
+[2025-08-22 05:50:42] ✅ Finished 000958-000959.jpg
+
+[2025-08-22 05:50:42] 📸 Processing 000960-000961.jpg
+[2025-08-22 05:50:45] ✅ Finished 000960-000961.jpg
+
+[2025-08-22 05:50:45] 📸 Processing 000962.jpg
+[2025-08-22 05:50:47] ✅ Finished 000962.jpg
+
+[2025-08-22 05:50:47] 📸 Processing 000963.jpg
+[2025-08-22 05:50:50] ✅ Finished 000963.jpg
+
+[2025-08-22 05:50:50] 📸 Processing 000964.jpg
+[2025-08-22 05:50:53] ✅ Finished 000964.jpg
+
+[2025-08-22 05:50:53] 📸 Processing 000965.jpg
+[2025-08-22 05:50:55] ✅ Finished 000965.jpg
+
+[2025-08-22 05:50:55] 📸 Processing 000966-000967.jpg
+[2025-08-22 05:50:58] ✅ Finished 000966-000967.jpg
+
+[2025-08-22 05:50:58] 📸 Processing 000968-000973.jpg
+[2025-08-22 05:51:00] ✅ Finished 000968-000973.jpg
+
+[2025-08-22 05:51:00] 📸 Processing 000974-000988.jpg
+[2025-08-22 05:51:04] ✅ Finished 000974-000988.jpg
+
+[2025-08-22 05:51:04] 📸 Processing 000989-000991.jpg
+[2025-08-22 05:51:06] ✅ Finished 000989-000991.jpg
+
+[2025-08-22 05:51:06] 📸 Processing 000992-000994.jpg
+[2025-08-22 05:51:08] ✅ Finished 000992-000994.jpg
+
+[2025-08-22 05:51:08] 📸 Processing 000995.jpg
+[2025-08-22 05:51:11] ✅ Finished 000995.jpg
+
+[2025-08-22 05:51:11] 📸 Processing 000996.jpg
+[2025-08-22 05:51:13] ✅ Finished 000996.jpg
+
+[2025-08-22 05:51:13] 📸 Processing 000997-000999.jpg
+[2025-08-22 05:51:15] ✅ Finished 000997-000999.jpg
+
+[2025-08-22 05:51:15] 📸 Processing 001000-001001.jpg
+[2025-08-22 05:51:18] ✅ Finished 001000-001001.jpg
+
+[2025-08-22 05:51:18] 📸 Processing 001002-001006.jpg
+[2025-08-22 05:51:20] ✅ Finished 001002-001006.jpg
+
+[2025-08-22 05:51:20] 📸 Processing 001007-001011.jpg
+[2025-08-22 05:51:22] ✅ Finished 001007-001011.jpg
+
+[2025-08-22 05:51:22] 📸 Processing 001012-001016.jpg
+[2025-08-22 05:51:25] ✅ Finished 001012-001016.jpg
+
+[2025-08-22 05:51:25] 📸 Processing 001017-001018.jpg
+[2025-08-22 05:51:28] ✅ Finished 001017-001018.jpg
+
+[2025-08-22 05:51:28] 📸 Processing 001019-001044.jpg
+[2025-08-22 05:51:31] ✅ Finished 001019-001044.jpg
+
+[2025-08-22 05:51:31] 📸 Processing 001045.jpg
+[2025-08-22 05:51:35] ✅ Finished 001045.jpg
+
+[2025-08-22 05:51:35] 📸 Processing 001046-001057.jpg
+[2025-08-22 05:51:37] ✅ Finished 001046-001057.jpg
+
+[2025-08-22 05:51:37] 📸 Processing 001058-001061.jpg
+[2025-08-22 05:51:40] ✅ Finished 001058-001061.jpg
+
+[2025-08-22 05:51:40] 📸 Processing 001062-001064.jpg
+[2025-08-22 05:51:41] ✅ Finished 001062-001064.jpg
+
+[2025-08-22 05:51:41] 📸 Processing 001065.jpg
+[2025-08-22 05:51:44] ✅ Finished 001065.jpg
+
+[2025-08-22 05:51:44] 📸 Processing 001066-001068.jpg
+[2025-08-22 05:51:46] ✅ Finished 001066-001068.jpg
+
+[2025-08-22 05:51:46] 📸 Processing 001069.jpg
+[2025-08-22 05:51:48] ✅ Finished 001069.jpg
+
+[2025-08-22 05:51:48] 📸 Processing 001070.jpg
+[2025-08-22 05:51:51] ✅ Finished 001070.jpg
+
+[2025-08-22 05:51:51] 📸 Processing 001071-001072.jpg
+[2025-08-22 05:51:53] ✅ Finished 001071-001072.jpg
+
+[2025-08-22 05:51:53] 📸 Processing 001073.jpg
+[2025-08-22 05:51:56] ✅ Finished 001073.jpg
+
+[2025-08-22 05:51:56] 📸 Processing 001074.jpg
+[2025-08-22 05:51:57] ✅ Finished 001074.jpg
+
+[2025-08-22 05:51:57] 📸 Processing 001075.jpg
+[2025-08-22 05:52:00] ✅ Finished 001075.jpg
+
+[2025-08-22 05:52:00] 📸 Processing 001076-001077.jpg
+[2025-08-22 05:52:03] ✅ Finished 001076-001077.jpg
+
+[2025-08-22 05:52:03] 📸 Processing 001078.jpg
+[2025-08-22 05:52:05] ✅ Finished 001078.jpg
+
+[2025-08-22 05:52:05] 📸 Processing 001079-001082.jpg
+[2025-08-22 05:52:07] ✅ Finished 001079-001082.jpg
+
+[2025-08-22 05:52:07] 📸 Processing 001083-001088.jpg
+[2025-08-22 05:52:11] ✅ Finished 001083-001088.jpg
+
+[2025-08-22 05:52:11] 📸 Processing 001089.jpg
+[2025-08-22 05:52:13] ✅ Finished 001089.jpg
+
+[2025-08-22 05:52:13] 📸 Processing 001090.jpg
+[2025-08-22 05:52:14] ❌ Unexpected Exception for 001090.jpg: 'NoneType' object has no attribute 'replace'. Stopping.
+[2025-08-22 17:34:31] 🔄 Processing folder: MSNBCW_20210110_040000_The_Week_With_Joshua_Johnson
+[2025-08-22 17:34:31] ⏩ Skipping 000000.jpg, already processed.
+[2025-08-22 17:34:31] ⏩ Skipping 000001.jpg, already processed.
+[2025-08-22 17:34:31] ⏩ Skipping 000002.jpg, already processed.
+[2025-08-22 17:34:31] ⏩ Skipping 000003-000008.jpg, already processed.
+[2025-08-22 17:34:31] ⏩ Skipping 000009.jpg, already processed.
+[2025-08-22 17:34:31] ⏩ Skipping 000010.jpg, already processed.
+[2025-08-22 17:34:31] ⏩ Skipping 000011-000017.jpg, already processed.
+[2025-08-22 17:34:31] ⏩ Skipping 000018.jpg, already processed.
+[2025-08-22 17:34:31] ⏩ Skipping 000019-000021.jpg, already processed.
+[2025-08-22 17:34:31] ⏩ Skipping 000022.jpg, already processed.
+[2025-08-22 17:34:31] ⏩ Skipping 000023.jpg, already processed.
+[2025-08-22 17:34:31] ⏩ Skipping 000024.jpg, already processed.
+[2025-08-22 17:34:31] ⏩ Skipping 000025.jpg, already processed.
+[2025-08-22 17:34:31] ⏩ Skipping 000026-000027.jpg, already processed.
+[2025-08-22 17:34:31] ⏩ Skipping 000028.jpg, already processed.
+[2025-08-22 17:34:31] ⏩ Skipping 000029-000037.jpg, already processed.
+[2025-08-22 17:34:31] ⏩ Skipping 000038.jpg, already processed.
+[2025-08-22 17:34:31] ⏩ Skipping 000039.jpg, already processed.
+[2025-08-22 17:34:31] ⏩ Skipping 000040.jpg, already processed.
+[2025-08-22 17:34:31] ⏩ Skipping 000041-000049.jpg, already processed.
+[2025-08-22 17:34:31] ⏩ Skipping 000050.jpg, already processed.
+[2025-08-22 17:34:31] ⏩ Skipping 000051.jpg, already processed.
+[2025-08-22 17:34:31] ⏩ Skipping 000052.jpg, already processed.
+[2025-08-22 17:34:31] ⏩ Skipping 000053.jpg, already processed.
+[2025-08-22 17:34:31] ⏩ Skipping 000054.jpg, already processed.
+[2025-08-22 17:34:31] ⏩ Skipping 000055.jpg, already processed.
+[2025-08-22 17:34:31] ⏩ Skipping 000056.jpg, already processed.
+[2025-08-22 17:34:31] ⏩ Skipping 000057-000058.jpg, already processed.
+[2025-08-22 17:34:31] ⏩ Skipping 000059-000065.jpg, already processed.
+[2025-08-22 17:34:31] ⏩ Skipping 000066-000067.jpg, already processed.
+[2025-08-22 17:34:31] ⏩ Skipping 000068-000075.jpg, already processed.
+[2025-08-22 17:34:31] ⏩ Skipping 000076-000082.jpg, already processed.
+[2025-08-22 17:34:31] ⏩ Skipping 000083-000093.jpg, already processed.
+[2025-08-22 17:34:31] ⏩ Skipping 000094-000102.jpg, already processed.
+[2025-08-22 17:34:31] ⏩ Skipping 000103-000104.jpg, already processed.
+[2025-08-22 17:34:31] ⏩ Skipping 000105-000113.jpg, already processed.
+[2025-08-22 17:34:31] ⏩ Skipping 000114-000118.jpg, already processed.
+[2025-08-22 17:34:31] ⏩ Skipping 000119-000123.jpg, already processed.
+[2025-08-22 17:34:31] ⏩ Skipping 000124-000128.jpg, already processed.
+[2025-08-22 17:34:31] ⏩ Skipping 000129-000138.jpg, already processed.
+[2025-08-22 17:34:31] ⏩ Skipping 000139-000143.jpg, already processed.
+[2025-08-22 17:34:31] ⏩ Skipping 000144-000148.jpg, already processed.
+[2025-08-22 17:34:31] ⏩ Skipping 000149-000153.jpg, already processed.
+[2025-08-22 17:34:31] ⏩ Skipping 000154.jpg, already processed.
+[2025-08-22 17:34:31] ⏩ Skipping 000155-000157.jpg, already processed.
+[2025-08-22 17:34:31] ⏩ Skipping 000158-000162.jpg, already processed.
+[2025-08-22 17:34:31] ⏩ Skipping 000163.jpg, already processed.
+[2025-08-22 17:34:31] ⏩ Skipping 000164-000173.jpg, already processed.
+[2025-08-22 17:34:31] ⏩ Skipping 000174-000182.jpg, already processed.
+[2025-08-22 17:34:31] ⏩ Skipping 000183-000186.jpg, already processed.
+[2025-08-22 17:34:31] ⏩ Skipping 000187-000193.jpg, already processed.
+[2025-08-22 17:34:31] ⏩ Skipping 000194-000226.jpg, already processed.
+[2025-08-22 17:34:31] ⏩ Skipping 000227.jpg, already processed.
+[2025-08-22 17:34:31] ⏩ Skipping 000228-000233.jpg, already processed.
+[2025-08-22 17:34:31] ⏩ Skipping 000234.jpg, already processed.
+[2025-08-22 17:34:31] ⏩ Skipping 000235-000244.jpg, already processed.
+[2025-08-22 17:34:31] ⏩ Skipping 000245-000258.jpg, already processed.
+[2025-08-22 17:34:31] ⏩ Skipping 000259-000260.jpg, already processed.
+[2025-08-22 17:34:31] ⏩ Skipping 000261.jpg, already processed.
+[2025-08-22 17:34:31] ⏩ Skipping 000262.jpg, already processed.
+[2025-08-22 17:34:31] ⏩ Skipping 000263.jpg, already processed.
+[2025-08-22 17:34:31] ⏩ Skipping 000264.jpg, already processed.
+[2025-08-22 17:34:31] ⏩ Skipping 000265-000268.jpg, already processed.
+[2025-08-22 17:34:31] ⏩ Skipping 000269.jpg, already processed.
+[2025-08-22 17:34:31] ⏩ Skipping 000270.jpg, already processed.
+[2025-08-22 17:34:31] ⏩ Skipping 000271.jpg, already processed.
+[2025-08-22 17:34:31] ⏩ Skipping 000272.jpg, already processed.
+[2025-08-22 17:34:31] ⏩ Skipping 000273-000275.jpg, already processed.
+[2025-08-22 17:34:31] ⏩ Skipping 000276.jpg, already processed.
+[2025-08-22 17:34:31] ⏩ Skipping 000277-000282.jpg, already processed.
+[2025-08-22 17:34:31] ⏩ Skipping 000283-000288.jpg, already processed.
+[2025-08-22 17:34:31] ⏩ Skipping 000289-000294.jpg, already processed.
+[2025-08-22 17:34:31] ⏩ Skipping 000295-000316.jpg, already processed.
+[2025-08-22 17:34:31] ⏩ Skipping 000317-000320.jpg, already processed.
+[2025-08-22 17:34:31] ⏩ Skipping 000321-000324.jpg, already processed.
+[2025-08-22 17:34:31] ⏩ Skipping 000325.jpg, already processed.
+[2025-08-22 17:34:31] ⏩ Skipping 000326-000329.jpg, already processed.
+[2025-08-22 17:34:31] ⏩ Skipping 000330.jpg, already processed.
+[2025-08-22 17:34:31] ⏩ Skipping 000331-000340.jpg, already processed.
+[2025-08-22 17:34:31] ⏩ Skipping 000341-000345.jpg, already processed.
+[2025-08-22 17:34:31] ⏩ Skipping 000346-000350.jpg, already processed.
+[2025-08-22 17:34:31] ⏩ Skipping 000351-000352.jpg, already processed.
+[2025-08-22 17:34:31] ⏩ Skipping 000353-000355.jpg, already processed.
+[2025-08-22 17:34:31] ⏩ Skipping 000356-000374.jpg, already processed.
+[2025-08-22 17:34:31] ⏩ Skipping 000375-000382.jpg, already processed.
+[2025-08-22 17:34:31] ⏩ Skipping 000383-000387.jpg, already processed.
+[2025-08-22 17:34:31] ⏩ Skipping 000388-000393.jpg, already processed.
+[2025-08-22 17:34:31] ⏩ Skipping 000394-000399.jpg, already processed.
+[2025-08-22 17:34:31] ⏩ Skipping 000400-000405.jpg, already processed.
+[2025-08-22 17:34:31] ⏩ Skipping 000406-000411.jpg, already processed.
+[2025-08-22 17:34:31] ⏩ Skipping 000412-000417.jpg, already processed.
+[2025-08-22 17:34:31] ⏩ Skipping 000418-000423.jpg, already processed.
+[2025-08-22 17:34:31] ⏩ Skipping 000424-000429.jpg, already processed.
+[2025-08-22 17:34:31] ⏩ Skipping 000430-000435.jpg, already processed.
+[2025-08-22 17:34:31] ⏩ Skipping 000436-000440.jpg, already processed.
+[2025-08-22 17:34:31] ⏩ Skipping 000441-000442.jpg, already processed.
+[2025-08-22 17:34:31] ⏩ Skipping 000443-000473.jpg, already processed.
+[2025-08-22 17:34:31] ⏩ Skipping 000474-000490.jpg, already processed.
+[2025-08-22 17:34:31] ⏩ Skipping 000491-000499.jpg, already processed.
+[2025-08-22 17:34:31] ⏩ Skipping 000500-000520.jpg, already processed.
+[2025-08-22 17:34:31] ⏩ Skipping 000521-000522.jpg, already processed.
+[2025-08-22 17:34:31] ⏩ Skipping 000523-000524.jpg, already processed.
+[2025-08-22 17:34:31] ⏩ Skipping 000525-000526.jpg, already processed.
+[2025-08-22 17:34:31] ⏩ Skipping 000527.jpg, already processed.
+[2025-08-22 17:34:31] ⏩ Skipping 000528-000532.jpg, already processed.
+[2025-08-22 17:34:31] ⏩ Skipping 000533.jpg, already processed.
+[2025-08-22 17:34:31] ⏩ Skipping 000534.jpg, already processed.
+[2025-08-22 17:34:31] ⏩ Skipping 000535-000536.jpg, already processed.
+[2025-08-22 17:34:31] ⏩ Skipping 000537-000543.jpg, already processed.
+[2025-08-22 17:34:31] ⏩ Skipping 000544-000551.jpg, already processed.
+[2025-08-22 17:34:31] ⏩ Skipping 000552-000569.jpg, already processed.
+[2025-08-22 17:34:31] ⏩ Skipping 000570.jpg, already processed.
+[2025-08-22 17:34:31] ⏩ Skipping 000571-000584.jpg, already processed.
+[2025-08-22 17:34:31] ⏩ Skipping 000585-000595.jpg, already processed.
+[2025-08-22 17:34:31] ⏩ Skipping 000596.jpg, already processed.
+[2025-08-22 17:34:31] ⏩ Skipping 000597-000629.jpg, already processed.
+[2025-08-22 17:34:31] ⏩ Skipping 000630-000653.jpg, already processed.
+[2025-08-22 17:34:31] ⏩ Skipping 000654-000661.jpg, already processed.
+[2025-08-22 17:34:31] ⏩ Skipping 000662-000673.jpg, already processed.
+[2025-08-22 17:34:31] ⏩ Skipping 000674-000691.jpg, already processed.
+[2025-08-22 17:34:31] ⏩ Skipping 000692.jpg, already processed.
+[2025-08-22 17:34:31] ⏩ Skipping 000693-000703.jpg, already processed.
+[2025-08-22 17:34:31] ⏩ Skipping 000704-000723.jpg, already processed.
+[2025-08-22 17:34:31] ⏩ Skipping 000724-000737.jpg, already processed.
+[2025-08-22 17:34:31] ⏩ Skipping 000738-000742.jpg, already processed.
+[2025-08-22 17:34:31] ⏩ Skipping 000743-000744.jpg, already processed.
+[2025-08-22 17:34:31] ⏩ Skipping 000745-000746.jpg, already processed.
+[2025-08-22 17:34:31] ⏩ Skipping 000747-000771.jpg, already processed.
+[2025-08-22 17:34:31] ⏩ Skipping 000772-000799.jpg, already processed.
+[2025-08-22 17:34:31] ⏩ Skipping 000800-000804.jpg, already processed.
+[2025-08-22 17:34:31] ⏩ Skipping 000805-000814.jpg, already processed.
+[2025-08-22 17:34:31] ⏩ Skipping 000815-000818.jpg, already processed.
+[2025-08-22 17:34:31] ⏩ Skipping 000819-000828.jpg, already processed.
+[2025-08-22 17:34:31] ⏩ Skipping 000829-000831.jpg, already processed.
+[2025-08-22 17:34:31] ⏩ Skipping 000832-000835.jpg, already processed.
+[2025-08-22 17:34:31] ⏩ Skipping 000836-000837.jpg, already processed.
+[2025-08-22 17:34:31] ⏩ Skipping 000838-000859.jpg, already processed.
+[2025-08-22 17:34:31] ⏩ Skipping 000860-000865.jpg, already processed.
+[2025-08-22 17:34:31] ⏩ Skipping 000866-000880.jpg, already processed.
+[2025-08-22 17:34:31] ⏩ Skipping 000881-000892.jpg, already processed.
+[2025-08-22 17:34:31] ⏩ Skipping 000893-000897.jpg, already processed.
+[2025-08-22 17:34:31] ⏩ Skipping 000898-000903.jpg, already processed.
+[2025-08-22 17:34:31] ⏩ Skipping 000904-000915.jpg, already processed.
+[2025-08-22 17:34:31] ⏩ Skipping 000916-000920.jpg, already processed.
+[2025-08-22 17:34:31] ⏩ Skipping 000921-000925.jpg, already processed.
+[2025-08-22 17:34:31] ⏩ Skipping 000926-000929.jpg, already processed.
+[2025-08-22 17:34:31] ⏩ Skipping 000930-000934.jpg, already processed.
+[2025-08-22 17:34:31] ⏩ Skipping 000935-000936.jpg, already processed.
+[2025-08-22 17:34:31] ⏩ Skipping 000937-000938.jpg, already processed.
+[2025-08-22 17:34:31] ⏩ Skipping 000939-000949.jpg, already processed.
+[2025-08-22 17:34:31] ⏩ Skipping 000950.jpg, already processed.
+[2025-08-22 17:34:31] ⏩ Skipping 000951.jpg, already processed.
+[2025-08-22 17:34:31] ⏩ Skipping 000952.jpg, already processed.
+[2025-08-22 17:34:31] ⏩ Skipping 000953-000954.jpg, already processed.
+[2025-08-22 17:34:31] ⏩ Skipping 000955-000956.jpg, already processed.
+[2025-08-22 17:34:31] ⏩ Skipping 000957.jpg, already processed.
+[2025-08-22 17:34:31] ⏩ Skipping 000958-000959.jpg, already processed.
+[2025-08-22 17:34:31] ⏩ Skipping 000960-000961.jpg, already processed.
+[2025-08-22 17:34:31] ⏩ Skipping 000962.jpg, already processed.
+[2025-08-22 17:34:31] ⏩ Skipping 000963.jpg, already processed.
+[2025-08-22 17:34:31] ⏩ Skipping 000964.jpg, already processed.
+[2025-08-22 17:34:31] ⏩ Skipping 000965.jpg, already processed.
+[2025-08-22 17:34:31] ⏩ Skipping 000966-000967.jpg, already processed.
+[2025-08-22 17:34:31] ⏩ Skipping 000968-000973.jpg, already processed.
+[2025-08-22 17:34:31] ⏩ Skipping 000974-000988.jpg, already processed.
+[2025-08-22 17:34:31] ⏩ Skipping 000989-000991.jpg, already processed.
+[2025-08-22 17:34:31] ⏩ Skipping 000992-000994.jpg, already processed.
+[2025-08-22 17:34:31] ⏩ Skipping 000995.jpg, already processed.
+[2025-08-22 17:34:31] ⏩ Skipping 000996.jpg, already processed.
+[2025-08-22 17:34:31] ⏩ Skipping 000997-000999.jpg, already processed.
+[2025-08-22 17:34:31] ⏩ Skipping 001000-001001.jpg, already processed.
+[2025-08-22 17:34:31] ⏩ Skipping 001002-001006.jpg, already processed.
+[2025-08-22 17:34:31] ⏩ Skipping 001007-001011.jpg, already processed.
+[2025-08-22 17:34:31] ⏩ Skipping 001012-001016.jpg, already processed.
+[2025-08-22 17:34:31] ⏩ Skipping 001017-001018.jpg, already processed.
+[2025-08-22 17:34:31] ⏩ Skipping 001019-001044.jpg, already processed.
+[2025-08-22 17:34:31] ⏩ Skipping 001045.jpg, already processed.
+[2025-08-22 17:34:31] ⏩ Skipping 001046-001057.jpg, already processed.
+[2025-08-22 17:34:31] ⏩ Skipping 001058-001061.jpg, already processed.
+[2025-08-22 17:34:31] ⏩ Skipping 001062-001064.jpg, already processed.
+[2025-08-22 17:34:31] ⏩ Skipping 001065.jpg, already processed.
+[2025-08-22 17:34:31] ⏩ Skipping 001066-001068.jpg, already processed.
+[2025-08-22 17:34:31] ⏩ Skipping 001069.jpg, already processed.
+[2025-08-22 17:34:31] ⏩ Skipping 001070.jpg, already processed.
+[2025-08-22 17:34:31] ⏩ Skipping 001071-001072.jpg, already processed.
+[2025-08-22 17:34:31] ⏩ Skipping 001073.jpg, already processed.
+[2025-08-22 17:34:31] ⏩ Skipping 001074.jpg, already processed.
+[2025-08-22 17:34:31] ⏩ Skipping 001075.jpg, already processed.
+[2025-08-22 17:34:31] ⏩ Skipping 001076-001077.jpg, already processed.
+[2025-08-22 17:34:31] ⏩ Skipping 001078.jpg, already processed.
+[2025-08-22 17:34:31] ⏩ Skipping 001079-001082.jpg, already processed.
+[2025-08-22 17:34:31] ⏩ Skipping 001083-001088.jpg, already processed.
+[2025-08-22 17:34:31] ⏩ Skipping 001089.jpg, already processed.
+[2025-08-22 17:34:31] 📸 Processing 001090.jpg
+[2025-08-22 17:34:35] ✅ Finished 001090.jpg
+
+[2025-08-22 17:34:35] 📸 Processing 001091.jpg
+[2025-08-22 17:34:37] ✅ Finished 001091.jpg
+
+[2025-08-22 17:34:37] 📸 Processing 001092.jpg
+[2025-08-22 17:34:39] ✅ Finished 001092.jpg
+
+[2025-08-22 17:34:39] 📸 Processing 001093.jpg
+[2025-08-22 17:34:41] ✅ Finished 001093.jpg
+
+[2025-08-22 17:34:41] 📸 Processing 001094.jpg
+[2025-08-22 17:34:44] ✅ Finished 001094.jpg
+
+[2025-08-22 17:34:44] 📸 Processing 001095.jpg
+[2025-08-22 17:34:46] ✅ Finished 001095.jpg
+
+[2025-08-22 17:34:46] 📸 Processing 001096.jpg
+[2025-08-22 17:34:53] ✅ Finished 001096.jpg
+
+[2025-08-22 17:34:53] 📸 Processing 001097.jpg
+[2025-08-22 17:34:55] ✅ Finished 001097.jpg
+
+[2025-08-22 17:34:55] 📸 Processing 001098.jpg
+[2025-08-22 17:34:58] ✅ Finished 001098.jpg
+
+[2025-08-22 17:34:58] 📸 Processing 001099.jpg
+[2025-08-22 17:35:00] ✅ Finished 001099.jpg
+
+[2025-08-22 17:35:00] 📸 Processing 001100.jpg
+[2025-08-22 17:35:02] ✅ Finished 001100.jpg
+
+[2025-08-22 17:35:02] 📸 Processing 001101.jpg
+[2025-08-22 17:35:04] ✅ Finished 001101.jpg
+
+[2025-08-22 17:35:04] 📸 Processing 001102.jpg
+[2025-08-22 17:35:06] ✅ Finished 001102.jpg
+
+[2025-08-22 17:35:06] 📸 Processing 001103.jpg
+[2025-08-22 17:35:08] ✅ Finished 001103.jpg
+
+[2025-08-22 17:35:08] 📸 Processing 001104.jpg
+[2025-08-22 17:35:11] ✅ Finished 001104.jpg
+
+[2025-08-22 17:35:11] 📸 Processing 001105.jpg
+[2025-08-22 17:35:12] ✅ Finished 001105.jpg
+
+[2025-08-22 17:35:12] 📸 Processing 001106.jpg
+[2025-08-22 17:35:14] ✅ Finished 001106.jpg
+
+[2025-08-22 17:35:14] 📸 Processing 001107-001108.jpg
+[2025-08-22 17:35:17] ✅ Finished 001107-001108.jpg
+
+[2025-08-22 17:35:17] 📸 Processing 001109-001110.jpg
+[2025-08-22 17:35:19] ✅ Finished 001109-001110.jpg
+
+[2025-08-22 17:35:19] 📸 Processing 001111-001112.jpg
+[2025-08-22 17:35:20] ✅ Finished 001111-001112.jpg
+
+[2025-08-22 17:35:20] 📸 Processing 001113.jpg
+[2025-08-22 17:35:23] ✅ Finished 001113.jpg
+
+[2025-08-22 17:35:23] 📸 Processing 001114-001118.jpg
+[2025-08-22 17:35:25] ✅ Finished 001114-001118.jpg
+
+[2025-08-22 17:35:25] 📸 Processing 001119.jpg
+[2025-08-22 17:35:27] ✅ Finished 001119.jpg
+
+[2025-08-22 17:35:27] 📸 Processing 001120.jpg
+[2025-08-22 17:35:29] ✅ Finished 001120.jpg
+
+[2025-08-22 17:35:29] 📸 Processing 001121-001122.jpg
+[2025-08-22 17:35:30] ✅ Finished 001121-001122.jpg
+
+[2025-08-22 17:35:30] 📸 Processing 001123.jpg
+[2025-08-22 17:35:34] ✅ Finished 001123.jpg
+
+[2025-08-22 17:35:34] 📸 Processing 001124.jpg
+[2025-08-22 17:35:35] ✅ Finished 001124.jpg
+
+[2025-08-22 17:35:35] 📸 Processing 001125.jpg
+[2025-08-22 17:35:37] ✅ Finished 001125.jpg
+
+[2025-08-22 17:35:37] 📸 Processing 001126.jpg
+[2025-08-22 17:35:39] ✅ Finished 001126.jpg
+
+[2025-08-22 17:35:39] 📸 Processing 001127.jpg
+[2025-08-22 17:35:41] ✅ Finished 001127.jpg
+
+[2025-08-22 17:35:41] 📸 Processing 001128.jpg
+[2025-08-22 17:35:43] ✅ Finished 001128.jpg
+
+[2025-08-22 17:35:43] 📸 Processing 001129.jpg
+[2025-08-22 17:35:45] ✅ Finished 001129.jpg
+
+[2025-08-22 17:35:45] 📸 Processing 001130.jpg
+[2025-08-22 17:35:47] ✅ Finished 001130.jpg
+
+[2025-08-22 17:35:47] 📸 Processing 001131.jpg
+[2025-08-22 17:35:50] ✅ Finished 001131.jpg
+
+[2025-08-22 17:35:50] 📸 Processing 001132-001133.jpg
+[2025-08-22 17:35:52] ✅ Finished 001132-001133.jpg
+
+[2025-08-22 17:35:52] 📸 Processing 001134.jpg
+[2025-08-22 17:35:54] ✅ Finished 001134.jpg
+
+[2025-08-22 17:35:54] 📸 Processing 001135.jpg
+[2025-08-22 17:35:56] ✅ Finished 001135.jpg
+
+[2025-08-22 17:35:56] 📸 Processing 001136.jpg
+[2025-08-22 17:35:58] ✅ Finished 001136.jpg
+
+[2025-08-22 17:35:58] 📸 Processing 001137.jpg
+[2025-08-22 17:36:01] ✅ Finished 001137.jpg
+
+[2025-08-22 17:36:01] 📸 Processing 001138.jpg
+[2025-08-22 17:36:03] ✅ Finished 001138.jpg
+
+[2025-08-22 17:36:03] 📸 Processing 001139.jpg
+[2025-08-22 17:36:07] ✅ Finished 001139.jpg
+
+[2025-08-22 17:36:07] 📸 Processing 001140.jpg
+[2025-08-22 17:36:08] ✅ Finished 001140.jpg
+
+[2025-08-22 17:36:08] 📸 Processing 001141.jpg
+[2025-08-22 17:36:11] ✅ Finished 001141.jpg
+
+[2025-08-22 17:36:11] 📸 Processing 001142.jpg
+[2025-08-22 17:36:13] ✅ Finished 001142.jpg
+
+[2025-08-22 17:36:13] 📸 Processing 001143.jpg
+[2025-08-22 17:36:15] ✅ Finished 001143.jpg
+
+[2025-08-22 17:36:15] 📸 Processing 001144.jpg
+[2025-08-22 17:36:17] ✅ Finished 001144.jpg
+
+[2025-08-22 17:36:17] 📸 Processing 001145.jpg
+[2025-08-22 17:36:19] ✅ Finished 001145.jpg
+
+[2025-08-22 17:36:19] 📸 Processing 001146-001147.jpg
+[2025-08-22 17:36:21] ✅ Finished 001146-001147.jpg
+
+[2025-08-22 17:36:21] 📸 Processing 001148-001150.jpg
+[2025-08-22 17:36:23] ✅ Finished 001148-001150.jpg
+
+[2025-08-22 17:36:23] 📸 Processing 001151-001153.jpg
+[2025-08-22 17:36:24] ✅ Finished 001151-001153.jpg
+
+[2025-08-22 17:36:24] 📸 Processing 001154.jpg
+[2025-08-22 17:36:27] ✅ Finished 001154.jpg
+
+[2025-08-22 17:36:27] 📸 Processing 001155.jpg
+[2025-08-22 17:36:29] ✅ Finished 001155.jpg
+
+[2025-08-22 17:36:29] 📸 Processing 001156.jpg
+[2025-08-22 17:36:31] ✅ Finished 001156.jpg
+
+[2025-08-22 17:36:31] 📸 Processing 001157.jpg
+[2025-08-22 17:36:33] ✅ Finished 001157.jpg
+
+[2025-08-22 17:36:33] 📸 Processing 001158.jpg
+[2025-08-22 17:36:36] ✅ Finished 001158.jpg
+
+[2025-08-22 17:36:36] 📸 Processing 001159-001160.jpg
+[2025-08-22 17:36:38] ✅ Finished 001159-001160.jpg
+
+[2025-08-22 17:36:38] 📸 Processing 001161-001163.jpg
+[2025-08-22 17:36:40] ✅ Finished 001161-001163.jpg
+
+[2025-08-22 17:36:40] 📸 Processing 001164-001165.jpg
+[2025-08-22 17:36:42] ✅ Finished 001164-001165.jpg
+
+[2025-08-22 17:36:42] 📸 Processing 001166-001167.jpg
+[2025-08-22 17:36:44] ✅ Finished 001166-001167.jpg
+
+[2025-08-22 17:36:44] 📸 Processing 001168.jpg
+[2025-08-22 17:36:46] ✅ Finished 001168.jpg
+
+[2025-08-22 17:36:46] 📸 Processing 001169-001170.jpg
+[2025-08-22 17:36:48] ✅ Finished 001169-001170.jpg
+
+[2025-08-22 17:36:48] 📸 Processing 001171-001175.jpg
+[2025-08-22 17:36:50] ✅ Finished 001171-001175.jpg
+
+[2025-08-22 17:36:50] 📸 Processing 001176.jpg
+[2025-08-22 17:36:52] ✅ Finished 001176.jpg
+
+[2025-08-22 17:36:52] 📸 Processing 001177.jpg
+[2025-08-22 17:36:55] ✅ Finished 001177.jpg
+
+[2025-08-22 17:36:55] 📸 Processing 001178.jpg
+[2025-08-22 17:36:57] ✅ Finished 001178.jpg
+
+[2025-08-22 17:36:57] 📸 Processing 001179.jpg
+[2025-08-22 17:36:59] ✅ Finished 001179.jpg
+
+[2025-08-22 17:36:59] 📸 Processing 001180.jpg
+[2025-08-22 17:37:02] ✅ Finished 001180.jpg
+
+[2025-08-22 17:37:02] 📸 Processing 001181.jpg
+[2025-08-22 17:37:09] ✅ Finished 001181.jpg
+
+[2025-08-22 17:37:09] 📸 Processing 001182.jpg
+[2025-08-22 17:37:11] ✅ Finished 001182.jpg
+
+[2025-08-22 17:37:11] 📸 Processing 001183.jpg
+[2025-08-22 17:37:13] ✅ Finished 001183.jpg
+
+[2025-08-22 17:37:13] 📸 Processing 001184.jpg
+[2025-08-22 17:37:16] ✅ Finished 001184.jpg
+
+[2025-08-22 17:37:16] 📸 Processing 001185.jpg
+[2025-08-22 17:37:18] ✅ Finished 001185.jpg
+
+[2025-08-22 17:37:18] 📸 Processing 001186.jpg
+[2025-08-22 17:37:20] ✅ Finished 001186.jpg
+
+[2025-08-22 17:37:20] 📸 Processing 001187.jpg
+[2025-08-22 17:37:22] ✅ Finished 001187.jpg
+
+[2025-08-22 17:37:22] 📸 Processing 001188.jpg
+[2025-08-22 17:37:25] ✅ Finished 001188.jpg
+
+[2025-08-22 17:37:25] 📸 Processing 001189.jpg
+[2025-08-22 17:37:27] ✅ Finished 001189.jpg
+
+[2025-08-22 17:37:27] 📸 Processing 001190.jpg
+[2025-08-22 17:37:29] ✅ Finished 001190.jpg
+
+[2025-08-22 17:37:29] 📸 Processing 001191.jpg
+[2025-08-22 17:37:32] ✅ Finished 001191.jpg
+
+[2025-08-22 17:37:32] 📸 Processing 001192.jpg
+[2025-08-22 17:37:34] ✅ Finished 001192.jpg
+
+[2025-08-22 17:37:34] 📸 Processing 001193.jpg
+[2025-08-22 17:37:37] ✅ Finished 001193.jpg
+
+[2025-08-22 17:37:37] 📸 Processing 001194.jpg
+[2025-08-22 17:37:39] ✅ Finished 001194.jpg
+
+[2025-08-22 17:37:39] 📸 Processing 001195.jpg
+[2025-08-22 17:37:40] ✅ Finished 001195.jpg
+
+[2025-08-22 17:37:40] 📸 Processing 001196-001197.jpg
+[2025-08-22 17:37:43] ✅ Finished 001196-001197.jpg
+
+[2025-08-22 17:37:43] 📸 Processing 001198.jpg
+[2025-08-22 17:37:44] ✅ Finished 001198.jpg
+
+[2025-08-22 17:37:44] 📸 Processing 001199.jpg
+[2025-08-22 17:37:46] ✅ Finished 001199.jpg
+
+[2025-08-22 17:37:46] 📸 Processing 001200.jpg
+[2025-08-22 17:37:48] ✅ Finished 001200.jpg
+
+[2025-08-22 17:37:48] 📸 Processing 001201.jpg
+[2025-08-22 17:37:51] ✅ Finished 001201.jpg
+
+[2025-08-22 17:37:51] 📸 Processing 001202.jpg
+[2025-08-22 17:37:53] ✅ Finished 001202.jpg
+
+[2025-08-22 17:37:53] 📸 Processing 001203.jpg
+[2025-08-22 17:37:55] ✅ Finished 001203.jpg
+
+[2025-08-22 17:37:55] 📸 Processing 001204.jpg
+[2025-08-22 17:37:57] ✅ Finished 001204.jpg
+
+[2025-08-22 17:37:57] 📸 Processing 001205.jpg
+[2025-08-22 17:37:59] ✅ Finished 001205.jpg
+
+[2025-08-22 17:37:59] 📸 Processing 001206.jpg
+[2025-08-22 17:38:01] ✅ Finished 001206.jpg
+
+[2025-08-22 17:38:01] 📸 Processing 001207.jpg
+[2025-08-22 17:38:04] ✅ Finished 001207.jpg
+
+[2025-08-22 17:38:04] 📸 Processing 001208-001210.jpg
+[2025-08-22 17:38:06] ✅ Finished 001208-001210.jpg
+
+[2025-08-22 17:38:06] 📸 Processing 001211.jpg
+[2025-08-22 17:38:08] ✅ Finished 001211.jpg
+
+[2025-08-22 17:38:08] 📸 Processing 001212.jpg
+[2025-08-22 17:38:10] ✅ Finished 001212.jpg
+
+[2025-08-22 17:38:10] 📸 Processing 001213.jpg
+[2025-08-22 17:38:12] ✅ Finished 001213.jpg
+
+[2025-08-22 17:38:12] 📸 Processing 001214.jpg
+[2025-08-22 17:38:14] ✅ Finished 001214.jpg
+
+[2025-08-22 17:38:14] 📸 Processing 001215.jpg
+[2025-08-22 17:38:16] ✅ Finished 001215.jpg
+
+[2025-08-22 17:38:16] 📸 Processing 001216.jpg
+[2025-08-22 17:38:18] ✅ Finished 001216.jpg
+
+[2025-08-22 17:38:18] 📸 Processing 001217.jpg
+[2025-08-22 17:38:22] ✅ Finished 001217.jpg
+
+[2025-08-22 17:38:22] 📸 Processing 001218.jpg
+[2025-08-22 17:38:23] ✅ Finished 001218.jpg
+
+[2025-08-22 17:38:23] 📸 Processing 001219.jpg
+[2025-08-22 17:38:26] ✅ Finished 001219.jpg
+
+[2025-08-22 17:38:26] 📸 Processing 001220.jpg
+[2025-08-22 17:38:28] ✅ Finished 001220.jpg
+
+[2025-08-22 17:38:28] 📸 Processing 001221-001222.jpg
+[2025-08-22 17:38:32] ✅ Finished 001221-001222.jpg
+
+[2025-08-22 17:38:32] 📸 Processing 001223.jpg
+[2025-08-22 17:38:34] ✅ Finished 001223.jpg
+
+[2025-08-22 17:38:34] 📸 Processing 001224.jpg
+[2025-08-22 17:38:36] ✅ Finished 001224.jpg
+
+[2025-08-22 17:38:36] 📸 Processing 001225.jpg
+[2025-08-22 17:38:38] ✅ Finished 001225.jpg
+
+[2025-08-22 17:38:38] 📸 Processing 001226.jpg
+[2025-08-22 17:38:40] ✅ Finished 001226.jpg
+
+[2025-08-22 17:38:40] 📸 Processing 001227.jpg
+[2025-08-22 17:38:42] ✅ Finished 001227.jpg
+
+[2025-08-22 17:38:42] 📸 Processing 001228.jpg
+[2025-08-22 17:38:44] ✅ Finished 001228.jpg
+
+[2025-08-22 17:38:44] 📸 Processing 001229-001230.jpg
+[2025-08-22 17:38:47] ✅ Finished 001229-001230.jpg
+
+[2025-08-22 17:38:47] 📸 Processing 001231.jpg
+[2025-08-22 17:38:50] ✅ Finished 001231.jpg
+
+[2025-08-22 17:38:50] 📸 Processing 001232.jpg
+[2025-08-22 17:38:52] ✅ Finished 001232.jpg
+
+[2025-08-22 17:38:52] 📸 Processing 001233-001238.jpg
+[2025-08-22 17:38:53] ✅ Finished 001233-001238.jpg
+
+[2025-08-22 17:38:53] 📸 Processing 001239.jpg
+[2025-08-22 17:38:56] ✅ Finished 001239.jpg
+
+[2025-08-22 17:38:56] 📸 Processing 001240.jpg
+[2025-08-22 17:38:58] ✅ Finished 001240.jpg
+
+[2025-08-22 17:38:58] 📸 Processing 001241.jpg
+[2025-08-22 17:39:02] ✅ Finished 001241.jpg
+
+[2025-08-22 17:39:02] 📸 Processing 001242-001243.jpg
+[2025-08-22 17:39:04] ✅ Finished 001242-001243.jpg
+
+[2025-08-22 17:39:04] 📸 Processing 001244.jpg
+[2025-08-22 17:39:06] ✅ Finished 001244.jpg
+
+[2025-08-22 17:39:06] 📸 Processing 001245.jpg
+[2025-08-22 17:39:07] ✅ Finished 001245.jpg
+
+[2025-08-22 17:39:07] 📸 Processing 001246.jpg
+[2025-08-22 17:39:09] ✅ Finished 001246.jpg
+
+[2025-08-22 17:39:09] 📸 Processing 001247.jpg
+[2025-08-22 17:39:13] ✅ Finished 001247.jpg
+
+[2025-08-22 17:39:13] 📸 Processing 001248.jpg
+[2025-08-22 17:39:16] ✅ Finished 001248.jpg
+
+[2025-08-22 17:39:16] 📸 Processing 001249.jpg
+[2025-08-22 17:39:18] ✅ Finished 001249.jpg
+
+[2025-08-22 17:39:18] 📸 Processing 001250.jpg
+[2025-08-22 17:39:20] ✅ Finished 001250.jpg
+
+[2025-08-22 17:39:20] 📸 Processing 001251-001252.jpg
+[2025-08-22 17:39:22] ✅ Finished 001251-001252.jpg
+
+[2025-08-22 17:39:22] 📸 Processing 001253.jpg
+[2025-08-22 17:39:25] ✅ Finished 001253.jpg
+
+[2025-08-22 17:39:25] 📸 Processing 001254.jpg
+[2025-08-22 17:39:26] ✅ Finished 001254.jpg
+
+[2025-08-22 17:39:26] 📸 Processing 001255-001256.jpg
+[2025-08-22 17:39:28] ✅ Finished 001255-001256.jpg
+
+[2025-08-22 17:39:28] 📸 Processing 001257-001260.jpg
+[2025-08-22 17:39:31] ✅ Finished 001257-001260.jpg
+
+[2025-08-22 17:39:31] 📸 Processing 001261.jpg
+[2025-08-22 17:39:34] ✅ Finished 001261.jpg
+
+[2025-08-22 17:39:34] 📸 Processing 001262-001263.jpg
+[2025-08-22 17:39:36] ✅ Finished 001262-001263.jpg
+
+[2025-08-22 17:39:36] 📸 Processing 001264.jpg
+[2025-08-22 17:39:39] ✅ Finished 001264.jpg
+
+[2025-08-22 17:39:39] 📸 Processing 001265-001267.jpg
+[2025-08-22 17:39:42] ✅ Finished 001265-001267.jpg
+
+[2025-08-22 17:39:42] 📸 Processing 001268-001270.jpg
+[2025-08-22 17:39:44] ✅ Finished 001268-001270.jpg
+
+[2025-08-22 17:39:44] 📸 Processing 001271-001274.jpg
+[2025-08-22 17:39:46] ✅ Finished 001271-001274.jpg
+
+[2025-08-22 17:39:46] 📸 Processing 001275-001278.jpg
+[2025-08-22 17:39:49] ✅ Finished 001275-001278.jpg
+
+[2025-08-22 17:39:49] 📸 Processing 001279-001282.jpg
+[2025-08-22 17:39:51] ✅ Finished 001279-001282.jpg
+
+[2025-08-22 17:39:51] 📸 Processing 001283.jpg
+[2025-08-22 17:39:53] ✅ Finished 001283.jpg
+
+[2025-08-22 17:39:53] 📸 Processing 001284.jpg
+[2025-08-22 17:39:55] ✅ Finished 001284.jpg
+
+[2025-08-22 17:39:55] 📸 Processing 001285.jpg
+[2025-08-22 17:39:58] ✅ Finished 001285.jpg
+
+[2025-08-22 17:39:58] 📸 Processing 001286.jpg
+[2025-08-22 17:40:01] ✅ Finished 001286.jpg
+
+[2025-08-22 17:40:01] 📸 Processing 001287.jpg
+[2025-08-22 17:40:03] ✅ Finished 001287.jpg
+
+[2025-08-22 17:40:03] 📸 Processing 001288-001289.jpg
+[2025-08-22 17:40:06] ✅ Finished 001288-001289.jpg
+
+[2025-08-22 17:40:06] 📸 Processing 001290-001292.jpg
+[2025-08-22 17:40:09] ✅ Finished 001290-001292.jpg
+
+[2025-08-22 17:40:09] 📸 Processing 001293.jpg
+[2025-08-22 17:40:12] ✅ Finished 001293.jpg
+
+[2025-08-22 17:40:12] 📸 Processing 001294-001295.jpg
+[2025-08-22 17:40:15] ✅ Finished 001294-001295.jpg
+
+[2025-08-22 17:40:15] 📸 Processing 001296.jpg
+[2025-08-22 17:40:17] ✅ Finished 001296.jpg
+
+[2025-08-22 17:40:17] 📸 Processing 001297.jpg
+[2025-08-22 17:40:20] ✅ Finished 001297.jpg
+
+[2025-08-22 17:40:20] 📸 Processing 001298.jpg
+[2025-08-22 17:40:22] ✅ Finished 001298.jpg
+
+[2025-08-22 17:40:22] 📸 Processing 001299.jpg
+[2025-08-22 17:40:24] ✅ Finished 001299.jpg
+
+[2025-08-22 17:40:24] 📸 Processing 001300.jpg
+[2025-08-22 17:40:27] ✅ Finished 001300.jpg
+
+[2025-08-22 17:40:27] 📸 Processing 001301-001302.jpg
+[2025-08-22 17:40:29] ✅ Finished 001301-001302.jpg
+
+[2025-08-22 17:40:29] 📸 Processing 001303-001304.jpg
+[2025-08-22 17:40:32] ✅ Finished 001303-001304.jpg
+
+[2025-08-22 17:40:32] 📸 Processing 001305.jpg
+[2025-08-22 17:40:34] ✅ Finished 001305.jpg
+
+[2025-08-22 17:40:34] 📸 Processing 001306-001307.jpg
+[2025-08-22 17:40:36] ✅ Finished 001306-001307.jpg
+
+[2025-08-22 17:40:36] 📸 Processing 001308-001309.jpg
+[2025-08-22 17:40:39] ✅ Finished 001308-001309.jpg
+
+[2025-08-22 17:40:39] 📸 Processing 001310.jpg
+[2025-08-22 17:40:41] ✅ Finished 001310.jpg
+
+[2025-08-22 17:40:41] 📸 Processing 001311-001312.jpg
+[2025-08-22 17:40:44] ✅ Finished 001311-001312.jpg
+
+[2025-08-22 17:40:44] 📸 Processing 001313-001314.jpg
+[2025-08-22 17:40:46] ✅ Finished 001313-001314.jpg
+
+[2025-08-22 17:40:46] 📸 Processing 001315-001317.jpg
+[2025-08-22 17:40:48] ✅ Finished 001315-001317.jpg
+
+[2025-08-22 17:40:48] 📸 Processing 001318-001320.jpg
+[2025-08-22 17:40:51] ✅ Finished 001318-001320.jpg
+
+[2025-08-22 17:40:51] 📸 Processing 001321.jpg
+[2025-08-22 17:40:54] ✅ Finished 001321.jpg
+
+[2025-08-22 17:40:54] 📸 Processing 001322.jpg
+[2025-08-22 17:40:56] ✅ Finished 001322.jpg
+
+[2025-08-22 17:40:56] 📸 Processing 001323.jpg
+[2025-08-22 17:40:58] ✅ Finished 001323.jpg
+
+[2025-08-22 17:40:58] 📸 Processing 001324.jpg
+[2025-08-22 17:41:00] ✅ Finished 001324.jpg
+
+[2025-08-22 17:41:00] 📸 Processing 001325.jpg
+[2025-08-22 17:41:03] ✅ Finished 001325.jpg
+
+[2025-08-22 17:41:03] 📸 Processing 001326-001330.jpg
+[2025-08-22 17:41:05] ✅ Finished 001326-001330.jpg
+
+[2025-08-22 17:41:05] 📸 Processing 001331.jpg
+[2025-08-22 17:41:07] ✅ Finished 001331.jpg
+
+[2025-08-22 17:41:07] 📸 Processing 001332.jpg
+[2025-08-22 17:41:10] ✅ Finished 001332.jpg
+
+[2025-08-22 17:41:10] 📸 Processing 001333.jpg
+[2025-08-22 17:41:14] ✅ Finished 001333.jpg
+
+[2025-08-22 17:41:14] 📸 Processing 001334.jpg
+[2025-08-22 17:41:17] ✅ Finished 001334.jpg
+
+[2025-08-22 17:41:17] 📸 Processing 001335.jpg
+[2025-08-22 17:41:19] ✅ Finished 001335.jpg
+
+[2025-08-22 17:41:19] 📸 Processing 001336-001339.jpg
+[2025-08-22 17:41:24] ✅ Finished 001336-001339.jpg
+
+[2025-08-22 17:41:24] 📸 Processing 001340.jpg
+[2025-08-22 17:41:27] ✅ Finished 001340.jpg
+
+[2025-08-22 17:41:27] 📸 Processing 001341.jpg
+[2025-08-22 17:41:30] ✅ Finished 001341.jpg
+
+[2025-08-22 17:41:30] 📸 Processing 001342.jpg
+[2025-08-22 17:41:32] ✅ Finished 001342.jpg
+
+[2025-08-22 17:41:32] 📸 Processing 001343-001352.jpg
+[2025-08-22 17:41:34] ✅ Finished 001343-001352.jpg
+
+[2025-08-22 17:41:34] 📸 Processing 001353.jpg
+[2025-08-22 17:41:37] ✅ Finished 001353.jpg
+
+[2025-08-22 17:41:37] 📸 Processing 001354-001371.jpg
+[2025-08-22 17:41:40] ✅ Finished 001354-001371.jpg
+
+[2025-08-22 17:41:40] 📸 Processing 001372.jpg
+[2025-08-22 17:41:41] ✅ Finished 001372.jpg
+
+[2025-08-22 17:41:41] 📸 Processing 001373-001403.jpg
+[2025-08-22 17:41:43] ✅ Finished 001373-001403.jpg
+
+[2025-08-22 17:41:43] 📸 Processing 001404-001421.jpg
+[2025-08-22 17:41:45] ✅ Finished 001404-001421.jpg
+
+[2025-08-22 17:41:45] 📸 Processing 001422.jpg
+[2025-08-22 17:41:48] ✅ Finished 001422.jpg
+
+[2025-08-22 17:41:48] 📸 Processing 001423-001431.jpg
+[2025-08-22 17:41:50] ✅ Finished 001423-001431.jpg
+
+[2025-08-22 17:41:50] 📸 Processing 001432-001457.jpg
+[2025-08-22 17:41:52] ✅ Finished 001432-001457.jpg
+
+[2025-08-22 17:41:52] 📸 Processing 001458.jpg
+[2025-08-22 17:41:54] ✅ Finished 001458.jpg
+
+[2025-08-22 17:41:54] 📸 Processing 001459-001468.jpg
+[2025-08-22 17:41:56] ✅ Finished 001459-001468.jpg
+
+[2025-08-22 17:41:56] 📸 Processing 001469.jpg
+[2025-08-22 17:41:59] ✅ Finished 001469.jpg
+
+[2025-08-22 17:41:59] 📸 Processing 001470-001484.jpg
+[2025-08-22 17:42:01] ✅ Finished 001470-001484.jpg
+
+[2025-08-22 17:42:01] 📸 Processing 001485.jpg
+[2025-08-22 17:42:03] ✅ Finished 001485.jpg
+
+[2025-08-22 17:42:03] 📸 Processing 001486.jpg
+[2025-08-22 17:42:06] ✅ Finished 001486.jpg
+
+[2025-08-22 17:42:06] 📸 Processing 001487-001495.jpg
+[2025-08-22 17:42:09] ✅ Finished 001487-001495.jpg
+
+[2025-08-22 17:42:09] 📸 Processing 001496-001503.jpg
+[2025-08-22 17:42:12] ✅ Finished 001496-001503.jpg
+
+[2025-08-22 17:42:12] 📸 Processing 001504-001520.jpg
+[2025-08-22 17:42:15] ✅ Finished 001504-001520.jpg
+
+[2025-08-22 17:42:15] 📸 Processing 001521.jpg
+[2025-08-22 17:42:16] ✅ Finished 001521.jpg
+
+[2025-08-22 17:42:16] 📸 Processing 001522-001524.jpg
+[2025-08-22 17:42:18] ✅ Finished 001522-001524.jpg
+
+[2025-08-22 17:42:18] 📸 Processing 001525-001536.jpg
+[2025-08-22 17:42:20] ✅ Finished 001525-001536.jpg
+
+[2025-08-22 17:42:20] 📸 Processing 001537.jpg
+[2025-08-22 17:42:23] ✅ Finished 001537.jpg
+
+[2025-08-22 17:42:23] 📸 Processing 001538-001544.jpg
+[2025-08-22 17:42:26] ✅ Finished 001538-001544.jpg
+
+[2025-08-22 17:42:26] 📸 Processing 001545-001550.jpg
+[2025-08-22 17:42:28] ✅ Finished 001545-001550.jpg
+
+[2025-08-22 17:42:28] 📸 Processing 001551-001552.jpg
+[2025-08-22 17:42:30] ✅ Finished 001551-001552.jpg
+
+[2025-08-22 17:42:30] 📸 Processing 001553-001558.jpg
+[2025-08-22 17:42:33] ✅ Finished 001553-001558.jpg
+
+[2025-08-22 17:42:33] 📸 Processing 001559-001572.jpg
+[2025-08-22 17:42:35] ✅ Finished 001559-001572.jpg
+
+[2025-08-22 17:42:35] 📸 Processing 001573-001578.jpg
+[2025-08-22 17:42:36] ✅ Finished 001573-001578.jpg
+
+[2025-08-22 17:42:36] 📸 Processing 001579-001584.jpg
+[2025-08-22 17:42:38] ✅ Finished 001579-001584.jpg
+
+[2025-08-22 17:42:38] 📸 Processing 001585.jpg
+[2025-08-22 17:42:41] ✅ Finished 001585.jpg
+
+[2025-08-22 17:42:41] 📸 Processing 001586.jpg
+[2025-08-22 17:42:42] ✅ Finished 001586.jpg
+
+[2025-08-22 17:42:42] 📸 Processing 001587.jpg
+[2025-08-22 17:42:46] ✅ Finished 001587.jpg
+
+[2025-08-22 17:42:46] 📸 Processing 001588.jpg
+[2025-08-22 17:42:47] ✅ Finished 001588.jpg
+
+[2025-08-22 17:42:47] 📸 Processing 001589-001596.jpg
+[2025-08-22 17:42:49] ✅ Finished 001589-001596.jpg
+
+[2025-08-22 17:42:49] 📸 Processing 001597.jpg
+[2025-08-22 17:42:51] ✅ Finished 001597.jpg
+
+[2025-08-22 17:42:51] 📸 Processing 001598.jpg
+[2025-08-22 17:42:53] ✅ Finished 001598.jpg
+
+[2025-08-22 17:42:53] 📸 Processing 001599-001600.jpg
+[2025-08-22 17:42:55] ✅ Finished 001599-001600.jpg
+
+[2025-08-22 17:42:55] 📸 Processing 001601.jpg
+[2025-08-22 17:42:58] ✅ Finished 001601.jpg
+
+[2025-08-22 17:42:58] 📸 Processing 001602.jpg
+[2025-08-22 17:43:01] ✅ Finished 001602.jpg
+
+[2025-08-22 17:43:01] 📸 Processing 001603-001606.jpg
+[2025-08-22 17:43:03] ✅ Finished 001603-001606.jpg
+
+[2025-08-22 17:43:03] 📸 Processing 001607-001611.jpg
+[2025-08-22 17:43:06] ✅ Finished 001607-001611.jpg
+
+[2025-08-22 17:43:06] 📸 Processing 001612-001613.jpg
+[2025-08-22 17:43:10] ✅ Finished 001612-001613.jpg
+
+[2025-08-22 17:43:10] 📸 Processing 001614.jpg
+[2025-08-22 17:43:11] ✅ Finished 001614.jpg
+
+[2025-08-22 17:43:11] 📸 Processing 001615-001616.jpg
+[2025-08-22 17:43:14] ✅ Finished 001615-001616.jpg
+
+[2025-08-22 17:43:14] 📸 Processing 001617.jpg
+[2025-08-22 17:43:15] ✅ Finished 001617.jpg
+
+[2025-08-22 17:43:15] 📸 Processing 001618.jpg
+[2025-08-22 17:43:18] ✅ Finished 001618.jpg
+
+[2025-08-22 17:43:18] 📸 Processing 001619.jpg
+[2025-08-22 17:43:19] ✅ Finished 001619.jpg
+
+[2025-08-22 17:43:19] 📸 Processing 001620.jpg
+[2025-08-22 17:43:23] ✅ Finished 001620.jpg
+
+[2025-08-22 17:43:23] 📸 Processing 001621.jpg
+[2025-08-22 17:43:25] ✅ Finished 001621.jpg
+
+[2025-08-22 17:43:25] 📸 Processing 001622.jpg
+[2025-08-22 17:43:27] ✅ Finished 001622.jpg
+
+[2025-08-22 17:43:27] 📸 Processing 001623.jpg
+[2025-08-22 17:43:29] ✅ Finished 001623.jpg
+
+[2025-08-22 17:43:29] 📸 Processing 001624.jpg
+[2025-08-22 17:43:31] ✅ Finished 001624.jpg
+
+[2025-08-22 17:43:31] 📸 Processing 001625.jpg
+[2025-08-22 17:43:34] ✅ Finished 001625.jpg
+
+[2025-08-22 17:43:34] 📸 Processing 001626-001627.jpg
+[2025-08-22 17:43:36] ✅ Finished 001626-001627.jpg
+
+[2025-08-22 17:43:36] 📸 Processing 001628.jpg
+[2025-08-22 17:43:38] ✅ Finished 001628.jpg
+
+[2025-08-22 17:43:38] 📸 Processing 001629.jpg
+[2025-08-22 17:43:40] ✅ Finished 001629.jpg
+
+[2025-08-22 17:43:40] 📸 Processing 001630.jpg
+[2025-08-22 17:43:42] ✅ Finished 001630.jpg
+
+[2025-08-22 17:43:42] 📸 Processing 001631.jpg
+[2025-08-22 17:43:45] ✅ Finished 001631.jpg
+
+[2025-08-22 17:43:45] 📸 Processing 001632.jpg
+[2025-08-22 17:43:47] ✅ Finished 001632.jpg
+
+[2025-08-22 17:43:47] 📸 Processing 001633.jpg
+[2025-08-22 17:43:49] ✅ Finished 001633.jpg
+
+[2025-08-22 17:43:49] 📸 Processing 001634.jpg
+[2025-08-22 17:43:51] ✅ Finished 001634.jpg
+
+[2025-08-22 17:43:51] 📸 Processing 001635.jpg
+[2025-08-22 17:43:53] ✅ Finished 001635.jpg
+
+[2025-08-22 17:43:53] 📸 Processing 001636.jpg
+[2025-08-22 17:43:55] ✅ Finished 001636.jpg
+
+[2025-08-22 17:43:55] 📸 Processing 001637.jpg
+[2025-08-22 17:43:58] ✅ Finished 001637.jpg
+
+[2025-08-22 17:43:58] 📸 Processing 001638.jpg
+[2025-08-22 17:44:00] ✅ Finished 001638.jpg
+
+[2025-08-22 17:44:00] 📸 Processing 001639.jpg
+[2025-08-22 17:44:03] ✅ Finished 001639.jpg
+
+[2025-08-22 17:44:03] 📸 Processing 001640.jpg
+[2025-08-22 17:44:05] ✅ Finished 001640.jpg
+
+[2025-08-22 17:44:05] 📸 Processing 001641.jpg
+[2025-08-22 17:44:08] ✅ Finished 001641.jpg
+
+[2025-08-22 17:44:08] 📸 Processing 001642-001644.jpg
+[2025-08-22 17:44:10] ✅ Finished 001642-001644.jpg
+
+[2025-08-22 17:44:10] 📸 Processing 001645-001646.jpg
+[2025-08-22 17:44:12] ✅ Finished 001645-001646.jpg
+
+[2025-08-22 17:44:12] 📸 Processing 001647-001651.jpg
+[2025-08-22 17:44:14] ✅ Finished 001647-001651.jpg
+
+[2025-08-22 17:44:14] 📸 Processing 001652-001657.jpg
+[2025-08-22 17:44:16] ✅ Finished 001652-001657.jpg
+
+[2025-08-22 17:44:16] 📸 Processing 001658.jpg
+[2025-08-22 17:44:18] ✅ Finished 001658.jpg
+
+[2025-08-22 17:44:18] 📸 Processing 001659-001660.jpg
+[2025-08-22 17:44:20] ✅ Finished 001659-001660.jpg
+
+[2025-08-22 17:44:20] 📸 Processing 001661.jpg
+[2025-08-22 17:44:23] ✅ Finished 001661.jpg
+
+[2025-08-22 17:44:23] 📸 Processing 001662.jpg
+[2025-08-22 17:44:26] ✅ Finished 001662.jpg
+
+[2025-08-22 17:44:26] 📸 Processing 001663.jpg
+[2025-08-22 17:44:28] ✅ Finished 001663.jpg
+
+[2025-08-22 17:44:28] 📸 Processing 001664.jpg
+[2025-08-22 17:44:30] ✅ Finished 001664.jpg
+
+[2025-08-22 17:44:30] 📸 Processing 001665.jpg
+[2025-08-22 17:44:32] ✅ Finished 001665.jpg
+
+[2025-08-22 17:44:32] 📸 Processing 001666.jpg
+[2025-08-22 17:44:35] ✅ Finished 001666.jpg
+
+[2025-08-22 17:44:35] 📸 Processing 001667-001668.jpg
+[2025-08-22 17:44:37] ✅ Finished 001667-001668.jpg
+
+[2025-08-22 17:44:37] 📸 Processing 001669.jpg
+[2025-08-22 17:44:40] ✅ Finished 001669.jpg
+
+[2025-08-22 17:44:40] 📸 Processing 001670.jpg
+[2025-08-22 17:44:42] ✅ Finished 001670.jpg
+
+[2025-08-22 17:44:42] 📸 Processing 001671.jpg
+[2025-08-22 17:44:44] ✅ Finished 001671.jpg
+
+[2025-08-22 17:44:44] 📸 Processing 001672.jpg
+[2025-08-22 17:44:45] ✅ Finished 001672.jpg
+
+[2025-08-22 17:44:45] 📸 Processing 001673.jpg
+[2025-08-22 17:44:47] ✅ Finished 001673.jpg
+
+[2025-08-22 17:44:47] 📸 Processing 001674.jpg
+[2025-08-22 17:44:49] ✅ Finished 001674.jpg
+
+[2025-08-22 17:44:49] 📸 Processing 001675.jpg
+[2025-08-22 17:44:51] ✅ Finished 001675.jpg
+
+[2025-08-22 17:44:51] 📸 Processing 001676.jpg
+[2025-08-22 17:44:53] ✅ Finished 001676.jpg
+
+[2025-08-22 17:44:53] 📸 Processing 001677.jpg
+[2025-08-22 17:44:55] ✅ Finished 001677.jpg
+
+[2025-08-22 17:44:55] 📸 Processing 001678-001680.jpg
+[2025-08-22 17:44:57] ✅ Finished 001678-001680.jpg
+
+[2025-08-22 17:44:57] 📸 Processing 001681-001682.jpg
+[2025-08-22 17:45:01] ✅ Finished 001681-001682.jpg
+
+[2025-08-22 17:45:01] 📸 Processing 001683-001684.jpg
+[2025-08-22 17:45:04] ✅ Finished 001683-001684.jpg
+
+[2025-08-22 17:45:04] 📸 Processing 001685-001686.jpg
+[2025-08-22 17:45:06] ✅ Finished 001685-001686.jpg
+
+[2025-08-22 17:45:06] 📸 Processing 001687-001688.jpg
+[2025-08-22 17:45:08] ✅ Finished 001687-001688.jpg
+
+[2025-08-22 17:45:08] 📸 Processing 001689-001691.jpg
+[2025-08-22 17:45:10] ✅ Finished 001689-001691.jpg
+
+[2025-08-22 17:45:10] 📸 Processing 001692.jpg
+[2025-08-22 17:45:12] ✅ Finished 001692.jpg
+
+[2025-08-22 17:45:12] 📸 Processing 001693-001696.jpg
+[2025-08-22 17:45:14] ✅ Finished 001693-001696.jpg
+
+[2025-08-22 17:45:15] 📸 Processing 001697-001701.jpg
+[2025-08-22 17:45:17] ✅ Finished 001697-001701.jpg
+
+[2025-08-22 17:45:17] 📸 Processing 001702.jpg
+[2025-08-22 17:45:18] ✅ Finished 001702.jpg
+
+[2025-08-22 17:45:18] 📸 Processing 001703.jpg
+[2025-08-22 17:45:21] ✅ Finished 001703.jpg
+
+[2025-08-22 17:45:21] 📸 Processing 001704.jpg
+[2025-08-22 17:45:22] ✅ Finished 001704.jpg
+
+[2025-08-22 17:45:22] 📸 Processing 001705.jpg
+[2025-08-22 17:45:24] ✅ Finished 001705.jpg
+
+[2025-08-22 17:45:24] 📸 Processing 001706.jpg
+[2025-08-22 17:45:27] ✅ Finished 001706.jpg
+
+[2025-08-22 17:45:27] 📸 Processing 001707.jpg
+[2025-08-22 17:45:28] ✅ Finished 001707.jpg
+
+[2025-08-22 17:45:28] 📸 Processing 001708.jpg
+[2025-08-22 17:45:30] ✅ Finished 001708.jpg
+
+[2025-08-22 17:45:30] 📸 Processing 001709.jpg
+[2025-08-22 17:45:32] ✅ Finished 001709.jpg
+
+[2025-08-22 17:45:32] 📸 Processing 001710.jpg
+[2025-08-22 17:45:34] ✅ Finished 001710.jpg
+
+[2025-08-22 17:45:34] 📸 Processing 001711.jpg
+[2025-08-22 17:45:36] ✅ Finished 001711.jpg
+
+[2025-08-22 17:45:36] 📸 Processing 001712.jpg
+[2025-08-22 17:45:38] ✅ Finished 001712.jpg
+
+[2025-08-22 17:45:38] 📸 Processing 001713.jpg
+[2025-08-22 17:45:40] ✅ Finished 001713.jpg
+
+[2025-08-22 17:45:40] 📸 Processing 001714.jpg
+[2025-08-22 17:45:42] ✅ Finished 001714.jpg
+
+[2025-08-22 17:45:42] 📸 Processing 001715.jpg
+[2025-08-22 17:45:45] ✅ Finished 001715.jpg
+
+[2025-08-22 17:45:45] 📸 Processing 001716.jpg
+[2025-08-22 17:45:47] ✅ Finished 001716.jpg
+
+[2025-08-22 17:45:47] 📸 Processing 001717-001718.jpg
+[2025-08-22 17:45:49] ✅ Finished 001717-001718.jpg
+
+[2025-08-22 17:45:49] 📸 Processing 001719.jpg
+[2025-08-22 17:45:52] ✅ Finished 001719.jpg
+
+[2025-08-22 17:45:52] 📸 Processing 001720-001721.jpg
+[2025-08-22 17:45:54] ✅ Finished 001720-001721.jpg
+
+[2025-08-22 17:45:54] 📸 Processing 001722.jpg
+[2025-08-22 17:45:58] ✅ Finished 001722.jpg
+
+[2025-08-22 17:45:58] 📸 Processing 001723.jpg
+[2025-08-22 17:46:00] ✅ Finished 001723.jpg
+
+[2025-08-22 17:46:00] 📸 Processing 001724-001725.jpg
+[2025-08-22 17:46:03] ✅ Finished 001724-001725.jpg
+
+[2025-08-22 17:46:03] 📸 Processing 001726.jpg
+[2025-08-22 17:46:07] ✅ Finished 001726.jpg
+
+[2025-08-22 17:46:07] 📸 Processing 001727-001728.jpg
+[2025-08-22 17:46:09] ✅ Finished 001727-001728.jpg
+
+[2025-08-22 17:46:09] 📸 Processing 001729.jpg
+[2025-08-22 17:46:11] ✅ Finished 001729.jpg
+
+[2025-08-22 17:46:11] 📸 Processing 001730.jpg
+[2025-08-22 17:46:13] ✅ Finished 001730.jpg
+
+[2025-08-22 17:46:13] 📸 Processing 001731.jpg
+[2025-08-22 17:46:15] ✅ Finished 001731.jpg
+
+[2025-08-22 17:46:15] 📸 Processing 001732.jpg
+[2025-08-22 17:46:17] ✅ Finished 001732.jpg
+
+[2025-08-22 17:46:17] 📸 Processing 001733-001736.jpg
+[2025-08-22 17:46:19] ✅ Finished 001733-001736.jpg
+
+[2025-08-22 17:46:19] 📸 Processing 001737-001738.jpg
+[2025-08-22 17:46:21] ✅ Finished 001737-001738.jpg
+
+[2025-08-22 17:46:21] 📸 Processing 001739.jpg
+[2025-08-22 17:46:28] ✅ Finished 001739.jpg
+
+[2025-08-22 17:46:28] 📸 Processing 001740.jpg
+[2025-08-22 17:46:30] ✅ Finished 001740.jpg
+
+[2025-08-22 17:46:30] 📸 Processing 001741-001742.jpg
+[2025-08-22 17:46:32] ✅ Finished 001741-001742.jpg
+
+[2025-08-22 17:46:32] 📸 Processing 001743.jpg
+[2025-08-22 17:46:34] ✅ Finished 001743.jpg
+
+[2025-08-22 17:46:34] 📸 Processing 001744.jpg
+[2025-08-22 17:46:36] ✅ Finished 001744.jpg
+
+[2025-08-22 17:46:36] 📸 Processing 001745.jpg
+[2025-08-22 17:46:38] ✅ Finished 001745.jpg
+
+[2025-08-22 17:46:38] 📸 Processing 001746.jpg
+[2025-08-22 17:46:40] ✅ Finished 001746.jpg
+
+[2025-08-22 17:46:40] 📸 Processing 001747-001748.jpg
+[2025-08-22 17:46:42] ✅ Finished 001747-001748.jpg
+
+[2025-08-22 17:46:42] 📸 Processing 001749-001751.jpg
+[2025-08-22 17:46:46] ✅ Finished 001749-001751.jpg
+
+[2025-08-22 17:46:46] 📸 Processing 001752-001754.jpg
+[2025-08-22 17:46:49] ✅ Finished 001752-001754.jpg
+
+[2025-08-22 17:46:49] 📸 Processing 001755.jpg
+[2025-08-22 17:46:51] ✅ Finished 001755.jpg
+
+[2025-08-22 17:46:51] 📸 Processing 001756-001757.jpg
+[2025-08-22 17:46:53] ✅ Finished 001756-001757.jpg
+
+[2025-08-22 17:46:53] 📸 Processing 001758.jpg
+[2025-08-22 17:46:55] ✅ Finished 001758.jpg
+
+[2025-08-22 17:46:55] 📸 Processing 001759.jpg
+[2025-08-22 17:46:58] ✅ Finished 001759.jpg
+
+[2025-08-22 17:46:58] 📸 Processing 001760-001763.jpg
+[2025-08-22 17:47:00] ✅ Finished 001760-001763.jpg
+
+[2025-08-22 17:47:00] 📸 Processing 001764-001766.jpg
+[2025-08-22 17:47:03] ✅ Finished 001764-001766.jpg
+
+[2025-08-22 17:47:03] 📸 Processing 001767.jpg
+[2025-08-22 17:47:05] ✅ Finished 001767.jpg
+
+[2025-08-22 17:47:05] 📸 Processing 001768.jpg
+[2025-08-22 17:47:06] ✅ Finished 001768.jpg
+
+[2025-08-22 17:47:06] 📸 Processing 001769.jpg
+[2025-08-22 17:47:08] ✅ Finished 001769.jpg
+
+[2025-08-22 17:47:08] 📸 Processing 001770.jpg
+[2025-08-22 17:47:10] ✅ Finished 001770.jpg
+
+[2025-08-22 17:47:10] 📸 Processing 001771.jpg
+[2025-08-22 17:47:12] ✅ Finished 001771.jpg
+
+[2025-08-22 17:47:12] 📸 Processing 001772-001773.jpg
+[2025-08-22 17:47:14] ✅ Finished 001772-001773.jpg
+
+[2025-08-22 17:47:14] 📸 Processing 001774.jpg
+[2025-08-22 17:47:16] ✅ Finished 001774.jpg
+
+[2025-08-22 17:47:16] 📸 Processing 001775.jpg
+[2025-08-22 17:47:18] ✅ Finished 001775.jpg
+
+[2025-08-22 17:47:18] 📸 Processing 001776.jpg
+[2025-08-22 17:47:21] ✅ Finished 001776.jpg
+
+[2025-08-22 17:47:21] 📸 Processing 001777.jpg
+[2025-08-22 17:47:25] ✅ Finished 001777.jpg
+
+[2025-08-22 17:47:25] 📸 Processing 001778.jpg
+[2025-08-22 17:47:26] ✅ Finished 001778.jpg
+
+[2025-08-22 17:47:26] 📸 Processing 001779.jpg
+[2025-08-22 17:47:29] ✅ Finished 001779.jpg
+
+[2025-08-22 17:47:29] 📸 Processing 001780.jpg
+[2025-08-22 17:47:31] ✅ Finished 001780.jpg
+
+[2025-08-22 17:47:31] 📸 Processing 001781.jpg
+[2025-08-22 17:47:33] ✅ Finished 001781.jpg
+
+[2025-08-22 17:47:33] 📸 Processing 001782.jpg
+[2025-08-22 17:47:36] ✅ Finished 001782.jpg
+
+[2025-08-22 17:47:36] 📸 Processing 001783.jpg
+[2025-08-22 17:47:38] ✅ Finished 001783.jpg
+
+[2025-08-22 17:47:38] 📸 Processing 001784.jpg
+[2025-08-22 17:47:43] ✅ Finished 001784.jpg
+
+[2025-08-22 17:47:43] 📸 Processing 001785.jpg
+[2025-08-22 17:47:45] ✅ Finished 001785.jpg
+
+[2025-08-22 17:47:45] 📸 Processing 001786.jpg
+[2025-08-22 17:47:46] ✅ Finished 001786.jpg
+
+[2025-08-22 17:47:46] 📸 Processing 001787.jpg
+[2025-08-22 17:47:48] ✅ Finished 001787.jpg
+
+[2025-08-22 17:47:48] 📸 Processing 001788.jpg
+[2025-08-22 17:47:50] ✅ Finished 001788.jpg
+
+[2025-08-22 17:47:50] 📸 Processing 001789.jpg
+[2025-08-22 17:47:52] ✅ Finished 001789.jpg
+
+[2025-08-22 17:47:52] 📸 Processing 001790.jpg
+[2025-08-22 17:47:55] ✅ Finished 001790.jpg
+
+[2025-08-22 17:47:55] 📸 Processing 001791.jpg
+[2025-08-22 17:47:58] ✅ Finished 001791.jpg
+
+[2025-08-22 17:47:58] 📸 Processing 001792.jpg
+[2025-08-22 17:48:04] ✅ Finished 001792.jpg
+
+[2025-08-22 17:48:04] 📸 Processing 001793.jpg
+[2025-08-22 17:48:06] ✅ Finished 001793.jpg
+
+[2025-08-22 17:48:06] 📸 Processing 001794.jpg
+[2025-08-22 17:48:08] ✅ Finished 001794.jpg
+
+[2025-08-22 17:48:08] 📸 Processing 001795.jpg
+[2025-08-22 17:48:10] ✅ Finished 001795.jpg
+
+[2025-08-22 17:48:10] 📸 Processing 001796.jpg
+[2025-08-22 17:48:12] ✅ Finished 001796.jpg
+
+[2025-08-22 17:48:12] 📸 Processing 001797-001799.jpg
+[2025-08-22 17:48:15] ✅ Finished 001797-001799.jpg
+
+[2025-08-22 17:48:15] 📸 Processing 001800.jpg
+[2025-08-22 17:48:17] ✅ Finished 001800.jpg
+
+[2025-08-22 17:48:17] 📸 Processing 001801.jpg
+[2025-08-22 17:48:20] ✅ Finished 001801.jpg
+
+[2025-08-22 17:48:20] 📸 Processing 001802.jpg
+[2025-08-22 17:48:21] ✅ Finished 001802.jpg
+
+[2025-08-22 17:48:21] 📸 Processing 001803.jpg
+[2025-08-22 17:48:26] ✅ Finished 001803.jpg
+
+[2025-08-22 17:48:26] 📸 Processing 001804.jpg
+[2025-08-22 17:48:32] ✅ Finished 001804.jpg
+
+[2025-08-22 17:48:32] 📸 Processing 001805.jpg
+[2025-08-22 17:48:34] ✅ Finished 001805.jpg
+
+[2025-08-22 17:48:34] 📸 Processing 001806.jpg
+[2025-08-22 17:48:39] ✅ Finished 001806.jpg
+
+[2025-08-22 17:48:39] 📸 Processing 001807.jpg
+[2025-08-22 17:48:41] ✅ Finished 001807.jpg
+
+[2025-08-22 17:48:41] 📸 Processing 001808.jpg
+[2025-08-22 17:48:42] ✅ Finished 001808.jpg
+
+[2025-08-22 17:48:42] 📸 Processing 001809.jpg
+[2025-08-22 17:48:45] ✅ Finished 001809.jpg
+
+[2025-08-22 17:48:45] 📸 Processing 001810.jpg
+[2025-08-22 17:48:48] ✅ Finished 001810.jpg
+
+[2025-08-22 17:48:48] 📸 Processing 001811-001812.jpg
+[2025-08-22 17:48:49] ✅ Finished 001811-001812.jpg
+
+[2025-08-22 17:48:49] 📸 Processing 001813.jpg
+[2025-08-22 17:48:51] ✅ Finished 001813.jpg
+
+[2025-08-22 17:48:51] 📸 Processing 001814.jpg
+[2025-08-22 17:48:53] ✅ Finished 001814.jpg
+
+[2025-08-22 17:48:53] 📸 Processing 001815.jpg
+[2025-08-22 17:48:55] ✅ Finished 001815.jpg
+
+[2025-08-22 17:48:55] 📸 Processing 001816.jpg
+[2025-08-22 17:48:57] ✅ Finished 001816.jpg
+
+[2025-08-22 17:48:57] 📸 Processing 001817.jpg
+[2025-08-22 17:48:59] ✅ Finished 001817.jpg
+
+[2025-08-22 17:48:59] 📸 Processing 001818.jpg
+[2025-08-22 17:49:01] ✅ Finished 001818.jpg
+
+[2025-08-22 17:49:01] 📸 Processing 001819.jpg
+[2025-08-22 17:49:04] ✅ Finished 001819.jpg
+
+[2025-08-22 17:49:05] 📸 Processing 001820-001823.jpg
+[2025-08-22 17:49:06] ✅ Finished 001820-001823.jpg
+
+[2025-08-22 17:49:06] 📸 Processing 001824-001826.jpg
+[2025-08-22 17:49:08] ✅ Finished 001824-001826.jpg
+
+[2025-08-22 17:49:08] 📸 Processing 001827.jpg
+[2025-08-22 17:49:10] ✅ Finished 001827.jpg
+
+[2025-08-22 17:49:10] 📸 Processing 001828.jpg
+[2025-08-22 17:49:12] ✅ Finished 001828.jpg
+
+[2025-08-22 17:49:12] 📸 Processing 001829.jpg
+[2025-08-22 17:49:14] ✅ Finished 001829.jpg
+
+[2025-08-22 17:49:14] 📸 Processing 001830.jpg
+[2025-08-22 17:49:16] ✅ Finished 001830.jpg
+
+[2025-08-22 17:49:16] 📸 Processing 001831-001836.jpg
+[2025-08-22 17:49:19] ✅ Finished 001831-001836.jpg
+
+[2025-08-22 17:49:19] 📸 Processing 001837-001852.jpg
+[2025-08-22 17:49:22] ✅ Finished 001837-001852.jpg
+
+[2025-08-22 17:49:22] 📸 Processing 001853-001865.jpg
+[2025-08-22 17:49:24] ✅ Finished 001853-001865.jpg
+
+[2025-08-22 17:49:24] 📸 Processing 001866.jpg
+[2025-08-22 17:49:26] ✅ Finished 001866.jpg
+
+[2025-08-22 17:49:26] 📸 Processing 001867-001881.jpg
+[2025-08-22 17:49:28] ✅ Finished 001867-001881.jpg
+
+[2025-08-22 17:49:28] 📸 Processing 001882.jpg
+[2025-08-22 17:49:30] ✅ Finished 001882.jpg
+
+[2025-08-22 17:49:30] 📸 Processing 001883-001903.jpg
+[2025-08-22 17:49:33] ✅ Finished 001883-001903.jpg
+
+[2025-08-22 17:49:33] 📸 Processing 001904-001905.jpg
+[2025-08-22 17:49:36] ✅ Finished 001904-001905.jpg
+
+[2025-08-22 17:49:36] 📸 Processing 001906-001926.jpg
+[2025-08-22 17:49:40] ✅ Finished 001906-001926.jpg
+
+[2025-08-22 17:49:40] 📸 Processing 001927-001940.jpg
+[2025-08-22 17:49:43] ✅ Finished 001927-001940.jpg
+
+[2025-08-22 17:49:43] 📸 Processing 001941.jpg
+[2025-08-22 17:49:45] ✅ Finished 001941.jpg
+
+[2025-08-22 17:49:45] 📸 Processing 001942-001957.jpg
+[2025-08-22 17:49:47] ✅ Finished 001942-001957.jpg
+
+[2025-08-22 17:49:47] 📸 Processing 001958-001973.jpg
+[2025-08-22 17:49:49] ✅ Finished 001958-001973.jpg
+
+[2025-08-22 17:49:49] 📸 Processing 001974-001982.jpg
+[2025-08-22 17:49:52] ✅ Finished 001974-001982.jpg
+
+[2025-08-22 17:49:52] 📸 Processing 001983.jpg
+[2025-08-22 17:49:54] ✅ Finished 001983.jpg
+
+[2025-08-22 17:49:54] 📸 Processing 001984.jpg
+[2025-08-22 17:49:56] ✅ Finished 001984.jpg
+
+[2025-08-22 17:49:56] 📸 Processing 001985.jpg
+[2025-08-22 17:49:58] ✅ Finished 001985.jpg
+
+[2025-08-22 17:49:58] 📸 Processing 001986.jpg
+[2025-08-22 17:50:00] ✅ Finished 001986.jpg
+
+[2025-08-22 17:50:00] 📸 Processing 001987.jpg
+[2025-08-22 17:50:03] ✅ Finished 001987.jpg
+
+[2025-08-22 17:50:03] 📸 Processing 001988.jpg
+[2025-08-22 17:50:05] ✅ Finished 001988.jpg
+
+[2025-08-22 17:50:05] 📸 Processing 001989.jpg
+[2025-08-22 17:50:08] ✅ Finished 001989.jpg
+
+[2025-08-22 17:50:08] 📸 Processing 001990.jpg
+[2025-08-22 17:50:11] ✅ Finished 001990.jpg
+
+[2025-08-22 17:50:11] 📸 Processing 001991-001993.jpg
+[2025-08-22 17:50:17] ✅ Finished 001991-001993.jpg
+
+[2025-08-22 17:50:17] 📸 Processing 001994-001999.jpg
+[2025-08-22 17:50:19] ✅ Finished 001994-001999.jpg
+
+[2025-08-22 17:50:19] 📸 Processing 002000-002008.jpg
+[2025-08-22 17:50:21] ✅ Finished 002000-002008.jpg
+
+[2025-08-22 17:50:21] 📸 Processing 002009-002018.jpg
+[2025-08-22 17:50:23] ✅ Finished 002009-002018.jpg
+
+[2025-08-22 17:50:23] 📸 Processing 002019.jpg
+[2025-08-22 17:50:25] ✅ Finished 002019.jpg
+
+[2025-08-22 17:50:25] 📸 Processing 002020-002022.jpg
+[2025-08-22 17:50:27] ✅ Finished 002020-002022.jpg
+
+[2025-08-22 17:50:27] 📸 Processing 002023.jpg
+[2025-08-22 17:50:32] ✅ Finished 002023.jpg
+
+[2025-08-22 17:50:32] 📸 Processing 002024.jpg
+[2025-08-22 17:50:36] ✅ Finished 002024.jpg
+
+[2025-08-22 17:50:36] 📸 Processing 002025.jpg
+[2025-08-22 17:50:38] ✅ Finished 002025.jpg
+
+[2025-08-22 17:50:38] 📸 Processing 002026.jpg
+[2025-08-22 17:50:40] ✅ Finished 002026.jpg
+
+[2025-08-22 17:50:40] 📸 Processing 002027.jpg
+[2025-08-22 17:50:43] ✅ Finished 002027.jpg
+
+[2025-08-22 17:50:43] 📸 Processing 002028.jpg
+[2025-08-22 17:50:45] ✅ Finished 002028.jpg
+
+[2025-08-22 17:50:45] 📸 Processing 002029.jpg
+[2025-08-22 17:50:47] ✅ Finished 002029.jpg
+
+[2025-08-22 17:50:47] 📸 Processing 002030.jpg
+[2025-08-22 17:50:50] ✅ Finished 002030.jpg
+
+[2025-08-22 17:50:50] 📸 Processing 002031.jpg
+[2025-08-22 17:50:52] ✅ Finished 002031.jpg
+
+[2025-08-22 17:50:52] 📸 Processing 002032.jpg
+[2025-08-22 17:50:55] ✅ Finished 002032.jpg
+
+[2025-08-22 17:50:55] 📸 Processing 002033.jpg
+[2025-08-22 17:50:58] ✅ Finished 002033.jpg
+
+[2025-08-22 17:50:58] 📸 Processing 002034-002035.jpg
+[2025-08-22 17:51:01] ✅ Finished 002034-002035.jpg
+
+[2025-08-22 17:51:01] 📸 Processing 002036.jpg
+[2025-08-22 17:51:03] ✅ Finished 002036.jpg
+
+[2025-08-22 17:51:03] 📸 Processing 002037-002042.jpg
+[2025-08-22 17:51:05] ✅ Finished 002037-002042.jpg
+
+[2025-08-22 17:51:05] 📸 Processing 002043.jpg
+[2025-08-22 17:51:07] ✅ Finished 002043.jpg
+
+[2025-08-22 17:51:07] 📸 Processing 002044.jpg
+[2025-08-22 17:51:09] ✅ Finished 002044.jpg
+
+[2025-08-22 17:51:09] 📸 Processing 002045-002047.jpg
+[2025-08-22 17:51:11] ✅ Finished 002045-002047.jpg
+
+[2025-08-22 17:51:11] 📸 Processing 002048.jpg
+[2025-08-22 17:51:14] ✅ Finished 002048.jpg
+
+[2025-08-22 17:51:14] 📸 Processing 002049-002074.jpg
+[2025-08-22 17:51:16] ✅ Finished 002049-002074.jpg
+
+[2025-08-22 17:51:16] 📸 Processing 002075.jpg
+[2025-08-22 17:51:19] ✅ Finished 002075.jpg
+
+[2025-08-22 17:51:19] 📸 Processing 002076-002078.jpg
+[2025-08-22 17:51:21] ✅ Finished 002076-002078.jpg
+
+[2025-08-22 17:51:21] 📸 Processing 002079.jpg
+[2025-08-22 17:51:24] ✅ Finished 002079.jpg
+
+[2025-08-22 17:51:24] 📸 Processing 002080-002101.jpg
+[2025-08-22 17:51:27] ✅ Finished 002080-002101.jpg
+
+[2025-08-22 17:51:27] 📸 Processing 002102-002107.jpg
+[2025-08-22 17:51:29] ✅ Finished 002102-002107.jpg
+
+[2025-08-22 17:51:29] 📸 Processing 002108-002115.jpg
+[2025-08-22 17:51:31] ✅ Finished 002108-002115.jpg
+
+[2025-08-22 17:51:31] 📸 Processing 002116-002208.jpg
+[2025-08-22 17:51:34] ✅ Finished 002116-002208.jpg
+
+[2025-08-22 17:51:34] 📸 Processing 002209-002221.jpg
+[2025-08-22 17:51:36] ✅ Finished 002209-002221.jpg
+
+[2025-08-22 17:51:36] 📸 Processing 002222-002230.jpg
+[2025-08-22 17:51:38] ✅ Finished 002222-002230.jpg
+
+[2025-08-22 17:51:38] 📸 Processing 002231-002246.jpg
+[2025-08-22 17:51:40] ✅ Finished 002231-002246.jpg
+
+[2025-08-22 17:51:40] 📸 Processing 002247-002265.jpg
+[2025-08-22 17:51:42] ✅ Finished 002247-002265.jpg
+
+[2025-08-22 17:51:42] 📸 Processing 002266.jpg
+[2025-08-22 17:51:44] ✅ Finished 002266.jpg
+
+[2025-08-22 17:51:44] 📸 Processing 002267-002287.jpg
+[2025-08-22 17:51:46] ✅ Finished 002267-002287.jpg
+
+[2025-08-22 17:51:46] 📸 Processing 002288-002318.jpg
+[2025-08-22 17:51:49] ✅ Finished 002288-002318.jpg
+
+[2025-08-22 17:51:49] 📸 Processing 002319.jpg
+[2025-08-22 17:51:52] ✅ Finished 002319.jpg
+
+[2025-08-22 17:51:52] 📸 Processing 002320.jpg
+[2025-08-22 17:51:55] ✅ Finished 002320.jpg
+
+[2025-08-22 17:51:55] 📸 Processing 002321-002322.jpg
+[2025-08-22 17:51:57] ✅ Finished 002321-002322.jpg
+
+[2025-08-22 17:51:57] 📸 Processing 002323.jpg
+[2025-08-22 17:52:01] ✅ Finished 002323.jpg
+
+[2025-08-22 17:52:01] 📸 Processing 002324-002325.jpg
+[2025-08-22 17:52:04] ✅ Finished 002324-002325.jpg
+
+[2025-08-22 17:52:04] 📸 Processing 002326.jpg
+[2025-08-22 17:52:08] ✅ Finished 002326.jpg
+
+[2025-08-22 17:52:08] 📸 Processing 002327.jpg
+[2025-08-22 17:52:11] ✅ Finished 002327.jpg
+
+[2025-08-22 17:52:11] 📸 Processing 002328.jpg
+[2025-08-22 17:52:13] ✅ Finished 002328.jpg
+
+[2025-08-22 17:52:13] 📸 Processing 002329.jpg
+[2025-08-22 17:52:16] ✅ Finished 002329.jpg
+
+[2025-08-22 17:52:16] 📸 Processing 002330.jpg
+[2025-08-22 17:52:18] ✅ Finished 002330.jpg
+
+[2025-08-22 17:52:18] 📸 Processing 002331.jpg
+[2025-08-22 17:52:20] ✅ Finished 002331.jpg
+
+[2025-08-22 17:52:20] 📸 Processing 002332.jpg
+[2025-08-22 17:52:22] ✅ Finished 002332.jpg
+
+[2025-08-22 17:52:22] 📸 Processing 002333-002334.jpg
+[2025-08-22 17:52:24] ✅ Finished 002333-002334.jpg
+
+[2025-08-22 17:52:24] 📸 Processing 002335.jpg
+[2025-08-22 17:52:26] ✅ Finished 002335.jpg
+
+[2025-08-22 17:52:26] 📸 Processing 002336.jpg
+[2025-08-22 17:52:28] ✅ Finished 002336.jpg
+
+[2025-08-22 17:52:28] 📸 Processing 002337.jpg
+[2025-08-22 17:52:31] ✅ Finished 002337.jpg
+
+[2025-08-22 17:52:31] 📸 Processing 002338.jpg
+[2025-08-22 17:52:34] ✅ Finished 002338.jpg
+
+[2025-08-22 17:52:34] 📸 Processing 002339.jpg
+[2025-08-22 17:52:36] ✅ Finished 002339.jpg
+
+[2025-08-22 17:52:36] 📸 Processing 002340.jpg
+[2025-08-22 17:52:39] ✅ Finished 002340.jpg
+
+[2025-08-22 17:52:39] 📸 Processing 002341.jpg
+[2025-08-22 17:52:41] ✅ Finished 002341.jpg
+
+[2025-08-22 17:52:41] 📸 Processing 002342.jpg
+[2025-08-22 17:52:44] ✅ Finished 002342.jpg
+
+[2025-08-22 17:52:44] 📸 Processing 002343.jpg
+[2025-08-22 17:52:46] ✅ Finished 002343.jpg
+
+[2025-08-22 17:52:46] 📸 Processing 002344-002345.jpg
+[2025-08-22 17:52:49] ✅ Finished 002344-002345.jpg
+
+[2025-08-22 17:52:49] 📸 Processing 002346.jpg
+[2025-08-22 17:52:51] ✅ Finished 002346.jpg
+
+[2025-08-22 17:52:51] 📸 Processing 002347.jpg
+[2025-08-22 17:52:53] ✅ Finished 002347.jpg
+
+[2025-08-22 17:52:53] 📸 Processing 002348.jpg
+[2025-08-22 17:52:56] ✅ Finished 002348.jpg
+
+[2025-08-22 17:52:56] 📸 Processing 002349.jpg
+[2025-08-22 17:52:58] ✅ Finished 002349.jpg
+
+[2025-08-22 17:52:58] 📸 Processing 002350.jpg
+[2025-08-22 17:53:00] ✅ Finished 002350.jpg
+
+[2025-08-22 17:53:00] 📸 Processing 002351.jpg
+[2025-08-22 17:53:02] ✅ Finished 002351.jpg
+
+[2025-08-22 17:53:02] 📸 Processing 002352.jpg
+[2025-08-22 17:53:05] ✅ Finished 002352.jpg
+
+[2025-08-22 17:53:05] 📸 Processing 002353.jpg
+[2025-08-22 17:53:06] ✅ Finished 002353.jpg
+
+[2025-08-22 17:53:06] 📸 Processing 002354.jpg
+[2025-08-22 17:53:10] ✅ Finished 002354.jpg
+
+[2025-08-22 17:53:10] 📸 Processing 002355.jpg
+[2025-08-22 17:53:11] ✅ Finished 002355.jpg
+
+[2025-08-22 17:53:11] 📸 Processing 002356.jpg
+[2025-08-22 17:53:14] ✅ Finished 002356.jpg
+
+[2025-08-22 17:53:14] 📸 Processing 002357.jpg
+[2025-08-22 17:53:16] ✅ Finished 002357.jpg
+
+[2025-08-22 17:53:16] 📸 Processing 002358-002359.jpg
+[2025-08-22 17:53:18] ✅ Finished 002358-002359.jpg
+
+[2025-08-22 17:53:18] 📸 Processing 002360-002362.jpg
+[2025-08-22 17:53:20] ✅ Finished 002360-002362.jpg
+
+[2025-08-22 17:53:20] 📸 Processing 002363.jpg
+[2025-08-22 17:53:22] ✅ Finished 002363.jpg
+
+[2025-08-22 17:53:22] 📸 Processing 002364.jpg
+[2025-08-22 17:53:24] ✅ Finished 002364.jpg
+
+[2025-08-22 17:53:24] 📸 Processing 002365.jpg
+[2025-08-22 17:53:27] ✅ Finished 002365.jpg
+
+[2025-08-22 17:53:27] 📸 Processing 002366.jpg
+[2025-08-22 17:53:29] ✅ Finished 002366.jpg
+
+[2025-08-22 17:53:29] 📸 Processing 002367.jpg
+[2025-08-22 17:53:32] ✅ Finished 002367.jpg
+
+[2025-08-22 17:53:32] 📸 Processing 002368.jpg
+[2025-08-22 17:53:34] ✅ Finished 002368.jpg
+
+[2025-08-22 17:53:34] 📸 Processing 002369.jpg
+[2025-08-22 17:53:37] ✅ Finished 002369.jpg
+
+[2025-08-22 17:53:37] 📸 Processing 002370.jpg
+[2025-08-22 17:53:39] ✅ Finished 002370.jpg
+
+[2025-08-22 17:53:39] 📸 Processing 002371.jpg
+[2025-08-22 17:53:41] ✅ Finished 002371.jpg
+
+[2025-08-22 17:53:41] 📸 Processing 002372.jpg
+[2025-08-22 17:53:44] ✅ Finished 002372.jpg
+
+[2025-08-22 17:53:44] 📸 Processing 002373.jpg
+[2025-08-22 17:53:46] ✅ Finished 002373.jpg
+
+[2025-08-22 17:53:46] 📸 Processing 002374.jpg
+[2025-08-22 17:53:49] ✅ Finished 002374.jpg
+
+[2025-08-22 17:53:49] 📸 Processing 002375.jpg
+[2025-08-22 17:53:51] ✅ Finished 002375.jpg
+
+[2025-08-22 17:53:51] 📸 Processing 002376.jpg
+[2025-08-22 17:53:53] ✅ Finished 002376.jpg
+
+[2025-08-22 17:53:53] 📸 Processing 002377.jpg
+[2025-08-22 17:53:55] ✅ Finished 002377.jpg
+
+[2025-08-22 17:53:55] 📸 Processing 002378.jpg
+[2025-08-22 17:53:57] ✅ Finished 002378.jpg
+
+[2025-08-22 17:53:57] 📸 Processing 002379.jpg
+[2025-08-22 17:54:00] ✅ Finished 002379.jpg
+
+[2025-08-22 17:54:00] 📸 Processing 002380.jpg
+[2025-08-22 17:54:03] ✅ Finished 002380.jpg
+
+[2025-08-22 17:54:03] 📸 Processing 002381.jpg
+[2025-08-22 17:54:05] ✅ Finished 002381.jpg
+
+[2025-08-22 17:54:05] 📸 Processing 002382.jpg
+[2025-08-22 17:54:07] ✅ Finished 002382.jpg
+
+[2025-08-22 17:54:07] 📸 Processing 002383.jpg
+[2025-08-22 17:54:09] ✅ Finished 002383.jpg
+
+[2025-08-22 17:54:09] 📸 Processing 002384.jpg
+[2025-08-22 17:54:12] ✅ Finished 002384.jpg
+
+[2025-08-22 17:54:12] 📸 Processing 002385.jpg
+[2025-08-22 17:54:14] ✅ Finished 002385.jpg
+
+[2025-08-22 17:54:14] 📸 Processing 002386-002387.jpg
+[2025-08-22 17:54:17] ✅ Finished 002386-002387.jpg
+
+[2025-08-22 17:54:17] 📸 Processing 002388-002389.jpg
+[2025-08-22 17:54:20] ✅ Finished 002388-002389.jpg
+
+[2025-08-22 17:54:20] 📸 Processing 002390.jpg
+[2025-08-22 17:54:23] ✅ Finished 002390.jpg
+
+[2025-08-22 17:54:23] 📸 Processing 002391-002392.jpg
+[2025-08-22 17:54:25] ✅ Finished 002391-002392.jpg
+
+[2025-08-22 17:54:25] 📸 Processing 002393.jpg
+[2025-08-22 17:54:27] ✅ Finished 002393.jpg
+
+[2025-08-22 17:54:27] 📸 Processing 002394.jpg
+[2025-08-22 17:54:29] ✅ Finished 002394.jpg
+
+[2025-08-22 17:54:29] 📸 Processing 002395-002398.jpg
+[2025-08-22 17:54:32] ✅ Finished 002395-002398.jpg
+
+[2025-08-22 17:54:32] 📸 Processing 002399.jpg
+[2025-08-22 17:54:34] ✅ Finished 002399.jpg
+
+[2025-08-22 17:54:34] 📸 Processing 002400.jpg
+[2025-08-22 17:54:36] ✅ Finished 002400.jpg
+
+[2025-08-22 17:54:36] 📸 Processing 002401.jpg
+[2025-08-22 17:54:38] ✅ Finished 002401.jpg
+
+[2025-08-22 17:54:38] 📸 Processing 002402.jpg
+[2025-08-22 17:54:41] ✅ Finished 002402.jpg
+
+[2025-08-22 17:54:41] 📸 Processing 002403.jpg
+[2025-08-22 17:54:43] ✅ Finished 002403.jpg
+
+[2025-08-22 17:54:43] 📸 Processing 002404.jpg
+[2025-08-22 17:54:46] ✅ Finished 002404.jpg
+
+[2025-08-22 17:54:46] 📸 Processing 002405-002407.jpg
+[2025-08-22 17:54:48] ✅ Finished 002405-002407.jpg
+
+[2025-08-22 17:54:48] 📸 Processing 002408.jpg
+[2025-08-22 17:54:50] ✅ Finished 002408.jpg
+
+[2025-08-22 17:54:50] 📸 Processing 002409.jpg
+[2025-08-22 17:54:53] ✅ Finished 002409.jpg
+
+[2025-08-22 17:54:53] 📸 Processing 002410.jpg
+[2025-08-22 17:54:54] ✅ Finished 002410.jpg
+
+[2025-08-22 17:54:54] 📸 Processing 002411.jpg
+[2025-08-22 17:54:57] ✅ Finished 002411.jpg
+
+[2025-08-22 17:54:57] 📸 Processing 002412.jpg
+[2025-08-22 17:55:00] ✅ Finished 002412.jpg
+
+[2025-08-22 17:55:00] 📸 Processing 002413-002415.jpg
+[2025-08-22 17:55:02] ✅ Finished 002413-002415.jpg
+
+[2025-08-22 17:55:02] 📸 Processing 002416.jpg
+[2025-08-22 17:55:04] ✅ Finished 002416.jpg
+
+[2025-08-22 17:55:04] 📸 Processing 002417.jpg
+[2025-08-22 17:55:06] ✅ Finished 002417.jpg
+
+[2025-08-22 17:55:06] 📸 Processing 002418.jpg
+[2025-08-22 17:55:08] ✅ Finished 002418.jpg
+
+[2025-08-22 17:55:08] 📸 Processing 002419.jpg
+[2025-08-22 17:55:10] ✅ Finished 002419.jpg
+
+[2025-08-22 17:55:10] 📸 Processing 002420.jpg
+[2025-08-22 17:55:12] ✅ Finished 002420.jpg
+
+[2025-08-22 17:55:12] 📸 Processing 002421.jpg
+[2025-08-22 17:55:14] ✅ Finished 002421.jpg
+
+[2025-08-22 17:55:14] 📸 Processing 002422-002424.jpg
+[2025-08-22 17:55:20] ✅ Finished 002422-002424.jpg
+
+[2025-08-22 17:55:20] 📸 Processing 002425.jpg
+[2025-08-22 17:55:22] ✅ Finished 002425.jpg
+
+[2025-08-22 17:55:22] 📸 Processing 002426.jpg
+[2025-08-22 17:55:24] ✅ Finished 002426.jpg
+
+[2025-08-22 17:55:24] 📸 Processing 002427.jpg
+[2025-08-22 17:55:28] ✅ Finished 002427.jpg
+
+[2025-08-22 17:55:28] 📸 Processing 002428.jpg
+[2025-08-22 17:55:30] ✅ Finished 002428.jpg
+
+[2025-08-22 17:55:30] 📸 Processing 002429-002430.jpg
+[2025-08-22 17:55:32] ✅ Finished 002429-002430.jpg
+
+[2025-08-22 17:55:32] 📸 Processing 002431.jpg
+[2025-08-22 17:55:35] ✅ Finished 002431.jpg
+
+[2025-08-22 17:55:35] 📸 Processing 002432.jpg
+[2025-08-22 17:55:37] ✅ Finished 002432.jpg
+
+[2025-08-22 17:55:37] 📸 Processing 002433-002437.jpg
+[2025-08-22 17:55:39] ✅ Finished 002433-002437.jpg
+
+[2025-08-22 17:55:39] 📸 Processing 002438.jpg
+[2025-08-22 17:55:42] ✅ Finished 002438.jpg
+
+[2025-08-22 17:55:42] 📸 Processing 002439.jpg
+[2025-08-22 17:55:43] ✅ Finished 002439.jpg
+
+[2025-08-22 17:55:43] 📸 Processing 002440.jpg
+[2025-08-22 17:55:46] ✅ Finished 002440.jpg
+
+[2025-08-22 17:55:46] 📸 Processing 002441.jpg
+[2025-08-22 17:55:47] ✅ Finished 002441.jpg
+
+[2025-08-22 17:55:47] 📸 Processing 002442.jpg
+[2025-08-22 17:55:49] ✅ Finished 002442.jpg
+
+[2025-08-22 17:55:49] 📸 Processing 002443.jpg
+[2025-08-22 17:55:51] ✅ Finished 002443.jpg
+
+[2025-08-22 17:55:51] 📸 Processing 002444.jpg
+[2025-08-22 17:55:53] ✅ Finished 002444.jpg
+
+[2025-08-22 17:55:53] 📸 Processing 002445.jpg
+[2025-08-22 17:55:55] ✅ Finished 002445.jpg
+
+[2025-08-22 17:55:55] 📸 Processing 002446.jpg
+[2025-08-22 17:55:58] ✅ Finished 002446.jpg
+
+[2025-08-22 17:55:58] 📸 Processing 002447.jpg
+[2025-08-22 17:56:00] ✅ Finished 002447.jpg
+
+[2025-08-22 17:56:00] 📸 Processing 002448.jpg
+[2025-08-22 17:56:02] ✅ Finished 002448.jpg
+
+[2025-08-22 17:56:02] 📸 Processing 002449.jpg
+[2025-08-22 17:56:05] ✅ Finished 002449.jpg
+
+[2025-08-22 17:56:05] 📸 Processing 002450.jpg
+[2025-08-22 17:56:07] ✅ Finished 002450.jpg
+
+[2025-08-22 17:56:07] 📸 Processing 002451.jpg
+[2025-08-22 17:56:10] ✅ Finished 002451.jpg
+
+[2025-08-22 17:56:10] 📸 Processing 002452.jpg
+[2025-08-22 17:56:13] ✅ Finished 002452.jpg
+
+[2025-08-22 17:56:13] 📸 Processing 002453.jpg
+[2025-08-22 17:56:15] ✅ Finished 002453.jpg
+
+[2025-08-22 17:56:15] 📸 Processing 002454.jpg
+[2025-08-22 17:56:17] ✅ Finished 002454.jpg
+
+[2025-08-22 17:56:17] 📸 Processing 002455.jpg
+[2025-08-22 17:56:19] ✅ Finished 002455.jpg
+
+[2025-08-22 17:56:19] 📸 Processing 002456.jpg
+[2025-08-22 17:56:21] ✅ Finished 002456.jpg
+
+[2025-08-22 17:56:21] 📸 Processing 002457.jpg
+[2025-08-22 17:56:23] ✅ Finished 002457.jpg
+
+[2025-08-22 17:56:23] 📸 Processing 002458.jpg
+[2025-08-22 17:56:28] ✅ Finished 002458.jpg
+
+[2025-08-22 17:56:28] 📸 Processing 002459.jpg
+[2025-08-22 17:56:30] ✅ Finished 002459.jpg
+
+[2025-08-22 17:56:30] 📸 Processing 002460.jpg
+[2025-08-22 17:56:32] ✅ Finished 002460.jpg
+
+[2025-08-22 17:56:32] 📸 Processing 002461.jpg
+[2025-08-22 17:56:34] ✅ Finished 002461.jpg
+
+[2025-08-22 17:56:34] 📸 Processing 002462-002463.jpg
+[2025-08-22 17:56:37] ✅ Finished 002462-002463.jpg
+
+[2025-08-22 17:56:37] 📸 Processing 002464.jpg
+[2025-08-22 17:56:40] ✅ Finished 002464.jpg
+
+[2025-08-22 17:56:40] 📸 Processing 002465-002467.jpg
+[2025-08-22 17:56:42] ✅ Finished 002465-002467.jpg
+
+[2025-08-22 17:56:42] 📸 Processing 002468.jpg
+[2025-08-22 17:56:44] ✅ Finished 002468.jpg
+
+[2025-08-22 17:56:44] 📸 Processing 002469.jpg
+[2025-08-22 17:56:47] ✅ Finished 002469.jpg
+
+[2025-08-22 17:56:47] 📸 Processing 002470.jpg
+[2025-08-22 17:56:49] ✅ Finished 002470.jpg
+
+[2025-08-22 17:56:49] 📸 Processing 002471-002472.jpg
+[2025-08-22 17:56:52] ✅ Finished 002471-002472.jpg
+
+[2025-08-22 17:56:52] 📸 Processing 002473.jpg
+[2025-08-22 17:56:54] ✅ Finished 002473.jpg
+
+[2025-08-22 17:56:54] 📸 Processing 002474-002476.jpg
+[2025-08-22 17:56:56] ✅ Finished 002474-002476.jpg
+
+[2025-08-22 17:56:56] 📸 Processing 002477.jpg
+[2025-08-22 17:56:58] ✅ Finished 002477.jpg
+
+[2025-08-22 17:56:58] 📸 Processing 002478-002480.jpg
+[2025-08-22 17:57:01] ✅ Finished 002478-002480.jpg
+
+[2025-08-22 17:57:01] 📸 Processing 002481-002484.jpg
+[2025-08-22 17:57:03] ✅ Finished 002481-002484.jpg
+
+[2025-08-22 17:57:03] 📸 Processing 002485.jpg
+[2025-08-22 17:57:05] ✅ Finished 002485.jpg
+
+[2025-08-22 17:57:05] 📸 Processing 002486.jpg
+[2025-08-22 17:57:07] ✅ Finished 002486.jpg
+
+[2025-08-22 17:57:07] 📸 Processing 002487.jpg
+[2025-08-22 17:57:09] ✅ Finished 002487.jpg
+
+[2025-08-22 17:57:09] 📸 Processing 002488.jpg
+[2025-08-22 17:57:10] ✅ Finished 002488.jpg
+
+[2025-08-22 17:57:10] 📸 Processing 002489-002490.jpg
+[2025-08-22 17:57:12] ✅ Finished 002489-002490.jpg
+
+[2025-08-22 17:57:12] 📸 Processing 002491.jpg
+[2025-08-22 17:57:15] ✅ Finished 002491.jpg
+
+[2025-08-22 17:57:15] 📸 Processing 002492-002493.jpg
+[2025-08-22 17:57:17] ✅ Finished 002492-002493.jpg
+
+[2025-08-22 17:57:17] 📸 Processing 002494.jpg
+[2025-08-22 17:57:19] ✅ Finished 002494.jpg
+
+[2025-08-22 17:57:19] 📸 Processing 002495.jpg
+[2025-08-22 17:57:21] ✅ Finished 002495.jpg
+
+[2025-08-22 17:57:21] 📸 Processing 002496-002497.jpg
+[2025-08-22 17:57:23] ✅ Finished 002496-002497.jpg
+
+[2025-08-22 17:57:23] 📸 Processing 002498.jpg
+[2025-08-22 17:57:26] ✅ Finished 002498.jpg
+
+[2025-08-22 17:57:26] 📸 Processing 002499-002500.jpg
+[2025-08-22 17:57:28] ✅ Finished 002499-002500.jpg
+
+[2025-08-22 17:57:28] 📸 Processing 002501-002502.jpg
+[2025-08-22 17:57:30] ✅ Finished 002501-002502.jpg
+
+[2025-08-22 17:57:30] 📸 Processing 002503-002506.jpg
+[2025-08-22 17:57:32] ✅ Finished 002503-002506.jpg
+
+[2025-08-22 17:57:33] 📸 Processing 002507.jpg
+[2025-08-22 17:57:34] ✅ Finished 002507.jpg
+
+[2025-08-22 17:57:34] 📸 Processing 002508.jpg
+[2025-08-22 17:57:36] ✅ Finished 002508.jpg
+
+[2025-08-22 17:57:36] 📸 Processing 002509.jpg
+[2025-08-22 17:57:38] ✅ Finished 002509.jpg
+
+[2025-08-22 17:57:38] 📸 Processing 002510.jpg
+[2025-08-22 17:57:41] ✅ Finished 002510.jpg
+
+[2025-08-22 17:57:41] 📸 Processing 002511.jpg
+[2025-08-22 17:57:43] ✅ Finished 002511.jpg
+
+[2025-08-22 17:57:43] 📸 Processing 002512.jpg
+[2025-08-22 17:57:45] ✅ Finished 002512.jpg
+
+[2025-08-22 17:57:45] 📸 Processing 002513.jpg
+[2025-08-22 17:57:48] ✅ Finished 002513.jpg
+
+[2025-08-22 17:57:48] 📸 Processing 002514.jpg
+[2025-08-22 17:57:50] ✅ Finished 002514.jpg
+
+[2025-08-22 17:57:50] 📸 Processing 002515.jpg
+[2025-08-22 17:57:53] ✅ Finished 002515.jpg
+
+[2025-08-22 17:57:53] 📸 Processing 002516.jpg
+[2025-08-22 17:57:55] ✅ Finished 002516.jpg
+
+[2025-08-22 17:57:55] 📸 Processing 002517.jpg
+[2025-08-22 17:57:57] ✅ Finished 002517.jpg
+
+[2025-08-22 17:57:57] 📸 Processing 002518.jpg
+[2025-08-22 17:57:59] ✅ Finished 002518.jpg
+
+[2025-08-22 17:57:59] 📸 Processing 002519.jpg
+[2025-08-22 17:58:01] ✅ Finished 002519.jpg
+
+[2025-08-22 17:58:01] 📸 Processing 002520.jpg
+[2025-08-22 17:58:03] ✅ Finished 002520.jpg
+
+[2025-08-22 17:58:03] 📸 Processing 002521.jpg
+[2025-08-22 17:58:05] ✅ Finished 002521.jpg
+
+[2025-08-22 17:58:05] 📸 Processing 002522.jpg
+[2025-08-22 17:58:07] ✅ Finished 002522.jpg
+
+[2025-08-22 17:58:07] 📸 Processing 002523-002524.jpg
+[2025-08-22 17:58:09] ✅ Finished 002523-002524.jpg
+
+[2025-08-22 17:58:09] 📸 Processing 002525-002526.jpg
+[2025-08-22 17:58:11] ✅ Finished 002525-002526.jpg
+
+[2025-08-22 17:58:11] 📸 Processing 002527.jpg
+[2025-08-22 17:58:13] ✅ Finished 002527.jpg
+
+[2025-08-22 17:58:13] 📸 Processing 002528.jpg
+[2025-08-22 17:58:16] ✅ Finished 002528.jpg
+
+[2025-08-22 17:58:16] 📸 Processing 002529-002539.jpg
+[2025-08-22 17:58:18] ✅ Finished 002529-002539.jpg
+
+[2025-08-22 17:58:18] 📸 Processing 002540.jpg
+[2025-08-22 17:58:20] ✅ Finished 002540.jpg
+
+[2025-08-22 17:58:20] 📸 Processing 002541-002555.jpg
+[2025-08-22 17:58:22] ✅ Finished 002541-002555.jpg
+
+[2025-08-22 17:58:22] 📸 Processing 002556-002565.jpg
+[2025-08-22 17:58:24] ✅ Finished 002556-002565.jpg
+
+[2025-08-22 17:58:24] 📸 Processing 002566.jpg
+[2025-08-22 17:58:28] ✅ Finished 002566.jpg
+
+[2025-08-22 17:58:28] 📸 Processing 002567.jpg
+[2025-08-22 17:58:30] ✅ Finished 002567.jpg
+
+[2025-08-22 17:58:30] 📸 Processing 002568.jpg
+[2025-08-22 17:58:32] ✅ Finished 002568.jpg
+
+[2025-08-22 17:58:32] 📸 Processing 002569.jpg
+[2025-08-22 17:58:34] ✅ Finished 002569.jpg
+
+[2025-08-22 17:58:34] 📸 Processing 002570.jpg
+[2025-08-22 17:58:36] ✅ Finished 002570.jpg
+
+[2025-08-22 17:58:36] 📸 Processing 002571.jpg
+[2025-08-22 17:58:37] ✅ Finished 002571.jpg
+
+[2025-08-22 17:58:37] 📸 Processing 002572.jpg
+[2025-08-22 17:58:39] ✅ Finished 002572.jpg
+
+[2025-08-22 17:58:39] 📸 Processing 002573.jpg
+[2025-08-22 17:58:42] ✅ Finished 002573.jpg
+
+[2025-08-22 17:58:42] 📸 Processing 002574.jpg
+[2025-08-22 17:58:45] ✅ Finished 002574.jpg
+
+[2025-08-22 17:58:45] 📸 Processing 002575.jpg
+[2025-08-22 17:58:47] ✅ Finished 002575.jpg
+
+[2025-08-22 17:58:47] 📸 Processing 002576.jpg
+[2025-08-22 17:58:49] ✅ Finished 002576.jpg
+
+[2025-08-22 17:58:49] 📸 Processing 002577-002581.jpg
+[2025-08-22 17:58:51] ✅ Finished 002577-002581.jpg
+
+[2025-08-22 17:58:51] 📸 Processing 002582-002586.jpg
+[2025-08-22 17:58:54] ✅ Finished 002582-002586.jpg
+
+[2025-08-22 17:58:54] 📸 Processing 002587.jpg
+[2025-08-22 17:58:56] ✅ Finished 002587.jpg
+
+[2025-08-22 17:58:56] 📸 Processing 002588.jpg
+[2025-08-22 17:58:58] ✅ Finished 002588.jpg
+
+[2025-08-22 17:58:58] 📸 Processing 002589.jpg
+[2025-08-22 17:59:03] ✅ Finished 002589.jpg
+
+[2025-08-22 17:59:03] 📸 Processing 002590-002591.jpg
+[2025-08-22 17:59:05] ✅ Finished 002590-002591.jpg
+
+[2025-08-22 17:59:05] 📸 Processing 002592.jpg
+[2025-08-22 17:59:07] ✅ Finished 002592.jpg
+
+[2025-08-22 17:59:07] 📸 Processing 002593.jpg
+[2025-08-22 17:59:10] ✅ Finished 002593.jpg
+
+[2025-08-22 17:59:10] 📸 Processing 002594.jpg
+[2025-08-22 17:59:12] ✅ Finished 002594.jpg
+
+[2025-08-22 17:59:12] 📸 Processing 002595.jpg
+[2025-08-22 17:59:14] ✅ Finished 002595.jpg
+
+[2025-08-22 17:59:14] 📸 Processing 002596.jpg
+[2025-08-22 17:59:16] ✅ Finished 002596.jpg
+
+[2025-08-22 17:59:16] 📸 Processing 002597.jpg
+[2025-08-22 17:59:18] ✅ Finished 002597.jpg
+
+[2025-08-22 17:59:18] 📸 Processing 002598-002610.jpg
+[2025-08-22 17:59:22] ✅ Finished 002598-002610.jpg
+
+[2025-08-22 17:59:22] 📸 Processing 002611-002621.jpg
+[2025-08-22 17:59:24] ✅ Finished 002611-002621.jpg
+
+[2025-08-22 17:59:24] 📸 Processing 002622.jpg
+[2025-08-22 17:59:26] ✅ Finished 002622.jpg
+
+[2025-08-22 17:59:26] 📸 Processing 002623-002662.jpg
+[2025-08-22 17:59:28] ✅ Finished 002623-002662.jpg
+
+[2025-08-22 17:59:28] 📸 Processing 002663-002693.jpg
+[2025-08-22 17:59:31] ✅ Finished 002663-002693.jpg
+
+[2025-08-22 17:59:31] 📸 Processing 002694.jpg
+[2025-08-22 17:59:33] ✅ Finished 002694.jpg
+
+[2025-08-22 17:59:33] 📸 Processing 002695-002698.jpg
+[2025-08-22 17:59:36] ✅ Finished 002695-002698.jpg
+
+[2025-08-22 17:59:36] 📸 Processing 002699-002710.jpg
+[2025-08-22 17:59:37] ✅ Finished 002699-002710.jpg
+
+[2025-08-22 17:59:37] 📸 Processing 002711-002715.jpg
+[2025-08-22 17:59:39] ✅ Finished 002711-002715.jpg
+
+[2025-08-22 17:59:39] 📸 Processing 002716-002718.jpg
+[2025-08-22 17:59:42] ✅ Finished 002716-002718.jpg
+
+[2025-08-22 17:59:42] 📸 Processing 002719-002722.jpg
+[2025-08-22 17:59:44] ✅ Finished 002719-002722.jpg
+
+[2025-08-22 17:59:44] 📸 Processing 002723-002724.jpg
+[2025-08-22 17:59:46] ✅ Finished 002723-002724.jpg
+
+[2025-08-22 17:59:46] 📸 Processing 002725-002735.jpg
+[2025-08-22 17:59:48] ✅ Finished 002725-002735.jpg
+
+[2025-08-22 17:59:48] 📸 Processing 002736-002775.jpg
+[2025-08-22 17:59:51] ✅ Finished 002736-002775.jpg
+
+[2025-08-22 17:59:51] 📸 Processing 002776-002794.jpg
+[2025-08-22 17:59:53] ✅ Finished 002776-002794.jpg
+
+[2025-08-22 17:59:53] 📸 Processing 002795-002799.jpg
+[2025-08-22 17:59:55] ✅ Finished 002795-002799.jpg
+
+[2025-08-22 17:59:55] 📸 Processing 002800-002804.jpg
+[2025-08-22 17:59:58] ✅ Finished 002800-002804.jpg
+
+[2025-08-22 17:59:58] 📸 Processing 002805.jpg
+[2025-08-22 18:00:00] ✅ Finished 002805.jpg
+
+[2025-08-22 18:00:00] 📸 Processing 002806.jpg
+[2025-08-22 18:00:03] ✅ Finished 002806.jpg
+
+[2025-08-22 18:00:03] 📸 Processing 002807.jpg
+[2025-08-22 18:00:16] ✅ Finished 002807.jpg
+
+[2025-08-22 18:00:16] 📸 Processing 002808.jpg
+[2025-08-22 18:00:18] ✅ Finished 002808.jpg
+
+[2025-08-22 18:00:18] 📸 Processing 002809.jpg
+[2025-08-22 18:00:20] ✅ Finished 002809.jpg
+
+[2025-08-22 18:00:20] 📸 Processing 002810.jpg
+[2025-08-22 18:00:22] ✅ Finished 002810.jpg
+
+[2025-08-22 18:00:22] 📸 Processing 002811-002812.jpg
+[2025-08-22 18:00:24] ✅ Finished 002811-002812.jpg
+
+[2025-08-22 18:00:24] 📸 Processing 002813.jpg
+[2025-08-22 18:00:25] ✅ Finished 002813.jpg
+
+[2025-08-22 18:00:25] 📸 Processing 002814.jpg
+[2025-08-22 18:00:28] ✅ Finished 002814.jpg
+
+[2025-08-22 18:00:28] 📸 Processing 002815.jpg
+[2025-08-22 18:00:31] ✅ Finished 002815.jpg
+
+[2025-08-22 18:00:31] 📸 Processing 002816.jpg
+[2025-08-22 18:00:34] ✅ Finished 002816.jpg
+
+[2025-08-22 18:00:34] 📸 Processing 002817.jpg
+[2025-08-22 18:00:35] ✅ Finished 002817.jpg
+
+[2025-08-22 18:00:35] 📸 Processing 002818.jpg
+[2025-08-22 18:00:38] ✅ Finished 002818.jpg
+
+[2025-08-22 18:00:38] 📸 Processing 002819.jpg
+[2025-08-22 18:00:40] ✅ Finished 002819.jpg
+
+[2025-08-22 18:00:40] 📸 Processing 002820.jpg
+[2025-08-22 18:00:44] ✅ Finished 002820.jpg
+
+[2025-08-22 18:00:44] 📸 Processing 002821.jpg
+[2025-08-22 18:00:46] ✅ Finished 002821.jpg
+
+[2025-08-22 18:00:46] 📸 Processing 002822.jpg
+[2025-08-22 18:00:49] ✅ Finished 002822.jpg
+
+[2025-08-22 18:00:49] 📸 Processing 002823.jpg
+[2025-08-22 18:00:52] ✅ Finished 002823.jpg
+
+[2025-08-22 18:00:52] 📸 Processing 002824.jpg
+[2025-08-22 18:00:55] ✅ Finished 002824.jpg
+
+[2025-08-22 18:00:55] 📸 Processing 002825-002828.jpg
+[2025-08-22 18:00:57] ✅ Finished 002825-002828.jpg
+
+[2025-08-22 18:00:57] 📸 Processing 002829.jpg
+[2025-08-22 18:00:59] ✅ Finished 002829.jpg
+
+[2025-08-22 18:00:59] 📸 Processing 002830.jpg
+[2025-08-22 18:01:01] ✅ Finished 002830.jpg
+
+[2025-08-22 18:01:01] 📸 Processing 002831.jpg
+[2025-08-22 18:01:04] ✅ Finished 002831.jpg
+
+[2025-08-22 18:01:04] 📸 Processing 002832-002836.jpg
+[2025-08-22 18:01:07] ✅ Finished 002832-002836.jpg
+
+[2025-08-22 18:01:07] 📸 Processing 002837.jpg
+[2025-08-22 18:01:10] ✅ Finished 002837.jpg
+
+[2025-08-22 18:01:10] 📸 Processing 002838.jpg
+[2025-08-22 18:01:12] ✅ Finished 002838.jpg
+
+[2025-08-22 18:01:12] 📸 Processing 002839.jpg
+[2025-08-22 18:01:15] ✅ Finished 002839.jpg
+
+[2025-08-22 18:01:15] 📸 Processing 002840.jpg
+[2025-08-22 18:01:17] ✅ Finished 002840.jpg
+
+[2025-08-22 18:01:17] 📸 Processing 002841-002842.jpg
+[2025-08-22 18:01:19] ✅ Finished 002841-002842.jpg
+
+[2025-08-22 18:01:19] 📸 Processing 002843-002846.jpg
+[2025-08-22 18:01:21] ✅ Finished 002843-002846.jpg
+
+[2025-08-22 18:01:21] 📸 Processing 002847-002849.jpg
+[2025-08-22 18:01:23] ✅ Finished 002847-002849.jpg
+
+[2025-08-22 18:01:23] 📸 Processing 002850-002851.jpg
+[2025-08-22 18:01:25] ✅ Finished 002850-002851.jpg
+
+[2025-08-22 18:01:25] 📸 Processing 002852.jpg
+[2025-08-22 18:01:28] ✅ Finished 002852.jpg
+
+[2025-08-22 18:01:28] 📸 Processing 002853.jpg
+[2025-08-22 18:01:30] ✅ Finished 002853.jpg
+
+[2025-08-22 18:01:30] 📸 Processing 002854.jpg
+[2025-08-22 18:01:32] ✅ Finished 002854.jpg
+
+[2025-08-22 18:01:32] 📸 Processing 002855.jpg
+[2025-08-22 18:01:34] ✅ Finished 002855.jpg
+
+[2025-08-22 18:01:34] 📸 Processing 002856.jpg
+[2025-08-22 18:01:37] ✅ Finished 002856.jpg
+
+[2025-08-22 18:01:37] 📸 Processing 002857.jpg
+[2025-08-22 18:01:40] ✅ Finished 002857.jpg
+
+[2025-08-22 18:01:40] 📸 Processing 002858.jpg
+[2025-08-22 18:01:43] ✅ Finished 002858.jpg
+
+[2025-08-22 18:01:43] 📸 Processing 002859.jpg
+[2025-08-22 18:01:45] ✅ Finished 002859.jpg
+
+[2025-08-22 18:01:45] 📸 Processing 002860.jpg
+[2025-08-22 18:01:48] ✅ Finished 002860.jpg
+
+[2025-08-22 18:01:48] 📸 Processing 002861-002862.jpg
+[2025-08-22 18:01:50] ✅ Finished 002861-002862.jpg
+
+[2025-08-22 18:01:50] 📸 Processing 002863-002865.jpg
+[2025-08-22 18:01:53] ✅ Finished 002863-002865.jpg
+
+[2025-08-22 18:01:53] 📸 Processing 002866-002867.jpg
+[2025-08-22 18:01:55] ✅ Finished 002866-002867.jpg
+
+[2025-08-22 18:01:55] 📸 Processing 002868-002869.jpg
+[2025-08-22 18:01:57] ✅ Finished 002868-002869.jpg
+
+[2025-08-22 18:01:57] 📸 Processing 002870.jpg
+[2025-08-22 18:01:59] ✅ Finished 002870.jpg
+
+[2025-08-22 18:01:59] 📸 Processing 002871-002872.jpg
+[2025-08-22 18:02:01] ✅ Finished 002871-002872.jpg
+
+[2025-08-22 18:02:01] 📸 Processing 002873-002875.jpg
+[2025-08-22 18:02:04] ✅ Finished 002873-002875.jpg
+
+[2025-08-22 18:02:04] 📸 Processing 002876.jpg
+[2025-08-22 18:02:07] ✅ Finished 002876.jpg
+
+[2025-08-22 18:02:07] 📸 Processing 002877.jpg
+[2025-08-22 18:02:09] ✅ Finished 002877.jpg
+
+[2025-08-22 18:02:09] 📸 Processing 002878-002880.jpg
+[2025-08-22 18:02:12] ✅ Finished 002878-002880.jpg
+
+[2025-08-22 18:02:12] 📸 Processing 002881-002882.jpg
+[2025-08-22 18:02:15] ✅ Finished 002881-002882.jpg
+
+[2025-08-22 18:02:15] 📸 Processing 002883-002885.jpg
+[2025-08-22 18:02:17] ✅ Finished 002883-002885.jpg
+
+[2025-08-22 18:02:18] 📸 Processing 002886-002889.jpg
+[2025-08-22 18:02:20] ✅ Finished 002886-002889.jpg
+
+[2025-08-22 18:02:20] 📸 Processing 002890-002891.jpg
+[2025-08-22 18:02:22] ✅ Finished 002890-002891.jpg
+
+[2025-08-22 18:02:22] 📸 Processing 002892-002894.jpg
+[2025-08-22 18:02:24] ✅ Finished 002892-002894.jpg
+
+[2025-08-22 18:02:24] 📸 Processing 002895.jpg
+[2025-08-22 18:02:28] ✅ Finished 002895.jpg
+
+[2025-08-22 18:02:28] 📸 Processing 002896.jpg
+[2025-08-22 18:02:30] ✅ Finished 002896.jpg
+
+[2025-08-22 18:02:30] 📸 Processing 002897.jpg
+[2025-08-22 18:02:33] ✅ Finished 002897.jpg
+
+[2025-08-22 18:02:33] 📸 Processing 002898.jpg
+[2025-08-22 18:02:35] ✅ Finished 002898.jpg
+
+[2025-08-22 18:02:35] 📸 Processing 002899.jpg
+[2025-08-22 18:02:38] ✅ Finished 002899.jpg
+
+[2025-08-22 18:02:38] 📸 Processing 002900.jpg
+[2025-08-22 18:02:40] ✅ Finished 002900.jpg
+
+[2025-08-22 18:02:40] 📸 Processing 002901.jpg
+[2025-08-22 18:02:43] ✅ Finished 002901.jpg
+
+[2025-08-22 18:02:43] 📸 Processing 002902-002904.jpg
+[2025-08-22 18:02:45] ✅ Finished 002902-002904.jpg
+
+[2025-08-22 18:02:45] 📸 Processing 002905-002908.jpg
+[2025-08-22 18:02:47] ✅ Finished 002905-002908.jpg
+
+[2025-08-22 18:02:47] 📸 Processing 002909-002911.jpg
+[2025-08-22 18:02:51] ✅ Finished 002909-002911.jpg
+
+[2025-08-22 18:02:51] 📸 Processing 002912-002913.jpg
+[2025-08-22 18:02:54] ✅ Finished 002912-002913.jpg
+
+[2025-08-22 18:02:54] 📸 Processing 002914.jpg
+[2025-08-22 18:02:56] ✅ Finished 002914.jpg
+
+[2025-08-22 18:02:56] 📸 Processing 002915.jpg
+[2025-08-22 18:02:59] ✅ Finished 002915.jpg
+
+[2025-08-22 18:02:59] 📸 Processing 002916.jpg
+[2025-08-22 18:03:02] ✅ Finished 002916.jpg
+
+[2025-08-22 18:03:02] 📸 Processing 002917-002918.jpg
+[2025-08-22 18:03:04] ✅ Finished 002917-002918.jpg
+
+[2025-08-22 18:03:04] 📸 Processing 002919.jpg
+[2025-08-22 18:03:07] ✅ Finished 002919.jpg
+
+[2025-08-22 18:03:07] 📸 Processing 002920.jpg
+[2025-08-22 18:03:09] ✅ Finished 002920.jpg
+
+[2025-08-22 18:03:09] 📸 Processing 002921.jpg
+[2025-08-22 18:03:11] ✅ Finished 002921.jpg
+
+[2025-08-22 18:03:11] 📸 Processing 002922.jpg
+[2025-08-22 18:03:15] ✅ Finished 002922.jpg
+
+[2025-08-22 18:03:15] 📸 Processing 002923.jpg
+[2025-08-22 18:03:17] ✅ Finished 002923.jpg
+
+[2025-08-22 18:03:17] 📸 Processing 002924.jpg
+[2025-08-22 18:03:19] ✅ Finished 002924.jpg
+
+[2025-08-22 18:03:19] 📸 Processing 002925-002926.jpg
+[2025-08-22 18:03:22] ✅ Finished 002925-002926.jpg
+
+[2025-08-22 18:03:22] 📸 Processing 002927.jpg
+[2025-08-22 18:03:25] ✅ Finished 002927.jpg
+
+[2025-08-22 18:03:25] 📸 Processing 002928-002935.jpg
+[2025-08-22 18:03:27] ✅ Finished 002928-002935.jpg
+
+[2025-08-22 18:03:27] 📸 Processing 002936-002937.jpg
+[2025-08-22 18:03:29] ✅ Finished 002936-002937.jpg
+
+[2025-08-22 18:03:29] 📸 Processing 002938.jpg
+[2025-08-22 18:03:31] ✅ Finished 002938.jpg
+
+[2025-08-22 18:03:31] 📸 Processing 002939.jpg
+[2025-08-22 18:03:34] ✅ Finished 002939.jpg
+
+[2025-08-22 18:03:34] 📸 Processing 002940.jpg
+[2025-08-22 18:03:36] ✅ Finished 002940.jpg
+
+[2025-08-22 18:03:36] 📸 Processing 002941.jpg
+[2025-08-22 18:03:39] ✅ Finished 002941.jpg
+
+[2025-08-22 18:03:39] 📸 Processing 002942-002944.jpg
+[2025-08-22 18:03:41] ✅ Finished 002942-002944.jpg
+
+[2025-08-22 18:03:41] 📸 Processing 002945-002947.jpg
+[2025-08-22 18:03:43] ✅ Finished 002945-002947.jpg
+
+[2025-08-22 18:03:43] 📸 Processing 002948-002953.jpg
+[2025-08-22 18:03:46] ✅ Finished 002948-002953.jpg
+
+[2025-08-22 18:03:46] 📸 Processing 002954.jpg
+[2025-08-22 18:03:48] ✅ Finished 002954.jpg
+
+[2025-08-22 18:03:48] 📸 Processing 002955-002956.jpg
+[2025-08-22 18:03:50] ✅ Finished 002955-002956.jpg
+
+[2025-08-22 18:03:50] 📸 Processing 002957-002958.jpg
+[2025-08-22 18:03:52] ✅ Finished 002957-002958.jpg
+
+[2025-08-22 18:03:52] 📸 Processing 002959.jpg
+[2025-08-22 18:03:55] ✅ Finished 002959.jpg
+
+[2025-08-22 18:03:55] 📸 Processing 002960.jpg
+[2025-08-22 18:03:57] ✅ Finished 002960.jpg
+
+[2025-08-22 18:03:57] 📸 Processing 002961.jpg
+[2025-08-22 18:03:59] ✅ Finished 002961.jpg
+
+[2025-08-22 18:03:59] 📸 Processing 002962.jpg
+[2025-08-22 18:04:01] ✅ Finished 002962.jpg
+
+[2025-08-22 18:04:01] 📸 Processing 002963-002970.jpg
+[2025-08-22 18:04:03] ✅ Finished 002963-002970.jpg
+
+[2025-08-22 18:04:03] 📸 Processing 002971.jpg
+[2025-08-22 18:04:05] ✅ Finished 002971.jpg
+
+[2025-08-22 18:04:05] 📸 Processing 002972.jpg
+[2025-08-22 18:04:07] ✅ Finished 002972.jpg
+
+[2025-08-22 18:04:07] 📸 Processing 002973.jpg
+[2025-08-22 18:04:09] ✅ Finished 002973.jpg
+
+[2025-08-22 18:04:09] 📸 Processing 002974.jpg
+[2025-08-22 18:04:12] ✅ Finished 002974.jpg
+
+[2025-08-22 18:04:12] 📸 Processing 002975.jpg
+[2025-08-22 18:04:14] ✅ Finished 002975.jpg
+
+[2025-08-22 18:04:14] 📸 Processing 002976.jpg
+[2025-08-22 18:04:16] ✅ Finished 002976.jpg
+
+[2025-08-22 18:04:16] 📸 Processing 002977.jpg
+[2025-08-22 18:04:19] ✅ Finished 002977.jpg
+
+[2025-08-22 18:04:19] 📸 Processing 002978.jpg
+[2025-08-22 18:04:22] ✅ Finished 002978.jpg
+
+[2025-08-22 18:04:22] 📸 Processing 002979.jpg
+[2025-08-22 18:04:25] ✅ Finished 002979.jpg
+
+[2025-08-22 18:04:25] 📸 Processing 002980.jpg
+[2025-08-22 18:04:27] ✅ Finished 002980.jpg
+
+[2025-08-22 18:04:27] 📸 Processing 002981.jpg
+[2025-08-22 18:04:30] ✅ Finished 002981.jpg
+
+[2025-08-22 18:04:30] 📸 Processing 002982.jpg
+[2025-08-22 18:04:32] ✅ Finished 002982.jpg
+
+[2025-08-22 18:04:32] 📸 Processing 002983.jpg
+[2025-08-22 18:04:34] ✅ Finished 002983.jpg
+
+[2025-08-22 18:04:34] 📸 Processing 002984-002985.jpg
+[2025-08-22 18:04:37] ✅ Finished 002984-002985.jpg
+
+[2025-08-22 18:04:37] 📸 Processing 002986.jpg
+[2025-08-22 18:04:39] ✅ Finished 002986.jpg
+
+[2025-08-22 18:04:39] 📸 Processing 002987.jpg
+[2025-08-22 18:04:44] ✅ Finished 002987.jpg
+
+[2025-08-22 18:04:44] 📸 Processing 002988-002989.jpg
+[2025-08-22 18:04:46] ✅ Finished 002988-002989.jpg
+
+[2025-08-22 18:04:46] 📸 Processing 002990.jpg
+[2025-08-22 18:04:48] ✅ Finished 002990.jpg
+
+[2025-08-22 18:04:48] 📸 Processing 002991.jpg
+[2025-08-22 18:04:52] ✅ Finished 002991.jpg
+
+[2025-08-22 18:04:52] 📸 Processing 002992.jpg
+[2025-08-22 18:04:54] ✅ Finished 002992.jpg
+
+[2025-08-22 18:04:54] 📸 Processing 002993.jpg
+[2025-08-22 18:04:57] ✅ Finished 002993.jpg
+
+[2025-08-22 18:04:57] 📸 Processing 002994.jpg
+[2025-08-22 18:04:59] ✅ Finished 002994.jpg
+
+[2025-08-22 18:04:59] 📸 Processing 002995.jpg
+[2025-08-22 18:05:01] ✅ Finished 002995.jpg
+
+[2025-08-22 18:05:01] 📸 Processing 002996-002997.jpg
+[2025-08-22 18:05:04] ✅ Finished 002996-002997.jpg
+
+[2025-08-22 18:05:04] 📸 Processing 002998.jpg
+[2025-08-22 18:05:07] ✅ Finished 002998.jpg
+
+[2025-08-22 18:05:07] 📸 Processing 002999.jpg
+[2025-08-22 18:05:09] ✅ Finished 002999.jpg
+
+[2025-08-22 18:05:09] 📸 Processing 003000.jpg
+[2025-08-22 18:05:12] ✅ Finished 003000.jpg
+
+[2025-08-22 18:05:12] 📸 Processing 003001.jpg
+[2025-08-22 18:05:15] ✅ Finished 003001.jpg
+
+[2025-08-22 18:05:15] 📸 Processing 003002.jpg
+[2025-08-22 18:05:17] ✅ Finished 003002.jpg
+
+[2025-08-22 18:05:17] 📸 Processing 003003-003004.jpg
+[2025-08-22 18:05:19] ✅ Finished 003003-003004.jpg
+
+[2025-08-22 18:05:19] 📸 Processing 003005-003006.jpg
+[2025-08-22 18:05:22] ✅ Finished 003005-003006.jpg
+
+[2025-08-22 18:05:22] 📸 Processing 003007-003008.jpg
+[2025-08-22 18:05:24] ✅ Finished 003007-003008.jpg
+
+[2025-08-22 18:05:24] 📸 Processing 003009-003010.jpg
+[2025-08-22 18:05:27] ✅ Finished 003009-003010.jpg
+
+[2025-08-22 18:05:27] 📸 Processing 003011.jpg
+[2025-08-22 18:05:30] ✅ Finished 003011.jpg
+
+[2025-08-22 18:05:30] 📸 Processing 003012.jpg
+[2025-08-22 18:05:32] ✅ Finished 003012.jpg
+
+[2025-08-22 18:05:32] 📸 Processing 003013.jpg
+[2025-08-22 18:05:34] ✅ Finished 003013.jpg
+
+[2025-08-22 18:05:34] 📸 Processing 003014.jpg
+[2025-08-22 18:05:36] ✅ Finished 003014.jpg
+
+[2025-08-22 18:05:36] 📸 Processing 003015-003016.jpg
+[2025-08-22 18:05:38] ✅ Finished 003015-003016.jpg
+
+[2025-08-22 18:05:38] 📸 Processing 003017.jpg
+[2025-08-22 18:05:40] ✅ Finished 003017.jpg
+
+[2025-08-22 18:05:40] 📸 Processing 003018.jpg
+[2025-08-22 18:05:44] ✅ Finished 003018.jpg
+
+[2025-08-22 18:05:44] 📸 Processing 003019-003040.jpg
+[2025-08-22 18:05:48] ✅ Finished 003019-003040.jpg
+
+[2025-08-22 18:05:48] 📸 Processing 003041-003042.jpg
+[2025-08-22 18:05:50] ✅ Finished 003041-003042.jpg
+
+[2025-08-22 18:05:50] 📸 Processing 003043.jpg
+[2025-08-22 18:05:53] ✅ Finished 003043.jpg
+
+[2025-08-22 18:05:53] 📸 Processing 003044-003051.jpg
+[2025-08-22 18:05:55] ✅ Finished 003044-003051.jpg
+
+[2025-08-22 18:05:55] 📸 Processing 003052-003059.jpg
+[2025-08-22 18:06:01] ✅ Finished 003052-003059.jpg
+
+[2025-08-22 18:06:01] 📸 Processing 003060-003065.jpg
+[2025-08-22 18:06:03] ✅ Finished 003060-003065.jpg
+
+[2025-08-22 18:06:03] 📸 Processing 003066.jpg
+[2025-08-22 18:06:05] ✅ Finished 003066.jpg
+
+[2025-08-22 18:06:05] 📸 Processing 003067-003073.jpg
+[2025-08-22 18:06:07] ✅ Finished 003067-003073.jpg
+
+[2025-08-22 18:06:07] 📸 Processing 003074-003083.jpg
+[2025-08-22 18:06:10] ✅ Finished 003074-003083.jpg
+
+[2025-08-22 18:06:10] 📸 Processing 003084.jpg
+[2025-08-22 18:06:12] ✅ Finished 003084.jpg
+
+[2025-08-22 18:06:12] 📸 Processing 003085-003101.jpg
+[2025-08-22 18:06:14] ✅ Finished 003085-003101.jpg
+
+[2025-08-22 18:06:14] 📸 Processing 003102-003125.jpg
+[2025-08-22 18:06:17] ✅ Finished 003102-003125.jpg
+
+[2025-08-22 18:06:17] 📸 Processing 003126-003151.jpg
+[2025-08-22 18:06:19] ✅ Finished 003126-003151.jpg
+
+[2025-08-22 18:06:19] 📸 Processing 003152.jpg
+[2025-08-22 18:06:22] ✅ Finished 003152.jpg
+
+[2025-08-22 18:06:22] 📸 Processing 003153-003158.jpg
+[2025-08-22 18:06:24] ✅ Finished 003153-003158.jpg
+
+[2025-08-22 18:06:24] 📸 Processing 003159-003161.jpg
+[2025-08-22 18:06:27] ✅ Finished 003159-003161.jpg
+
+[2025-08-22 18:06:27] 📸 Processing 003162-003165.jpg
+[2025-08-22 18:06:29] ✅ Finished 003162-003165.jpg
+
+[2025-08-22 18:06:29] 📸 Processing 003166.jpg
+[2025-08-22 18:06:31] ✅ Finished 003166.jpg
+
+[2025-08-22 18:06:31] 📸 Processing 003167-003176.jpg
+[2025-08-22 18:06:33] ✅ Finished 003167-003176.jpg
+
+[2025-08-22 18:06:33] 📸 Processing 003177-003187.jpg
+[2025-08-22 18:06:35] ✅ Finished 003177-003187.jpg
+
+[2025-08-22 18:06:35] 📸 Processing 003188-003226.jpg
+[2025-08-22 18:06:38] ✅ Finished 003188-003226.jpg
+
+[2025-08-22 18:06:38] 📸 Processing 003227-003263.jpg
+[2025-08-22 18:06:41] ✅ Finished 003227-003263.jpg
+
+[2025-08-22 18:06:41] 📸 Processing 003264.jpg
+[2025-08-22 18:06:43] ✅ Finished 003264.jpg
+
+[2025-08-22 18:06:43] 📸 Processing 003265-003266.jpg
+[2025-08-22 18:06:45] ✅ Finished 003265-003266.jpg
+
+[2025-08-22 18:06:45] 📸 Processing 003267-003268.jpg
+[2025-08-22 18:06:48] ✅ Finished 003267-003268.jpg
+
+[2025-08-22 18:06:48] 📸 Processing 003269-003272.jpg
+[2025-08-22 18:06:51] ✅ Finished 003269-003272.jpg
+
+[2025-08-22 18:06:51] 📸 Processing 003273-003276.jpg
+[2025-08-22 18:06:56] ✅ Finished 003273-003276.jpg
+
+[2025-08-22 18:06:56] 📸 Processing 003277-003279.jpg
+[2025-08-22 18:06:58] ✅ Finished 003277-003279.jpg
+
+[2025-08-22 18:06:58] 📸 Processing 003280.jpg
+[2025-08-22 18:07:00] ✅ Finished 003280.jpg
+
+[2025-08-22 18:07:00] 📸 Processing 003281-003282.jpg
+[2025-08-22 18:07:02] ✅ Finished 003281-003282.jpg
+
+[2025-08-22 18:07:02] 📸 Processing 003283.jpg
+[2025-08-22 18:07:06] ✅ Finished 003283.jpg
+
+[2025-08-22 18:07:06] 📸 Processing 003284.jpg
+[2025-08-22 18:07:08] ✅ Finished 003284.jpg
+
+[2025-08-22 18:07:08] 📸 Processing 003285-003290.jpg
+[2025-08-22 18:07:10] ✅ Finished 003285-003290.jpg
+
+[2025-08-22 18:07:10] 📸 Processing 003291-003355.jpg
+[2025-08-22 18:07:12] ✅ Finished 003291-003355.jpg
+
+[2025-08-22 18:07:12] 📸 Processing 003356-003373.jpg
+[2025-08-22 18:07:15] ✅ Finished 003356-003373.jpg
+
+[2025-08-22 18:07:15] 📸 Processing 003374-003379.jpg
+[2025-08-22 18:07:23] ✅ Finished 003374-003379.jpg
+
+[2025-08-22 18:07:23] 📸 Processing 003380.jpg
+[2025-08-22 18:07:24] ✅ Finished 003380.jpg
+
+[2025-08-22 18:07:24] 📸 Processing 003381-003383.jpg
+[2025-08-22 18:07:27] ✅ Finished 003381-003383.jpg
+
+[2025-08-22 18:07:27] 📸 Processing 003384-003385.jpg
+[2025-08-22 18:07:29] ✅ Finished 003384-003385.jpg
+
+[2025-08-22 18:07:29] 📸 Processing 003386-003390.jpg
+[2025-08-22 18:07:31] ✅ Finished 003386-003390.jpg
+
+[2025-08-22 18:07:31] 📸 Processing 003391-003396.jpg
+[2025-08-22 18:07:33] ✅ Finished 003391-003396.jpg
+
+[2025-08-22 18:07:33] 📸 Processing 003397-003400.jpg
+[2025-08-22 18:07:35] ✅ Finished 003397-003400.jpg
+
+[2025-08-22 18:07:35] 📸 Processing 003401.jpg
+[2025-08-22 18:07:38] ✅ Finished 003401.jpg
+
+[2025-08-22 18:07:38] 📸 Processing 003402.jpg
+[2025-08-22 18:07:40] ✅ Finished 003402.jpg
+
+[2025-08-22 18:07:40] 📸 Processing 003403-003404.jpg
+[2025-08-22 18:07:43] ✅ Finished 003403-003404.jpg
+
+[2025-08-22 18:07:43] 📸 Processing 003405.jpg
+[2025-08-22 18:07:45] ✅ Finished 003405.jpg
+
+[2025-08-22 18:07:45] 📸 Processing 003406-003412.jpg
+[2025-08-22 18:07:47] ✅ Finished 003406-003412.jpg
+
+[2025-08-22 18:07:47] 📸 Processing 003413.jpg
+[2025-08-22 18:07:49] ✅ Finished 003413.jpg
+
+[2025-08-22 18:07:49] 📸 Processing 003414.jpg
+[2025-08-22 18:07:51] ✅ Finished 003414.jpg
+
+[2025-08-22 18:07:51] 📸 Processing 003415.jpg
+[2025-08-22 18:07:54] ✅ Finished 003415.jpg
+
+[2025-08-22 18:07:54] 📸 Processing 003416.jpg
+[2025-08-22 18:07:56] ✅ Finished 003416.jpg
+
+[2025-08-22 18:07:56] 📸 Processing 003417.jpg
+[2025-08-22 18:07:59] ✅ Finished 003417.jpg
+
+[2025-08-22 18:07:59] 📸 Processing 003418.jpg
+[2025-08-22 18:08:01] ✅ Finished 003418.jpg
+
+[2025-08-22 18:08:01] 📸 Processing 003419.jpg
+[2025-08-22 18:08:04] ✅ Finished 003419.jpg
+
+[2025-08-22 18:08:04] 📸 Processing 003420.jpg
+[2025-08-22 18:08:06] ✅ Finished 003420.jpg
+
+[2025-08-22 18:08:06] 📸 Processing 003421.jpg
+[2025-08-22 18:08:08] ✅ Finished 003421.jpg
+
+[2025-08-22 18:08:08] 📸 Processing 003422-003423.jpg
+[2025-08-22 18:08:10] ✅ Finished 003422-003423.jpg
+
+[2025-08-22 18:08:10] 📸 Processing 003424.jpg
+[2025-08-22 18:08:13] ✅ Finished 003424.jpg
+
+[2025-08-22 18:08:13] 📸 Processing 003425.jpg
+[2025-08-22 18:08:15] ✅ Finished 003425.jpg
+
+[2025-08-22 18:08:15] 📸 Processing 003426.jpg
+[2025-08-22 18:08:18] ✅ Finished 003426.jpg
+
+[2025-08-22 18:08:18] 📸 Processing 003427-003429.jpg
+[2025-08-22 18:08:20] ✅ Finished 003427-003429.jpg
+
+[2025-08-22 18:08:20] 📸 Processing 003430.jpg
+[2025-08-22 18:08:23] ✅ Finished 003430.jpg
+
+[2025-08-22 18:08:23] 📸 Processing 003431-003432.jpg
+[2025-08-22 18:08:26] ✅ Finished 003431-003432.jpg
+
+[2025-08-22 18:08:26] 📸 Processing 003433.jpg
+[2025-08-22 18:08:28] ✅ Finished 003433.jpg
+
+[2025-08-22 18:08:28] 📸 Processing 003434-003435.jpg
+[2025-08-22 18:08:30] ✅ Finished 003434-003435.jpg
+
+[2025-08-22 18:08:30] 📸 Processing 003436.jpg
+[2025-08-22 18:08:33] ✅ Finished 003436.jpg
+
+[2025-08-22 18:08:33] 📸 Processing 003437.jpg
+[2025-08-22 18:08:35] ✅ Finished 003437.jpg
+
+[2025-08-22 18:08:35] 📸 Processing 003438-003439.jpg
+[2025-08-22 18:08:37] ✅ Finished 003438-003439.jpg
+
+[2025-08-22 18:08:37] 📸 Processing 003440.jpg
+[2025-08-22 18:08:39] ✅ Finished 003440.jpg
+
+[2025-08-22 18:08:39] 📸 Processing 003441.jpg
+[2025-08-22 18:08:41] ✅ Finished 003441.jpg
+
+[2025-08-22 18:08:41] 📸 Processing 003442.jpg
+[2025-08-22 18:08:43] ✅ Finished 003442.jpg
+
+[2025-08-22 18:08:43] 📸 Processing 003443.jpg
+[2025-08-22 18:08:45] ✅ Finished 003443.jpg
+
+[2025-08-22 18:08:45] 📸 Processing 003444.jpg
+[2025-08-22 18:08:47] ✅ Finished 003444.jpg
+
+[2025-08-22 18:08:47] 📸 Processing 003445.jpg
+[2025-08-22 18:08:49] ✅ Finished 003445.jpg
+
+[2025-08-22 18:08:49] 📸 Processing 003446.jpg
+[2025-08-22 18:08:51] ✅ Finished 003446.jpg
+
+[2025-08-22 18:08:51] 📸 Processing 003447.jpg
+[2025-08-22 18:08:53] ✅ Finished 003447.jpg
+
+[2025-08-22 18:08:53] 📸 Processing 003448.jpg
+[2025-08-22 18:08:55] ✅ Finished 003448.jpg
+
+[2025-08-22 18:08:55] 📸 Processing 003449.jpg
+[2025-08-22 18:08:59] ✅ Finished 003449.jpg
+
+[2025-08-22 18:08:59] 📸 Processing 003450-003451.jpg
+[2025-08-22 18:09:02] ✅ Finished 003450-003451.jpg
+
+[2025-08-22 18:09:02] 📸 Processing 003452.jpg
+[2025-08-22 18:09:04] ✅ Finished 003452.jpg
+
+[2025-08-22 18:09:04] 📸 Processing 003453.jpg
+[2025-08-22 18:09:11] ✅ Finished 003453.jpg
+
+[2025-08-22 18:09:11] 📸 Processing 003454.jpg
+[2025-08-22 18:09:13] ✅ Finished 003454.jpg
+
+[2025-08-22 18:09:13] 📸 Processing 003455.jpg
+[2025-08-22 18:09:15] ✅ Finished 003455.jpg
+
+[2025-08-22 18:09:15] 📸 Processing 003456.jpg
+[2025-08-22 18:09:17] ✅ Finished 003456.jpg
+
+[2025-08-22 18:09:17] 📸 Processing 003457.jpg
+[2025-08-22 18:09:19] ✅ Finished 003457.jpg
+
+[2025-08-22 18:09:19] 📸 Processing 003458.jpg
+[2025-08-22 18:09:21] ✅ Finished 003458.jpg
+
+[2025-08-22 18:09:21] 📸 Processing 003459.jpg
+[2025-08-22 18:09:23] ✅ Finished 003459.jpg
+
+[2025-08-22 18:09:23] 📸 Processing 003460.jpg
+[2025-08-22 18:09:25] ✅ Finished 003460.jpg
+
+[2025-08-22 18:09:25] 📸 Processing 003461-003462.jpg
+[2025-08-22 18:09:28] ✅ Finished 003461-003462.jpg
+
+[2025-08-22 18:09:28] 📸 Processing 003463.jpg
+[2025-08-22 18:09:34] ✅ Finished 003463.jpg
+
+[2025-08-22 18:09:34] 📸 Processing 003464-003467.jpg
+[2025-08-22 18:09:35] ✅ Finished 003464-003467.jpg
+
+[2025-08-22 18:09:35] 📸 Processing 003468.jpg
+[2025-08-22 18:09:38] ✅ Finished 003468.jpg
+
+[2025-08-22 18:09:38] 📸 Processing 003469.jpg
+[2025-08-22 18:09:41] ✅ Finished 003469.jpg
+
+[2025-08-22 18:09:41] 📸 Processing 003470.jpg
+[2025-08-22 18:09:44] ✅ Finished 003470.jpg
+
+[2025-08-22 18:09:44] 📸 Processing 003471.jpg
+[2025-08-22 18:09:46] ✅ Finished 003471.jpg
+
+[2025-08-22 18:09:46] 📸 Processing 003472.jpg
+[2025-08-22 18:09:48] ✅ Finished 003472.jpg
+
+[2025-08-22 18:09:48] 📸 Processing 003473.jpg
+[2025-08-22 18:09:49] ✅ Finished 003473.jpg
+
+[2025-08-22 18:09:49] 📸 Processing 003474.jpg
+[2025-08-22 18:09:53] ✅ Finished 003474.jpg
+
+[2025-08-22 18:09:53] 📸 Processing 003475.jpg
+[2025-08-22 18:09:55] ✅ Finished 003475.jpg
+
+[2025-08-22 18:09:55] 📸 Processing 003476.jpg
+[2025-08-22 18:09:57] ✅ Finished 003476.jpg
+
+[2025-08-22 18:09:57] 📸 Processing 003477-003478.jpg
+[2025-08-22 18:10:00] ✅ Finished 003477-003478.jpg
+
+[2025-08-22 18:10:00] 📸 Processing 003479.jpg
+[2025-08-22 18:10:17] ✅ Finished 003479.jpg
+
+[2025-08-22 18:10:17] 📸 Processing 003480.jpg
+[2025-08-22 18:10:19] ✅ Finished 003480.jpg
+
+[2025-08-22 18:10:19] 📸 Processing 003481.jpg
+[2025-08-22 18:10:21] ✅ Finished 003481.jpg
+
+[2025-08-22 18:10:21] 📸 Processing 003482.jpg
+[2025-08-22 18:10:22] ✅ Finished 003482.jpg
+
+[2025-08-22 18:10:22] 📸 Processing 003483.jpg
+[2025-08-22 18:10:25] ✅ Finished 003483.jpg
+
+[2025-08-22 18:10:25] 📸 Processing 003484.jpg
+[2025-08-22 18:10:27] ✅ Finished 003484.jpg
+
+[2025-08-22 18:10:27] 📸 Processing 003485.jpg
+[2025-08-22 18:10:29] ✅ Finished 003485.jpg
+
+[2025-08-22 18:10:29] 📸 Processing 003486.jpg
+[2025-08-22 18:10:31] ✅ Finished 003486.jpg
+
+[2025-08-22 18:10:31] 📸 Processing 003487.jpg
+[2025-08-22 18:10:32] ✅ Finished 003487.jpg
+
+[2025-08-22 18:10:32] 📸 Processing 003488.jpg
+[2025-08-22 18:10:35] ✅ Finished 003488.jpg
+
+[2025-08-22 18:10:35] 📸 Processing 003489.jpg
+[2025-08-22 18:10:39] ✅ Finished 003489.jpg
+
+[2025-08-22 18:10:39] 📸 Processing 003490.jpg
+[2025-08-22 18:10:40] ✅ Finished 003490.jpg
+
+[2025-08-22 18:10:40] 📸 Processing 003491-003492.jpg
+[2025-08-22 18:10:43] ✅ Finished 003491-003492.jpg
+
+[2025-08-22 18:10:43] 📸 Processing 003493-003495.jpg
+[2025-08-22 18:10:46] ✅ Finished 003493-003495.jpg
+
+[2025-08-22 18:10:46] 📸 Processing 003496-003497.jpg
+[2025-08-22 18:10:48] ✅ Finished 003496-003497.jpg
+
+[2025-08-22 18:10:48] 📸 Processing 003498.jpg
+[2025-08-22 18:10:51] ✅ Finished 003498.jpg
+
+[2025-08-22 18:10:51] 📸 Processing 003499-003500.jpg
+[2025-08-22 18:10:53] ✅ Finished 003499-003500.jpg
+
+[2025-08-22 18:10:53] 📸 Processing 003501-003502.jpg
+[2025-08-22 18:10:54] ✅ Finished 003501-003502.jpg
+
+[2025-08-22 18:10:54] 📸 Processing 003503-003506.jpg
+[2025-08-22 18:10:58] ✅ Finished 003503-003506.jpg
+
+[2025-08-22 18:10:58] 📸 Processing 003507-003509.jpg
+[2025-08-22 18:11:00] ✅ Finished 003507-003509.jpg
+
+[2025-08-22 18:11:00] 📸 Processing 003510-003511.jpg
+[2025-08-22 18:11:03] ✅ Finished 003510-003511.jpg
+
+[2025-08-22 18:11:03] 📸 Processing 003512-003513.jpg
+[2025-08-22 18:11:06] ✅ Finished 003512-003513.jpg
+
+[2025-08-22 18:11:06] 📸 Processing 003514-003515.jpg
+[2025-08-22 18:11:07] ✅ Finished 003514-003515.jpg
+
+[2025-08-22 18:11:07] 📸 Processing 003516.jpg
+[2025-08-22 18:11:09] ✅ Finished 003516.jpg
+
+[2025-08-22 18:11:09] 📸 Processing 003517-003525.jpg
+[2025-08-22 18:11:11] ✅ Finished 003517-003525.jpg
+
+[2025-08-22 18:11:11] 📸 Processing 003526.jpg
+[2025-08-22 18:11:13] ✅ Finished 003526.jpg
+
+[2025-08-22 18:11:13] 📸 Processing 003527-003528.jpg
+[2025-08-22 18:11:15] ✅ Finished 003527-003528.jpg
+
+[2025-08-22 18:11:15] 📸 Processing 003529-003530.jpg
+[2025-08-22 18:11:17] ✅ Finished 003529-003530.jpg
+
+[2025-08-22 18:11:17] 📸 Processing 003531-003534.jpg
+[2025-08-22 18:11:19] ✅ Finished 003531-003534.jpg
+
+[2025-08-22 18:11:19] 📸 Processing 003535.jpg
+[2025-08-22 18:11:21] ✅ Finished 003535.jpg
+
+[2025-08-22 18:11:21] 📸 Processing 003536.jpg
+[2025-08-22 18:11:23] ✅ Finished 003536.jpg
+
+[2025-08-22 18:11:23] 📸 Processing 003537.jpg
+[2025-08-22 18:11:26] ✅ Finished 003537.jpg
+
+[2025-08-22 18:11:26] 📸 Processing 003538.jpg
+[2025-08-22 18:11:28] ✅ Finished 003538.jpg
+
+[2025-08-22 18:11:28] 📸 Processing 003539.jpg
+[2025-08-22 18:11:32] ✅ Finished 003539.jpg
+
+[2025-08-22 18:11:32] 📸 Processing 003540.jpg
+[2025-08-22 18:11:33] ✅ Finished 003540.jpg
+
+[2025-08-22 18:11:33] 📸 Processing 003541-003546.jpg
+[2025-08-22 18:11:35] ✅ Finished 003541-003546.jpg
+
+[2025-08-22 18:11:35] 📸 Processing 003547-003550.jpg
+[2025-08-22 18:11:37] ✅ Finished 003547-003550.jpg
+
+[2025-08-22 18:11:37] 📸 Processing 003551-003555.jpg
+[2025-08-22 18:11:39] ✅ Finished 003551-003555.jpg
+
+[2025-08-22 18:11:39] 📸 Processing 003556.jpg
+[2025-08-22 18:11:42] ✅ Finished 003556.jpg
+
+[2025-08-22 18:11:42] 📸 Processing 003557.jpg
+[2025-08-22 18:11:44] ✅ Finished 003557.jpg
+
+[2025-08-22 18:11:44] 📸 Processing 003558.jpg
+[2025-08-22 18:11:46] ✅ Finished 003558.jpg
+
+[2025-08-22 18:11:46] 📸 Processing 003559.jpg
+[2025-08-22 18:11:48] ✅ Finished 003559.jpg
+
+[2025-08-22 18:11:48] 📸 Processing 003560.jpg
+[2025-08-22 18:11:50] ✅ Finished 003560.jpg
+
+[2025-08-22 18:11:50] 📸 Processing 003561-003562.jpg
+[2025-08-22 18:11:52] ✅ Finished 003561-003562.jpg
+
+[2025-08-22 18:11:52] 📸 Processing 003563-003564.jpg
+[2025-08-22 18:11:54] ✅ Finished 003563-003564.jpg
+
+[2025-08-22 18:11:54] 📸 Processing 003565.jpg
+[2025-08-22 18:11:55] ✅ Finished 003565.jpg
+
+[2025-08-22 18:11:55] 📸 Processing 003566.jpg
+[2025-08-22 18:11:58] ✅ Finished 003566.jpg
+
+[2025-08-22 18:11:58] 📸 Processing 003567.jpg
+[2025-08-22 18:12:03] ✅ Finished 003567.jpg
+
+[2025-08-22 18:12:03] 📸 Processing 003568.jpg
+[2025-08-22 18:12:04] ✅ Finished 003568.jpg
+
+[2025-08-22 18:12:04] 📸 Processing 003569.jpg
+[2025-08-22 18:12:07] ✅ Finished 003569.jpg
+
+[2025-08-22 18:12:07] 📸 Processing 003570-003572.jpg
+[2025-08-22 18:12:10] ✅ Finished 003570-003572.jpg
+
+[2025-08-22 18:12:10] 📸 Processing 003573-003574.jpg
+[2025-08-22 18:12:12] ✅ Finished 003573-003574.jpg
+
+[2025-08-22 18:12:12] 📸 Processing 003575-003577.jpg
+[2025-08-22 18:12:14] ✅ Finished 003575-003577.jpg
+
+[2025-08-22 18:12:14] 📸 Processing 003578-003579.jpg
+[2025-08-22 18:12:17] ✅ Finished 003578-003579.jpg
+
+[2025-08-22 18:12:17] 📸 Processing 003580-003583.jpg
+[2025-08-22 18:12:18] ✅ Finished 003580-003583.jpg
+
+[2025-08-22 18:12:18] 📸 Processing 003584-003585.jpg
+[2025-08-22 18:12:20] ✅ Finished 003584-003585.jpg
+
+[2025-08-22 18:12:20] 📸 Processing 003586.jpg
+[2025-08-22 18:12:22] ✅ Finished 003586.jpg
+
+[2025-08-22 18:12:22] 📸 Processing 003587.jpg
+[2025-08-22 18:12:24] ✅ Finished 003587.jpg
+
+[2025-08-22 18:12:24] 📸 Processing 003588.jpg
+[2025-08-22 18:12:26] ✅ Finished 003588.jpg
+
+[2025-08-22 18:12:26] 📸 Processing 003589.jpg
+[2025-08-22 18:12:28] ✅ Finished 003589.jpg
+
+[2025-08-22 18:12:28] 📸 Processing 003590.jpg
+[2025-08-22 18:12:30] ✅ Finished 003590.jpg
+
+[2025-08-22 18:12:30] 📸 Processing 003591.jpg
+[2025-08-22 18:12:32] ✅ Finished 003591.jpg
+
+[2025-08-22 18:12:32] 📸 Processing 003592.jpg
+[2025-08-22 18:12:34] ✅ Finished 003592.jpg
+
+[2025-08-22 18:12:34] 📸 Processing 003593.jpg
+[2025-08-22 18:12:36] ✅ Finished 003593.jpg
+
+[2025-08-22 18:12:36] 📸 Processing 003594-003595.jpg
+[2025-08-22 18:12:44] ✅ Finished 003594-003595.jpg
+
+[2025-08-22 18:12:44] 📸 Processing 003596-003597.jpg
+[2025-08-22 18:12:46] ✅ Finished 003596-003597.jpg
+
+[2025-08-22 18:12:46] 📸 Processing 003598.jpg
+[2025-08-22 18:12:48] ✅ Finished 003598.jpg
+
+[2025-08-22 18:12:48] 📸 Processing 003599.jpg
+[2025-08-22 18:12:50] ✅ Finished 003599.jpg
+
+[2025-08-22 18:12:50] 📸 Processing 003600.jpg
+[2025-08-22 18:12:53] ✅ Finished 003600.jpg
+
+[2025-08-22 18:12:53] 📸 Processing 003601.jpg
+[2025-08-22 18:12:55] ✅ Finished 003601.jpg
+
+[2025-08-22 18:12:55] 📸 Processing 003602.jpg
+[2025-08-22 18:12:57] ✅ Finished 003602.jpg
+
+[2025-08-22 18:12:57] 📸 Processing 003603.jpg
+[2025-08-22 18:12:59] ✅ Finished 003603.jpg
+
+[2025-08-22 18:12:59] 📸 Processing 003604.jpg
+[2025-08-22 18:13:01] ✅ Finished 003604.jpg
+
+[2025-08-22 18:13:01] 📸 Processing 003605.jpg
+[2025-08-22 18:13:03] ✅ Finished 003605.jpg
+
+[2025-08-22 18:13:03] 📸 Processing 003606.jpg
+[2025-08-22 18:13:06] ✅ Finished 003606.jpg
+
+[2025-08-22 18:13:06] 📸 Processing 003607.jpg
+[2025-08-22 18:13:07] ✅ Finished 003607.jpg
+
+[2025-08-22 18:13:07] 📸 Processing 003608.jpg
+[2025-08-22 18:13:10] ✅ Finished 003608.jpg
+
+[2025-08-22 18:13:10] 📸 Processing 003609.jpg
+[2025-08-22 18:13:11] ✅ Finished 003609.jpg
+
+[2025-08-22 18:13:11] 📸 Processing 003610.jpg
+[2025-08-22 18:13:14] ✅ Finished 003610.jpg
+
+[2025-08-22 18:13:14] 📸 Processing 003611.jpg
+[2025-08-22 18:13:16] ✅ Finished 003611.jpg
+
+[2025-08-22 18:13:16] 📸 Processing 003612-003615.jpg
+[2025-08-22 18:13:18] ✅ Finished 003612-003615.jpg
+
+[2025-08-22 18:13:18] 📸 Processing 003616.jpg
+[2025-08-22 18:13:20] ✅ Finished 003616.jpg
+
+[2025-08-22 18:13:20] 📸 Processing 003617.jpg
+[2025-08-22 18:13:21] ✅ Finished 003617.jpg
+
+[2025-08-22 18:13:21] 📸 Processing 003618-003629.jpg
+[2025-08-22 18:13:24] ✅ Finished 003618-003629.jpg
+
+[2025-08-22 18:13:24] 📸 Processing 003630.jpg
+[2025-08-22 18:13:26] ✅ Finished 003630.jpg
+
+[2025-08-22 18:13:26] 📸 Processing 003631.jpg
+[2025-08-22 18:13:29] ✅ Finished 003631.jpg
+
+[2025-08-22 18:13:29] 📸 Processing 003632.jpg
+[2025-08-22 18:13:30] ✅ Finished 003632.jpg
+
+[2025-08-22 18:13:30] 📸 Processing 003633.jpg
+[2025-08-22 18:13:32] ✅ Finished 003633.jpg
+
+[2025-08-22 18:13:32] 📸 Processing 003634.jpg
+[2025-08-22 18:13:34] ✅ Finished 003634.jpg
+
+[2025-08-22 18:13:34] 📸 Processing 003635.jpg
+[2025-08-22 18:13:37] ✅ Finished 003635.jpg
+
+[2025-08-22 18:13:37] 📸 Processing 003636.jpg
+[2025-08-22 18:13:39] ✅ Finished 003636.jpg
+
+[2025-08-22 18:13:39] 📸 Processing 003637.jpg
+[2025-08-22 18:13:42] ✅ Finished 003637.jpg
+
+[2025-08-22 18:13:42] 📸 Processing 003638.jpg
+[2025-08-22 18:13:43] ✅ Finished 003638.jpg
+
+[2025-08-22 18:13:43] 📸 Processing 003639-003642.jpg
+[2025-08-22 18:13:47] ✅ Finished 003639-003642.jpg
+
+[2025-08-22 18:13:47] 📸 Processing 003643.jpg
+[2025-08-22 18:13:50] ✅ Finished 003643.jpg
+
+[2025-08-22 18:13:50] 📸 Processing 003644.jpg
+[2025-08-22 18:13:52] ✅ Finished 003644.jpg
+
+[2025-08-22 18:13:52] 📸 Processing 003645-003648.jpg
+[2025-08-22 18:13:54] ✅ Finished 003645-003648.jpg
+
+[2025-08-22 18:13:54] 📸 Processing 003649-003657.jpg
+[2025-08-22 18:13:56] ✅ Finished 003649-003657.jpg
+
+[2025-08-22 18:13:56] 📸 Processing 003658.jpg
+[2025-08-22 18:13:58] ✅ Finished 003658.jpg
+
+[2025-08-22 18:13:58] 📸 Processing 003659-003660.jpg
+[2025-08-22 18:14:01] ✅ Finished 003659-003660.jpg
+
+[2025-08-22 18:14:01] 🏁 Finished folder: MSNBCW_20210110_040000_The_Week_With_Joshua_Johnson
+

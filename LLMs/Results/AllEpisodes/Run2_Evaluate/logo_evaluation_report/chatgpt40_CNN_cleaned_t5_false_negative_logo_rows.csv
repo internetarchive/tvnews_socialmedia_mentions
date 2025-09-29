@@ -1,0 +1,3 @@
+filename,gold,predicted,false_negatives
+/CNNW_20220425_050000_CNN_Newsroom_Live-000481-000494.jpg,{'twitter'},set(),{'twitter'}
+/CNNW_20220425_050000_CNN_Newsroom_Live-000496-000508.jpg,{'twitter'},set(),{'twitter'}
