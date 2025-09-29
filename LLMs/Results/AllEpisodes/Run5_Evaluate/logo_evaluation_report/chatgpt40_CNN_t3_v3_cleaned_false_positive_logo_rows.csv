@@ -1,0 +1,46 @@
+filename,gold,predicted,false_positives
+/CNNW_20200314_030000_CNN_Tonight_With_Don_Lemon-003522.jpg,set(),{'twitter (x)'},{'twitter (x)'}
+/CNNW_20200314_030000_CNN_Tonight_With_Don_Lemon-003530.jpg,set(),{'twitter (x)'},{'twitter (x)'}
+/CNNW_20200314_030000_CNN_Tonight_With_Don_Lemon-003541.jpg,set(),{'twitter (x)'},{'twitter (x)'}
+/CNNW_20200314_030000_CNN_Tonight_With_Don_Lemon-003547.jpg,set(),{'twitter (x)'},{'twitter (x)'}
+/CNNW_20200314_050000_Cuomo_Prime_Time-002220.jpg,set(),{'twitter'},{'twitter'}
+/CNNW_20210110_050000_CNN_Newsroom_Live-001315-001316.jpg,set(),{'instagram'},{'instagram'}
+/CNNW_20210110_050000_CNN_Newsroom_Live-001842.jpg,set(),{'twitter (x)'},{'twitter (x)'}
+/CNNW_20210110_050000_CNN_Newsroom_Live-001869.jpg,set(),{'twitter (x)'},{'twitter (x)'}
+/CNNW_20210110_050000_CNN_Newsroom_Live-002703.jpg,set(),{'meta'},{'meta'}
+/CNNW_20210110_050000_CNN_Newsroom_Live-002704.jpg,set(),{'meta'},{'meta'}
+/CNNW_20210110_060000_CNN_Newsroom_Live-001215-001222.jpg,set(),{'parler'},{'parler'}
+/CNNW_20210110_060000_CNN_Newsroom_Live-001223-001225.jpg,set(),{'parler'},{'parler'}
+/CNNW_20220425_050000_CNN_Newsroom_Live-000012-000017.jpg,set(),{'meta'},{'meta'}
+/CNNW_20220425_050000_CNN_Newsroom_Live-001066-001067.jpg,set(),{'rumble'},{'rumble'}
+/CNNW_20220425_050000_CNN_Newsroom_Live-001619.jpg,set(),{'facebook'},{'facebook'}
+/CNNW_20220425_050000_CNN_Newsroom_Live-001755.jpg,set(),{'twitter (x)'},{'twitter (x)'}
+/CNNW_20220425_050000_CNN_Newsroom_Live-001767.jpg,set(),{'twitter (x)'},{'twitter (x)'}
+/CNNW_20220425_050000_CNN_Newsroom_Live-001774.jpg,set(),{'twitter (x)'},{'twitter (x)'}
+/CNNW_20220425_050000_CNN_Newsroom_Live-001805.jpg,set(),{'twitter (x)'},{'twitter (x)'}
+/CNNW_20220425_050000_CNN_Newsroom_Live-002578.jpg,set(),{'rumble'},{'rumble'}
+/CNNW_20220425_050000_CNN_Newsroom_Live-002579.jpg,set(),{'rumble'},{'rumble'}
+/CNNW_20220425_050000_CNN_Newsroom_Live-003275-003276.jpg,set(),"{'twitter', 'facebook', 'instagram'}","{'twitter', 'facebook', 'instagram'}"
+/CNNW_20220425_050000_CNN_Newsroom_Live-003505-003506.jpg,set(),{'rumble'},{'rumble'}
+/CNNW_20220425_050000_CNN_Newsroom_Live-003507.jpg,set(),{'youtube'},{'youtube'}
+/CNNW_20220425_050000_CNN_Newsroom_Live-003527.jpg,set(),{'rumble'},{'rumble'}
+/CNNW_20240201_040000_Laura_Coates_Live-001169.jpg,set(),{'twitter (x)'},{'twitter (x)'}
+/CNNW_20240201_040000_Laura_Coates_Live-002142.jpg,set(),{'facebook'},{'facebook'}
+/CNNW_20240201_040000_Laura_Coates_Live-003516.jpg,set(),{'instagram'},{'instagram'}
+/CNNW_20240201_040000_Laura_Coates_Live-003532-003535.jpg,set(),{'tiktok'},{'tiktok'}
+/CNNW_20240201_040000_Laura_Coates_Live-003541.jpg,set(),{'tiktok'},{'tiktok'}
+/CNNW_20240201_050000_Anderson_Cooper_360-002686.jpg,set(),{'youtube'},{'youtube'}
+/CNNW_20240201_050000_Anderson_Cooper_360-002693-002703.jpg,set(),{'youtube'},{'youtube'}
+/CNNW_20240201_050000_Anderson_Cooper_360-002704.jpg,set(),{'youtube'},{'youtube'}
+/CNNW_20240201_050000_Anderson_Cooper_360-002705-002706.jpg,set(),{'youtube'},{'youtube'}
+/CNNW_20240201_050000_Anderson_Cooper_360-002714-002716.jpg,set(),{'youtube'},{'youtube'}
+/CNNW_20240201_050000_Anderson_Cooper_360-002752-002755.jpg,set(),{'youtube'},{'youtube'}
+/CNNW_20240201_050000_Anderson_Cooper_360-002756.jpg,set(),{'youtube'},{'youtube'}
+/CNNW_20240201_050000_Anderson_Cooper_360-002773.jpg,set(),{'youtube'},{'youtube'}
+/CNNW_20240201_050000_Anderson_Cooper_360-002780-002781.jpg,set(),{'youtube'},{'youtube'}
+/CNNW_20240201_050000_Anderson_Cooper_360-002802-002803.jpg,set(),{'youtube'},{'youtube'}
+/CNNW_20240201_050000_Anderson_Cooper_360-002872-002878.jpg,set(),{'youtube'},{'youtube'}
+/CNNW_20240201_060000_The_Source_With_Kaitlan_Collins-000048-000053.jpg,set(),{'tiktok'},{'tiktok'}
+/CNNW_20240201_060000_The_Source_With_Kaitlan_Collins-000065.jpg,set(),{'tiktok'},{'tiktok'}
+/CNNW_20240201_060000_The_Source_With_Kaitlan_Collins-002223.jpg,set(),{'pinterest'},{'pinterest'}
+/CNNW_20240201_060000_The_Source_With_Kaitlan_Collins-002246.jpg,set(),{'twitter'},{'twitter'}

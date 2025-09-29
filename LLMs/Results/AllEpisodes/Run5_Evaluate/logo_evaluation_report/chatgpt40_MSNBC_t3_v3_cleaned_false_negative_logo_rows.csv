@@ -1,0 +1,11 @@
+filename,gold,predicted,false_negatives
+/MSNBCW_20210110_040000_The_Week_With_Joshua_Johnson-001404-001421.jpg,{'twitter'},set(),{'twitter'}
+/MSNBCW_20210110_040000_The_Week_With_Joshua_Johnson-001559-001572.jpg,{'twitter'},set(),{'twitter'}
+/MSNBCW_20210110_040000_The_Week_With_Joshua_Johnson-002598-002610.jpg,{'twitter'},set(),{'twitter'}
+/MSNBCW_20210110_040000_The_Week_With_Joshua_Johnson-003166.jpg,{'facebook'},set(),{'facebook'}
+/MSNBCW_20210110_050000_The_Week_With_Joshua_Johnson-001478-001484.jpg,{'twitter'},set(),{'twitter'}
+/MSNBCW_20210110_050000_The_Week_With_Joshua_Johnson-003288-003378.jpg,{'twitter'},set(),{'twitter'}
+/MSNBCW_20220425_040000_Ayman-002156-002159.jpg,{'facebook'},set(),{'facebook'}
+/MSNBCW_20220425_040000_Ayman-002160.jpg,{'facebook'},set(),{'facebook'}
+/MSNBCW_20220425_040000_Ayman-002161.jpg,{'facebook'},set(),{'facebook'}
+/MSNBCW_20220425_040000_Ayman-002162-002164.jpg,{'facebook'},set(),{'facebook'}

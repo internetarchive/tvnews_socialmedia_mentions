@@ -1,0 +1,53 @@
+filename,gold,predicted,false_negatives
+/FOXNEWSW_20200314_030000_Fox_News_at_Night_With_Shannon_Bream-000052-000054.jpg,{'twitter'},set(),{'twitter'}
+/FOXNEWSW_20200314_030000_Fox_News_at_Night_With_Shannon_Bream-001100.jpg,{'instagram'},set(),{'instagram'}
+/FOXNEWSW_20200314_030000_Fox_News_at_Night_With_Shannon_Bream-001101-001102.jpg,{'instagram'},set(),{'instagram'}
+/FOXNEWSW_20200314_030000_Fox_News_at_Night_With_Shannon_Bream-001103-001104.jpg,{'instagram'},set(),{'instagram'}
+/FOXNEWSW_20200314_030000_Fox_News_at_Night_With_Shannon_Bream-003046.jpg,{'twitter'},set(),{'twitter'}
+/FOXNEWSW_20200314_030000_Fox_News_at_Night_With_Shannon_Bream-003047.jpg,{'twitter'},set(),{'twitter'}
+/FOXNEWSW_20200314_030000_Fox_News_at_Night_With_Shannon_Bream-003048.jpg,{'twitter'},set(),{'twitter'}
+/FOXNEWSW_20200314_030000_Fox_News_at_Night_With_Shannon_Bream-003049-003053.jpg,{'twitter'},set(),{'twitter'}
+/FOXNEWSW_20200314_050000_Hannity-001334.jpg,{'twitter'},set(),{'twitter'}
+/FOXNEWSW_20200314_050000_Hannity-003615-003620.jpg,{'twitter'},set(),{'twitter'}
+/FOXNEWSW_20200314_050000_Hannity-003621.jpg,{'twitter'},set(),{'twitter'}
+/FOXNEWSW_20210110_040000_Watters_World-000000-000002.jpg,{'twitter'},set(),{'twitter'}
+/FOXNEWSW_20210110_040000_Watters_World-000003.jpg,{'twitter'},set(),{'twitter'}
+/FOXNEWSW_20210110_040000_Watters_World-000004.jpg,{'twitter'},set(),{'twitter'}
+/FOXNEWSW_20210110_040000_Watters_World-000005-000007.jpg,{'twitter'},set(),{'twitter'}
+/FOXNEWSW_20210110_040000_Watters_World-003015-003022.jpg,{'instagram'},set(),{'instagram'}
+/FOXNEWSW_20210110_050000_Justice_With_Judge_Jeanine-000026.jpg,{'twitter'},set(),{'twitter'}
+/FOXNEWSW_20210110_050000_Justice_With_Judge_Jeanine-000027.jpg,{'twitter'},set(),{'twitter'}
+/FOXNEWSW_20210110_050000_Justice_With_Judge_Jeanine-000028.jpg,{'twitter'},set(),{'twitter'}
+/FOXNEWSW_20210110_050000_Justice_With_Judge_Jeanine-000029.jpg,{'twitter'},set(),{'twitter'}
+/FOXNEWSW_20210110_050000_Justice_With_Judge_Jeanine-000030.jpg,{'twitter'},set(),{'twitter'}
+/FOXNEWSW_20210110_050000_Justice_With_Judge_Jeanine-000031.jpg,{'twitter'},set(),{'twitter'}
+/FOXNEWSW_20210110_050000_Justice_With_Judge_Jeanine-000032.jpg,{'twitter'},set(),{'twitter'}
+/FOXNEWSW_20210110_050000_Justice_With_Judge_Jeanine-000033.jpg,{'twitter'},set(),{'twitter'}
+/FOXNEWSW_20210110_050000_Justice_With_Judge_Jeanine-000034.jpg,{'twitter'},set(),{'twitter'}
+/FOXNEWSW_20210110_050000_Justice_With_Judge_Jeanine-001498-001515.jpg,{'parler'},set(),{'parler'}
+/FOXNEWSW_20210110_050000_Justice_With_Judge_Jeanine-001970.jpg,{'twitter'},set(),{'twitter'}
+/FOXNEWSW_20210110_050000_Justice_With_Judge_Jeanine-001971-001973.jpg,{'twitter'},set(),{'twitter'}
+/FOXNEWSW_20210110_050000_Justice_With_Judge_Jeanine-001974-001977.jpg,{'twitter'},set(),{'twitter'}
+/FOXNEWSW_20210110_060000_The_Greg_Gutfeld_Show-001260.jpg,{'instagram'},set(),{'instagram'}
+/FOXNEWSW_20210110_060000_The_Greg_Gutfeld_Show-001261-001262.jpg,{'instagram'},set(),{'instagram'}
+/FOXNEWSW_20210110_060000_The_Greg_Gutfeld_Show-001263.jpg,{'instagram'},set(),{'instagram'}
+/FOXNEWSW_20210110_060000_The_Greg_Gutfeld_Show-001264.jpg,{'instagram'},set(),{'instagram'}
+/FOXNEWSW_20210110_060000_The_Greg_Gutfeld_Show-001265-001268.jpg,{'instagram'},set(),{'instagram'}
+/FOXNEWSW_20220425_030000_Life_Liberty__Levin-000005-000013.jpg,"{'twitter', 'facebook', 'instagram'}",set(),"{'twitter', 'facebook', 'instagram'}"
+/FOXNEWSW_20220425_050000_Sunday_Night_in_America_With_Trey_Gowdy-003605-003613.jpg,"{'twitter', 'facebook', 'instagram'}",set(),"{'twitter', 'facebook', 'instagram'}"
+/FOXNEWSW_20230122_040000_One_Nation_With_Brian_Kilmeade-001857-001861.jpg,{'tiktok'},set(),{'tiktok'}
+/FOXNEWSW_20230122_060000_Lawrence_Jones_Cross_Country-002666.jpg,"{'facebook', 'instagram', 'linkedin', 'twitter', 'tiktok'}","{'facebook', 'linkedin', 'tiktok', 'instagram'}",{'twitter'}
+/FOXNEWSW_20240201_040000_Fox_News_at_Night-000045-000049.jpg,{'twitter (x)'},set(),{'twitter (x)'}
+/FOXNEWSW_20240201_040000_Fox_News_at_Night-000572-000575.jpg,"{'discord', 'snapchat', 'meta', 'twitter (x)', 'tiktok'}","{'tiktok', 'discord', 'twitter (x)', 'snapchat'}",{'meta'}
+/FOXNEWSW_20240201_040000_Fox_News_at_Night-000576.jpg,"{'discord', 'snapchat', 'meta', 'twitter (x)', 'tiktok'}",{'snapchat'},"{'meta', 'discord', 'twitter (x)', 'tiktok'}"
+/FOXNEWSW_20240201_040000_Fox_News_at_Night-001320-001329.jpg,"{'twitter (x)', 'instagram'}",{'instagram'},{'twitter (x)'}
+/FOXNEWSW_20240201_040000_Fox_News_at_Night-001330-001337.jpg,"{'twitter (x)', 'instagram'}",{'instagram'},{'twitter (x)'}
+/FOXNEWSW_20240201_040000_Fox_News_at_Night-002752.jpg,"{'snapchat', 'pinterest', 'facebook', 'instagram', 'youtube', 'twitter (x)'}","{'snapchat', 'facebook', 'youtube', 'instagram', 'twitter (x)'}",{'pinterest'}
+/FOXNEWSW_20240201_040000_Fox_News_at_Night-002753.jpg,"{'twitter (x)', 'youtube', 'instagram', 'pinterest'}","{'twitter (x)', 'youtube', 'instagram'}",{'pinterest'}
+/FOXNEWSW_20240201_040000_Fox_News_at_Night-002815-002817.jpg,"{'twitter (x)', 'instagram'}",{'twitter (x)'},{'instagram'}
+/FOXNEWSW_20240201_040000_Fox_News_at_Night-002818.jpg,"{'twitter (x)', 'instagram'}",{'twitter (x)'},{'instagram'}
+/FOXNEWSW_20240201_040000_Fox_News_at_Night-002819-002821.jpg,"{'twitter (x)', 'instagram'}",{'twitter (x)'},{'instagram'}
+/FOXNEWSW_20240201_040000_Fox_News_at_Night-002823.jpg,"{'twitter (x)', 'instagram'}",{'twitter (x)'},{'instagram'}
+/FOXNEWSW_20240201_040000_Fox_News_at_Night-003302-003329.jpg,"{'twitter (x)', 'instagram'}",{'instagram'},{'twitter (x)'}
+/FOXNEWSW_20240201_060000_Jesse_Watters_Primetime-001918-001922.jpg,{'twitter (x)'},set(),{'twitter (x)'}
+/FOXNEWSW_20240201_060000_Jesse_Watters_Primetime-001923-001928.jpg,{'twitter (x)'},set(),{'twitter (x)'}

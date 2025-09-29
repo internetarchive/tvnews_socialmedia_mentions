@@ -1,0 +1,4 @@
+filename,gold,predicted,false_negatives
+/FOXNEWSW_20240201_040000_Fox_News_at_Night-003302-003329.jpg,"{'twitter (x)', 'instagram'}",{'instagram'},{'twitter (x)'}
+/FOXNEWSW_20240201_060000_Jesse_Watters_Primetime-001918-001922.jpg,{'twitter (x)'},{'twitter'},{'twitter (x)'}
+/FOXNEWSW_20240201_060000_Jesse_Watters_Primetime-001923-001928.jpg,{'twitter (x)'},{'twitter'},{'twitter (x)'}

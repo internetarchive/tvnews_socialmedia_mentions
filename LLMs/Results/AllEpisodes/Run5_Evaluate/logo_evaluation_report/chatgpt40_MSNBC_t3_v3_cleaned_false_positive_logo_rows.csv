@@ -1,0 +1,24 @@
+filename,gold,predicted,false_positives
+/MSNBCW_20200314_030000_The_11th_Hour_With_Brian_Williams-001431.jpg,set(),{'twitter (x)'},{'twitter (x)'}
+/MSNBCW_20200314_030000_The_11th_Hour_With_Brian_Williams-003016.jpg,set(),{'twitter (x)'},{'twitter (x)'}
+/MSNBCW_20200314_030000_The_11th_Hour_With_Brian_Williams-003044.jpg,set(),{'twitter (x)'},{'twitter (x)'}
+/MSNBCW_20200314_050000_The_Last_Word_With_Lawrence_ODonnell-003423.jpg,set(),{'twitter (x)'},{'twitter (x)'}
+/MSNBCW_20210110_040000_The_Week_With_Joshua_Johnson-001239.jpg,set(),{'twitter (x)'},{'twitter (x)'}
+/MSNBCW_20220425_040000_Ayman-000854.jpg,set(),{'twitter (x)'},{'twitter (x)'}
+/MSNBCW_20220425_040000_Ayman-000872.jpg,set(),{'twitter (x)'},{'twitter (x)'}
+/MSNBCW_20220425_040000_Ayman-002155.jpg,set(),{'facebook'},{'facebook'}
+/MSNBCW_20230122_040600_American_Voices_With_Alicia_Menendez-000392-000394.jpg,set(),{'instagram'},{'instagram'}
+/MSNBCW_20230122_040600_American_Voices_With_Alicia_Menendez-003265.jpg,set(),"{'parler', 'pinterest'}","{'parler', 'pinterest'}"
+/MSNBCW_20230122_040600_American_Voices_With_Alicia_Menendez-003274-003275.jpg,set(),{'facebook'},{'facebook'}
+/MSNBCW_20230122_040600_American_Voices_With_Alicia_Menendez-003276-003278.jpg,set(),{'facebook'},{'facebook'}
+/MSNBCW_20230122_050000_Ayman-000025.jpg,set(),"{'discord', 'instagram'}","{'discord', 'instagram'}"
+/MSNBCW_20230122_050000_Ayman-000033.jpg,set(),{'facebook'},{'facebook'}
+/MSNBCW_20230122_050000_Ayman-000034-000035.jpg,set(),{'facebook'},{'facebook'}
+/MSNBCW_20230122_050000_Ayman-000036-000038.jpg,set(),{'facebook'},{'facebook'}
+/MSNBCW_20230122_050000_Ayman-001154.jpg,set(),{'twitter (x)'},{'twitter (x)'}
+/MSNBCW_20230122_050000_Ayman-002536.jpg,set(),{'pinterest'},{'pinterest'}
+/MSNBCW_20230122_050000_Ayman-002949.jpg,set(),{'linkedin'},{'linkedin'}
+/MSNBCW_20230122_050000_Ayman-003625.jpg,set(),{'discord'},{'discord'}
+/MSNBCW_20230122_050000_Ayman-003634-003638.jpg,set(),{'facebook'},{'facebook'}
+/MSNBCW_20240201_040000_The_11th_Hour_With_Stephanie_Ruhle-001055.jpg,set(),{'meta'},{'meta'}
+/MSNBCW_20240201_060000_The_Last_Word_With_Lawrence_ODonnell-002551-002565.jpg,set(),{'youtube'},{'youtube'}

@@ -1,0 +1,4 @@
+filename,gold,predicted,false_negatives
+/MSNBCW_20210110_040000_The_Week_With_Joshua_Johnson-001404-001421.jpg,{'twitter'},set(),{'twitter'}
+/MSNBCW_20210110_040000_The_Week_With_Joshua_Johnson-002598-002610.jpg,{'twitter'},set(),{'twitter'}
+/MSNBCW_20210110_050000_The_Week_With_Joshua_Johnson-001478-001484.jpg,{'twitter'},set(),{'twitter'}
