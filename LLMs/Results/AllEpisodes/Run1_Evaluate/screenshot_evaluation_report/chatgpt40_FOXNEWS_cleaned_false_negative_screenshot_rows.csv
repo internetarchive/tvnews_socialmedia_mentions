@@ -1,0 +1,2 @@
+filename,gold,predicted,false_negatives
+/FOXNEWSW_20240201_040000_Fox_News_at_Night-003302-003329.jpg,"{'twitter (x)', 'instagram'}",{'instagram'},{'twitter (x)'}

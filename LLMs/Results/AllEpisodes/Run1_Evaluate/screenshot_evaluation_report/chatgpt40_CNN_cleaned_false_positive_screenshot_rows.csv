@@ -1,0 +1,15 @@
+filename,gold,predicted,false_positives
+/CNNW_20200314_030000_CNN_Tonight_With_Don_Lemon-001897-001915.jpg,set(),{'twitter'},{'twitter'}
+/CNNW_20200314_040000_Anderson_Cooper_360-002790.jpg,set(),{'twitter'},{'twitter'}
+/CNNW_20210110_060000_CNN_Newsroom_Live-000693.jpg,set(),{'twitter'},{'twitter'}
+/CNNW_20210110_060000_CNN_Newsroom_Live-000706.jpg,set(),{'twitter'},{'twitter'}
+/CNNW_20210110_060000_CNN_Newsroom_Live-001215-001222.jpg,set(),{'parler'},{'parler'}
+/CNNW_20210110_060000_CNN_Newsroom_Live-001223-001225.jpg,set(),{'parler'},{'parler'}
+/CNNW_20210110_060000_CNN_Newsroom_Live-001269-001276.jpg,set(),{'parler'},{'parler'}
+/CNNW_20210110_060000_CNN_Newsroom_Live-001277.jpg,set(),{'facebook'},{'facebook'}
+/CNNW_20210110_060000_CNN_Newsroom_Live-001278-001281.jpg,set(),{'facebook'},{'facebook'}
+/CNNW_20210110_060000_CNN_Newsroom_Live-001758-001759.jpg,set(),{'instagram'},{'instagram'}
+/CNNW_20240201_040000_Laura_Coates_Live-001189-001194.jpg,set(),{'tiktok'},{'tiktok'}
+/CNNW_20240201_040000_Laura_Coates_Live-002729.jpg,set(),{'twitter (x)'},{'twitter (x)'}
+/CNNW_20240201_040000_Laura_Coates_Live-003532-003535.jpg,set(),{'tiktok'},{'tiktok'}
+/CNNW_20240201_040000_Laura_Coates_Live-003541.jpg,set(),{'tiktok'},{'tiktok'}

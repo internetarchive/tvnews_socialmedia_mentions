@@ -1,0 +1,103 @@
+filename,gold,predicted,false_positives
+/MSNBCW_20200314_030000_The_11th_Hour_With_Brian_Williams-000013.jpg,set(),{'twitter (x)'},{'twitter (x)'}
+/MSNBCW_20200314_030000_The_11th_Hour_With_Brian_Williams-001431.jpg,set(),{'twitter (x)'},{'twitter (x)'}
+/MSNBCW_20200314_030000_The_11th_Hour_With_Brian_Williams-001483-001484.jpg,set(),{'twitter (x)'},{'twitter (x)'}
+/MSNBCW_20200314_030000_The_11th_Hour_With_Brian_Williams-001832.jpg,set(),{'twitter (x)'},{'twitter (x)'}
+/MSNBCW_20200314_030000_The_11th_Hour_With_Brian_Williams-002043.jpg,set(),{'twitter (x)'},{'twitter (x)'}
+/MSNBCW_20200314_030000_The_11th_Hour_With_Brian_Williams-002448.jpg,set(),{'twitter (x)'},{'twitter (x)'}
+/MSNBCW_20200314_030000_The_11th_Hour_With_Brian_Williams-002591.jpg,set(),{'twitter (x)'},{'twitter (x)'}
+/MSNBCW_20200314_030000_The_11th_Hour_With_Brian_Williams-002895.jpg,set(),{'twitter (x)'},{'twitter (x)'}
+/MSNBCW_20200314_030000_The_11th_Hour_With_Brian_Williams-003016.jpg,set(),{'twitter (x)'},{'twitter (x)'}
+/MSNBCW_20200314_030000_The_11th_Hour_With_Brian_Williams-003044.jpg,set(),{'twitter (x)'},{'twitter (x)'}
+/MSNBCW_20200314_030000_The_11th_Hour_With_Brian_Williams-003076.jpg,set(),{'twitter (x)'},{'twitter (x)'}
+/MSNBCW_20200314_030000_The_11th_Hour_With_Brian_Williams-003297.jpg,set(),{'twitter (x)'},{'twitter (x)'}
+/MSNBCW_20200314_030000_The_11th_Hour_With_Brian_Williams-003508.jpg,set(),{'twitter (x)'},{'twitter (x)'}
+/MSNBCW_20200314_030000_The_11th_Hour_With_Brian_Williams-003615-003616.jpg,set(),{'twitter (x)'},{'twitter (x)'}
+/MSNBCW_20200314_040000_The_Rachel_Maddow_Show-000016.jpg,set(),{'twitter (x)'},{'twitter (x)'}
+/MSNBCW_20200314_040000_The_Rachel_Maddow_Show-001477.jpg,set(),{'twitter (x)'},{'twitter (x)'}
+/MSNBCW_20200314_040000_The_Rachel_Maddow_Show-002194.jpg,set(),{'twitter (x)'},{'twitter (x)'}
+/MSNBCW_20200314_040000_The_Rachel_Maddow_Show-002790.jpg,set(),{'instagram'},{'instagram'}
+/MSNBCW_20200314_040000_The_Rachel_Maddow_Show-002806.jpg,set(),{'twitter (x)'},{'twitter (x)'}
+/MSNBCW_20200314_040000_The_Rachel_Maddow_Show-003485.jpg,set(),{'twitter (x)'},{'twitter (x)'}
+/MSNBCW_20200314_040000_The_Rachel_Maddow_Show-003496.jpg,set(),{'twitter (x)'},{'twitter (x)'}
+/MSNBCW_20200314_050000_The_Last_Word_With_Lawrence_ODonnell-000016.jpg,set(),{'twitter (x)'},{'twitter (x)'}
+/MSNBCW_20200314_050000_The_Last_Word_With_Lawrence_ODonnell-000494.jpg,set(),{'facebook'},{'facebook'}
+/MSNBCW_20200314_050000_The_Last_Word_With_Lawrence_ODonnell-001238-001239.jpg,set(),{'twitter (x)'},{'twitter (x)'}
+/MSNBCW_20200314_050000_The_Last_Word_With_Lawrence_ODonnell-001420.jpg,set(),{'twitter (x)'},{'twitter (x)'}
+/MSNBCW_20200314_050000_The_Last_Word_With_Lawrence_ODonnell-001449.jpg,set(),{'twitter (x)'},{'twitter (x)'}
+/MSNBCW_20200314_050000_The_Last_Word_With_Lawrence_ODonnell-001480.jpg,set(),{'twitter (x)'},{'twitter (x)'}
+/MSNBCW_20200314_050000_The_Last_Word_With_Lawrence_ODonnell-002846.jpg,set(),{'twitter (x)'},{'twitter (x)'}
+/MSNBCW_20200314_050000_The_Last_Word_With_Lawrence_ODonnell-003423.jpg,set(),{'twitter (x)'},{'twitter (x)'}
+/MSNBCW_20200314_050000_The_Last_Word_With_Lawrence_ODonnell-003434.jpg,set(),{'facebook'},{'facebook'}
+/MSNBCW_20210110_040000_The_Week_With_Joshua_Johnson-001239.jpg,set(),{'twitter (x)'},{'twitter (x)'}
+/MSNBCW_20210110_040000_The_Week_With_Joshua_Johnson-001331.jpg,set(),{'twitter (x)'},{'twitter (x)'}
+/MSNBCW_20210110_040000_The_Week_With_Joshua_Johnson-001587.jpg,set(),{'snapchat'},{'snapchat'}
+/MSNBCW_20210110_040000_The_Week_With_Joshua_Johnson-001827.jpg,set(),{'twitter (x)'},{'twitter (x)'}
+/MSNBCW_20210110_040000_The_Week_With_Joshua_Johnson-002332.jpg,set(),{'twitter (x)'},{'twitter (x)'}
+/MSNBCW_20210110_040000_The_Week_With_Joshua_Johnson-002806.jpg,set(),{'twitter (x)'},{'twitter (x)'}
+/MSNBCW_20210110_040000_The_Week_With_Joshua_Johnson-003041-003042.jpg,set(),{'twitter'},{'twitter'}
+/MSNBCW_20210110_040000_The_Week_With_Joshua_Johnson-003043.jpg,set(),{'twitter'},{'twitter'}
+/MSNBCW_20210110_040000_The_Week_With_Joshua_Johnson-003167-003176.jpg,set(),{'twitter'},{'twitter'}
+/MSNBCW_20210110_040000_The_Week_With_Joshua_Johnson-003188-003226.jpg,set(),{'facebook'},{'facebook'}
+/MSNBCW_20210110_040000_The_Week_With_Joshua_Johnson-003311.jpg,set(),{'facebook'},{'facebook'}
+/MSNBCW_20210110_040000_The_Week_With_Joshua_Johnson-003557.jpg,set(),{'twitter'},{'twitter'}
+/MSNBCW_20210110_040000_The_Week_With_Joshua_Johnson-003616.jpg,set(),{'twitter (x)'},{'twitter (x)'}
+/MSNBCW_20210110_050000_The_Week_With_Joshua_Johnson-000016.jpg,set(),{'twitter (x)'},{'twitter (x)'}
+/MSNBCW_20210110_050000_The_Week_With_Joshua_Johnson-002350.jpg,set(),{'twitter (x)'},{'twitter (x)'}
+/MSNBCW_20210110_050000_The_Week_With_Joshua_Johnson-002531.jpg,set(),{'twitter (x)'},{'twitter (x)'}
+/MSNBCW_20210110_050000_The_Week_With_Joshua_Johnson-002884.jpg,set(),{'twitter (x)'},{'twitter (x)'}
+/MSNBCW_20210110_050000_The_Week_With_Joshua_Johnson-003125.jpg,set(),{'twitter (x)'},{'twitter (x)'}
+/MSNBCW_20220425_030000_The_Mehdi_Hasan_Show-000800-000801.jpg,set(),{'twitter (x)'},{'twitter (x)'}
+/MSNBCW_20220425_030000_The_Mehdi_Hasan_Show-001817-001818.jpg,set(),{'youtube'},{'youtube'}
+/MSNBCW_20220425_030000_The_Mehdi_Hasan_Show-001952.jpg,set(),{'twitter (x)'},{'twitter (x)'}
+/MSNBCW_20220425_030000_The_Mehdi_Hasan_Show-002887.jpg,set(),{'twitter (x)'},{'twitter (x)'}
+/MSNBCW_20220425_030000_The_Mehdi_Hasan_Show-003427.jpg,set(),{'twitter'},{'twitter'}
+/MSNBCW_20220425_040000_Ayman-000408-000409.jpg,set(),{'youtube'},{'youtube'}
+/MSNBCW_20220425_040000_Ayman-000410-000411.jpg,set(),{'youtube'},{'youtube'}
+/MSNBCW_20220425_040000_Ayman-000703.jpg,set(),{'twitter (x)'},{'twitter (x)'}
+/MSNBCW_20220425_040000_Ayman-000854.jpg,set(),{'twitter (x)'},{'twitter (x)'}
+/MSNBCW_20220425_040000_Ayman-000862-000863.jpg,set(),{'twitter (x)'},{'twitter (x)'}
+/MSNBCW_20220425_040000_Ayman-000864-000865.jpg,set(),{'twitter (x)'},{'twitter (x)'}
+/MSNBCW_20220425_040000_Ayman-000872.jpg,set(),{'twitter (x)'},{'twitter (x)'}
+/MSNBCW_20220425_040000_Ayman-000873.jpg,set(),{'twitter (x)'},{'twitter (x)'}
+/MSNBCW_20220425_040000_Ayman-000874.jpg,set(),{'twitter (x)'},{'twitter (x)'}
+/MSNBCW_20220425_040000_Ayman-000880.jpg,set(),{'twitter (x)'},{'twitter (x)'}
+/MSNBCW_20220425_040000_Ayman-000914.jpg,set(),{'twitter (x)'},{'twitter (x)'}
+/MSNBCW_20220425_040000_Ayman-001483.jpg,set(),{'twitter (x)'},{'twitter (x)'}
+/MSNBCW_20220425_040000_Ayman-002155.jpg,set(),{'facebook'},{'facebook'}
+/MSNBCW_20220425_040000_Ayman-002424.jpg,set(),{'twitter (x)'},{'twitter (x)'}
+/MSNBCW_20220425_040000_Ayman-002686-002695.jpg,set(),{'zoom'},{'zoom'}
+/MSNBCW_20220425_040000_Ayman-003128.jpg,set(),{'twitter (x)'},{'twitter (x)'}
+/MSNBCW_20230122_040600_American_Voices_With_Alicia_Menendez-000046.jpg,set(),{'twitter (x)'},{'twitter (x)'}
+/MSNBCW_20230122_040600_American_Voices_With_Alicia_Menendez-000392-000396.jpg,set(),{'instagram'},{'instagram'}
+/MSNBCW_20230122_040600_American_Voices_With_Alicia_Menendez-002919.jpg,set(),{'discord'},{'discord'}
+/MSNBCW_20230122_040600_American_Voices_With_Alicia_Menendez-003265.jpg,set(),{'pinterest'},{'pinterest'}
+/MSNBCW_20230122_040600_American_Voices_With_Alicia_Menendez-003273.jpg,set(),{'facebook'},{'facebook'}
+/MSNBCW_20230122_040600_American_Voices_With_Alicia_Menendez-003274-003275.jpg,set(),{'facebook'},{'facebook'}
+/MSNBCW_20230122_040600_American_Voices_With_Alicia_Menendez-003276-003278.jpg,set(),{'facebook'},{'facebook'}
+/MSNBCW_20230122_050000_Ayman-000025.jpg,set(),"{'instagram', 'whatsapp'}","{'instagram', 'whatsapp'}"
+/MSNBCW_20230122_050000_Ayman-000033.jpg,set(),{'facebook'},{'facebook'}
+/MSNBCW_20230122_050000_Ayman-000034-000038.jpg,set(),{'facebook'},{'facebook'}
+/MSNBCW_20230122_050000_Ayman-000047.jpg,set(),{'twitter (x)'},{'twitter (x)'}
+/MSNBCW_20230122_050000_Ayman-001154.jpg,set(),{'twitter (x)'},{'twitter (x)'}
+/MSNBCW_20230122_050000_Ayman-001914-001915.jpg,set(),{'twitter (x)'},{'twitter (x)'}
+/MSNBCW_20230122_050000_Ayman-002424.jpg,set(),{'twitter (x)'},{'twitter (x)'}
+/MSNBCW_20230122_050000_Ayman-002536.jpg,set(),{'pinterest'},{'pinterest'}
+/MSNBCW_20230122_050000_Ayman-002605.jpg,set(),{'twitter (x)'},{'twitter (x)'}
+/MSNBCW_20230122_050000_Ayman-002949.jpg,set(),{'facebook'},{'facebook'}
+/MSNBCW_20230122_050000_Ayman-002993.jpg,set(),{'twitter (x)'},{'twitter (x)'}
+/MSNBCW_20230122_050000_Ayman-003587.jpg,set(),{'twitter (x)'},{'twitter (x)'}
+/MSNBCW_20230122_050000_Ayman-003625.jpg,set(),{'instagram'},{'instagram'}
+/MSNBCW_20230122_050000_Ayman-003634-003638.jpg,set(),{'facebook'},{'facebook'}
+/MSNBCW_20240201_040000_The_11th_Hour_With_Stephanie_Ruhle-000032-000033.jpg,set(),{'twitter (x)'},{'twitter (x)'}
+/MSNBCW_20240201_040000_The_11th_Hour_With_Stephanie_Ruhle-001205.jpg,set(),{'twitter (x)'},{'twitter (x)'}
+/MSNBCW_20240201_040000_The_11th_Hour_With_Stephanie_Ruhle-001216.jpg,set(),{'twitter (x)'},{'twitter (x)'}
+/MSNBCW_20240201_040000_The_11th_Hour_With_Stephanie_Ruhle-001220.jpg,set(),{'twitter (x)'},{'twitter (x)'}
+/MSNBCW_20240201_040000_The_11th_Hour_With_Stephanie_Ruhle-001264-001265.jpg,set(),{'twitter (x)'},{'twitter (x)'}
+/MSNBCW_20240201_040000_The_11th_Hour_With_Stephanie_Ruhle-001266-001267.jpg,"{'facebook', 'tiktok', 'threads', 'instagram', 'twitter (x)', 'youtube'}","{'facebook', 'tiktok', 'threads', 'instagram', 'twitter (x)', 'messenger', 'whatsapp', 'youtube'}","{'whatsapp', 'messenger'}"
+/MSNBCW_20240201_040000_The_11th_Hour_With_Stephanie_Ruhle-001268.jpg,"{'facebook', 'tiktok', 'threads', 'instagram', 'twitter (x)', 'youtube'}","{'facebook', 'tiktok', 'threads', 'instagram', 'twitter (x)', 'messenger', 'whatsapp', 'youtube'}","{'whatsapp', 'messenger'}"
+/MSNBCW_20240201_040000_The_11th_Hour_With_Stephanie_Ruhle-002326-002327.jpg,set(),{'twitter (x)'},{'twitter (x)'}
+/MSNBCW_20240201_040000_The_11th_Hour_With_Stephanie_Ruhle-003013-003014.jpg,set(),{'twitter (x)'},{'twitter (x)'}
+/MSNBCW_20240201_060000_The_Last_Word_With_Lawrence_ODonnell-001365.jpg,set(),{'twitter (x)'},{'twitter (x)'}
+/MSNBCW_20240201_060000_The_Last_Word_With_Lawrence_ODonnell-001392.jpg,set(),{'twitter (x)'},{'twitter (x)'}
+/MSNBCW_20240201_060000_The_Last_Word_With_Lawrence_ODonnell-002551-002565.jpg,set(),{'youtube'},{'youtube'}
