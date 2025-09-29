@@ -1,0 +1,8 @@
+filename,gold,predicted,false_negatives
+/CNNW_20200314_030000_CNN_Tonight_With_Don_Lemon-000136-000141.jpg,{'twitter'},set(),{'twitter'}
+/CNNW_20220425_050000_CNN_Newsroom_Live-000481-000494.jpg,{'twitter'},set(),{'twitter'}
+/CNNW_20220425_050000_CNN_Newsroom_Live-000496-000508.jpg,{'twitter'},set(),{'twitter'}
+/CNNW_20220425_050000_CNN_Newsroom_Live-000510.jpg,{'twitter'},set(),{'twitter'}
+/CNNW_20220425_050000_CNN_Newsroom_Live-000511-000523.jpg,{'twitter'},set(),{'twitter'}
+/CNNW_20240201_050000_Anderson_Cooper_360-002763-002767.jpg,{'youtube'},set(),{'youtube'}
+/CNNW_20240201_060000_The_Source_With_Kaitlan_Collins-003476-003479.jpg,{'twitter (x)'},set(),{'twitter (x)'}

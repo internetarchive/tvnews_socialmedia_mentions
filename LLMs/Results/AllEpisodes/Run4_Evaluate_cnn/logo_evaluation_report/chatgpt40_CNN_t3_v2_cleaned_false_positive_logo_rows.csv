@@ -1,0 +1,50 @@
+filename,gold,predicted,false_positives
+/CNNW_20200314_030000_CNN_Tonight_With_Don_Lemon-003024.jpg,set(),{'twitter (x)'},{'twitter (x)'}
+/CNNW_20200314_030000_CNN_Tonight_With_Don_Lemon-003522.jpg,set(),{'twitter (x)'},{'twitter (x)'}
+/CNNW_20200314_030000_CNN_Tonight_With_Don_Lemon-003530.jpg,set(),{'twitter (x)'},{'twitter (x)'}
+/CNNW_20200314_030000_CNN_Tonight_With_Don_Lemon-003541.jpg,set(),{'twitter (x)'},{'twitter (x)'}
+/CNNW_20200314_030000_CNN_Tonight_With_Don_Lemon-003542.jpg,set(),{'twitter (x)'},{'twitter (x)'}
+/CNNW_20200314_030000_CNN_Tonight_With_Don_Lemon-003543.jpg,set(),{'twitter (x)'},{'twitter (x)'}
+/CNNW_20200314_030000_CNN_Tonight_With_Don_Lemon-003547.jpg,set(),{'twitter (x)'},{'twitter (x)'}
+/CNNW_20210110_050000_CNN_Newsroom_Live-002703.jpg,set(),{'meta'},{'meta'}
+/CNNW_20210110_060000_CNN_Newsroom_Live-001223-001225.jpg,set(),{'parler'},{'parler'}
+/CNNW_20210110_060000_CNN_Newsroom_Live-002330.jpg,set(),{'twitter (x)'},{'twitter (x)'}
+/CNNW_20210110_060000_CNN_Newsroom_Live-002335.jpg,set(),{'twitter (x)'},{'twitter (x)'}
+/CNNW_20220425_050000_CNN_Newsroom_Live-001003.jpg,set(),{'twitter (x)'},{'twitter (x)'}
+/CNNW_20220425_050000_CNN_Newsroom_Live-001066-001067.jpg,set(),{'rumble'},{'rumble'}
+/CNNW_20220425_050000_CNN_Newsroom_Live-001088.jpg,set(),{'rumble'},{'rumble'}
+/CNNW_20220425_050000_CNN_Newsroom_Live-001213.jpg,set(),{'twitter (x)'},{'twitter (x)'}
+/CNNW_20220425_050000_CNN_Newsroom_Live-001748.jpg,set(),{'twitter (x)'},{'twitter (x)'}
+/CNNW_20220425_050000_CNN_Newsroom_Live-001755.jpg,set(),{'twitter (x)'},{'twitter (x)'}
+/CNNW_20220425_050000_CNN_Newsroom_Live-001774.jpg,set(),{'twitter (x)'},{'twitter (x)'}
+/CNNW_20220425_050000_CNN_Newsroom_Live-001805.jpg,set(),{'twitter (x)'},{'twitter (x)'}
+/CNNW_20220425_050000_CNN_Newsroom_Live-001808.jpg,set(),{'twitter (x)'},{'twitter (x)'}
+/CNNW_20220425_050000_CNN_Newsroom_Live-002557-002558.jpg,set(),{'rumble'},{'rumble'}
+/CNNW_20220425_050000_CNN_Newsroom_Live-002578.jpg,set(),{'rumble'},{'rumble'}
+/CNNW_20220425_050000_CNN_Newsroom_Live-002579.jpg,set(),{'rumble'},{'rumble'}
+/CNNW_20220425_050000_CNN_Newsroom_Live-003275-003276.jpg,set(),"{'instagram', 'twitter', 'facebook'}","{'instagram', 'twitter', 'facebook'}"
+/CNNW_20220425_050000_CNN_Newsroom_Live-003505-003506.jpg,set(),{'rumble'},{'rumble'}
+/CNNW_20220425_050000_CNN_Newsroom_Live-003507.jpg,set(),{'youtube'},{'youtube'}
+/CNNW_20220425_050000_CNN_Newsroom_Live-003527.jpg,set(),{'rumble'},{'rumble'}
+/CNNW_20220425_050000_CNN_Newsroom_Live-003602.jpg,set(),{'twitter (x)'},{'twitter (x)'}
+/CNNW_20220425_050000_CNN_Newsroom_Live-003608.jpg,set(),{'twitter (x)'},{'twitter (x)'}
+/CNNW_20240201_040000_Laura_Coates_Live-001169.jpg,set(),{'twitter (x)'},{'twitter (x)'}
+/CNNW_20240201_040000_Laura_Coates_Live-001173.jpg,set(),{'tiktok'},{'tiktok'}
+/CNNW_20240201_040000_Laura_Coates_Live-001189-001194.jpg,set(),{'tiktok'},{'tiktok'}
+/CNNW_20240201_040000_Laura_Coates_Live-001998.jpg,set(),{'twitter (x)'},{'twitter (x)'}
+/CNNW_20240201_040000_Laura_Coates_Live-002142.jpg,set(),{'facebook'},{'facebook'}
+/CNNW_20240201_040000_Laura_Coates_Live-002410-002412.jpg,set(),{'facebook'},{'facebook'}
+/CNNW_20240201_040000_Laura_Coates_Live-003532-003535.jpg,set(),{'tiktok'},{'tiktok'}
+/CNNW_20240201_040000_Laura_Coates_Live-003541.jpg,set(),{'tiktok'},{'tiktok'}
+/CNNW_20240201_050000_Anderson_Cooper_360-001838.jpg,set(),{'snapchat'},{'snapchat'}
+/CNNW_20240201_050000_Anderson_Cooper_360-001923.jpg,set(),{'twitter (x)'},{'twitter (x)'}
+/CNNW_20240201_050000_Anderson_Cooper_360-002455-002464.jpg,set(),{'youtube'},{'youtube'}
+/CNNW_20240201_050000_Anderson_Cooper_360-002684.jpg,set(),{'twitter (x)'},{'twitter (x)'}
+/CNNW_20240201_050000_Anderson_Cooper_360-002686.jpg,set(),{'youtube'},{'youtube'}
+/CNNW_20240201_050000_Anderson_Cooper_360-002687-002692.jpg,set(),{'youtube'},{'youtube'}
+/CNNW_20240201_050000_Anderson_Cooper_360-002779.jpg,set(),{'youtube'},{'youtube'}
+/CNNW_20240201_050000_Anderson_Cooper_360-002782-002784.jpg,set(),{'youtube'},{'youtube'}
+/CNNW_20240201_050000_Anderson_Cooper_360-002824-002832.jpg,set(),{'youtube'},{'youtube'}
+/CNNW_20240201_060000_The_Source_With_Kaitlan_Collins-001293.jpg,set(),{'twitter (x)'},{'twitter (x)'}
+/CNNW_20240201_060000_The_Source_With_Kaitlan_Collins-002168.jpg,set(),{'facebook'},{'facebook'}
+/CNNW_20240201_060000_The_Source_With_Kaitlan_Collins-002246.jpg,set(),{'twitter'},{'twitter'}
