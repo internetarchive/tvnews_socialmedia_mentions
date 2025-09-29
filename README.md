@@ -2,7 +2,7 @@
 By: Himarsha R. Jayanetti  
 Last update: September 28, 2025
 
-[Detailed Report](https://ws-dl.blogspot.com/2025/09/2025-09-29-summer-project-as-google.html)
+More: [Blog post](https://ws-dl.blogspot.com/2025/09/2025-09-29-summer-project-as-google.html)
 
 ## Problem
 
